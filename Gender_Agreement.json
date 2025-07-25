@@ -1,0 +1,6004 @@
+[
+  {
+    "id": 30001,
+    "incorrect": "ती जेवला.",
+    "correct": "ती जेवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30002,
+    "incorrect": "तो शाळेत गेली.",
+    "correct": "तो शाळेत गेला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30003,
+    "incorrect": "माझा आई स्वयंपाक करतो.",
+    "correct": "माझी आई स्वयंपाक करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30004,
+    "incorrect": "नेहाने निळा फ्रॉक घातली.",
+    "correct": "नेहाने निळा फ्रॉक घातला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30005,
+    "incorrect": "त्याचा बहीण खूप हुशार आहे.",
+    "correct": "त्याची बहीण खूप हुशार आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30006,
+    "incorrect": "माझे वडील ऑफिसला गेली.",
+    "correct": "माझे वडील ऑफिसला गेले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30007,
+    "incorrect": "ती मुलगा छान गाणे म्हणते.",
+    "correct": "तो मुलगा छान गाणे म्हणतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30008,
+    "incorrect": "सुप्रिया सायकल चालवतो.",
+    "correct": "सुप्रिया सायकल चालवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30009,
+    "incorrect": "रमेशने एक मोठी गाडी विकत घेतली.",
+    "correct": "रमेशने एक मोठी गाडी विकत घेतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30010,
+    "incorrect": "ही माझा नवीन वही आहे.",
+    "correct": "ही माझी नवीन वही आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30011,
+    "incorrect": "तो सोफ्यावर बसली होती.",
+    "correct": "तो सोफ्यावर बसला होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30012,
+    "incorrect": "माधुरी रोज बागेत फिरायला जातो.",
+    "correct": "माधुरी रोज बागेत फिरायला जाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30013,
+    "incorrect": "माझा काका एक चांगला शिक्षिका आहे.",
+    "correct": "माझे काका एक चांगले शिक्षक आहेत.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30014,
+    "incorrect": "त्याची मैत्रीण त्याला भेटायला आला.",
+    "correct": "त्याची मैत्रीण त्याला भेटायला आली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30015,
+    "incorrect": "सविताने पिवळा साडी नेसली.",
+    "correct": "सविताने पिवळी साडी नेसली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30016,
+    "incorrect": "तो मुलगी खूप अभ्यास करते.",
+    "correct": "ती मुलगी खूप अभ्यास करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30017,
+    "incorrect": "अजय बाजारातून भाजी घेऊन आली.",
+    "correct": "अजय बाजारातून भाजी घेऊन आला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30018,
+    "incorrect": "माझी भाऊ क्रिकेट खेळत होती.",
+    "correct": "माझा भाऊ क्रिकेट खेळत होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30019,
+    "incorrect": "ती सुंदर चित्र काढतो.",
+    "correct": "ती सुंदर चित्र काढते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30020,
+    "incorrect": "तो काम पूर्ण केला नाही.",
+    "correct": "त्याने काम पूर्ण केले नाही.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30021,
+    "incorrect": "पूजा कॉलेजला जात होता.",
+    "correct": "पूजा कॉलेजला जात होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30022,
+    "incorrect": "त्याचा छोटी बहीण आजारी आहे.",
+    "correct": "त्याची छोटी बहीण आजारी आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30023,
+    "incorrect": "समीरने नवी शर्ट घातली.",
+    "correct": "समीरने नवा शर्ट घातला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30024,
+    "incorrect": "माझी आजोबा गोष्ट सांगत होती.",
+    "correct": "माझे आजोबा गोष्ट सांगत होते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30025,
+    "incorrect": "ती ऑफिसमधून लवकर निघाला.",
+    "correct": "ती ऑफिसमधून लवकर निघाली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30026,
+    "incorrect": "तो खूप छान गाणे गायली.",
+    "correct": "त्याने खूप छान गाणे गायले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30027,
+    "incorrect": "माझा आजी देवपूजा करतो.",
+    "correct": "माझी आजी देवपूजा करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30028,
+    "incorrect": "प्रियाने काळा पर्स विकत घेतला.",
+    "correct": "प्रियाने काळी पर्स विकत घेतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30029,
+    "incorrect": "तो माणूस खूप दयाळू होती.",
+    "correct": "तो माणूस खूप दयाळू होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30030,
+    "incorrect": "ती तिच्या मैत्रिणीला भेटायला गेला.",
+    "correct": "ती तिच्या मैत्रिणीला भेटायला गेली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30031,
+    "incorrect": "राधाने सुंदर रांगोळी काढला.",
+    "correct": "राधाने सुंदर रांगोळी काढली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30032,
+    "incorrect": "तुझा मैत्रीण कुठे राहतो?",
+    "correct": "तुझी मैत्रीण कुठे राहते?",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30033,
+    "incorrect": "तो नेहमी खरे बोलली.",
+    "correct": "तो नेहमी खरे बोलला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30034,
+    "incorrect": "ही गाडी खूप जुनी झाली आहे.",
+    "correct": "ही गाडी खूप जुनी झाली आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30035,
+    "incorrect": "शिक्षिका मुलांना शिकवत होता.",
+    "correct": "शिक्षिका मुलांना शिकवत होत्या.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30036,
+    "incorrect": "बाबांनी मला नवीन सायकल आणली.",
+    "correct": "बाबांनी मला नवीन सायकल आणली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30037,
+    "incorrect": "ती मुलगा धावण्याच्या शर्यतीत पहिला आला.",
+    "correct": "तो मुलगा धावण्याच्या शर्यतीत पहिला आला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30038,
+    "incorrect": "माझी काकी छान स्वयंपाक बनवतो.",
+    "correct": "माझी काकी छान स्वयंपाक बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30039,
+    "incorrect": "तो परीक्षेत पास झाली.",
+    "correct": "तो परीक्षेत पास झाला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30040,
+    "incorrect": "मीनलने तिचा गृहपाठ पूर्ण केली.",
+    "correct": "मीनलने तिचा गृहपाठ पूर्ण केला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30041,
+    "incorrect": "त्याचा आई डॉक्टर आहे.",
+    "correct": "त्याची आई डॉक्टर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30042,
+    "incorrect": "ती स्वयंपाक घरात काम करत होता.",
+    "correct": "ती स्वयंपाक घरात काम करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30043,
+    "incorrect": "हा माझा आवडता साडी आहे.",
+    "correct": "ही माझी आवडती साडी आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30044,
+    "incorrect": "राजेश सिनेमा बघायला गेली.",
+    "correct": "राजेश सिनेमा बघायला गेला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30045,
+    "incorrect": "ती बाई रांगेत उभा होता.",
+    "correct": "ती बाई रांगेत उभी होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30046,
+    "incorrect": "तिचा नवरा खूप चांगला आहे.",
+    "correct": "तिचा नवरा खूप चांगला आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30047,
+    "incorrect": "आमची शिक्षिका आम्हाला नवीन धडा शिकवला.",
+    "correct": "आमच्या शिक्षिकेने आम्हाला नवीन धडा शिकवला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30048,
+    "incorrect": "तो मुलगी खूप हुशार बोलतो.",
+    "correct": "ती मुलगी खूप हुशार बोलते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30049,
+    "incorrect": "आईने पांढरा रंगाचा ड्रेस घेतला.",
+    "correct": "आईने पांढऱ्या रंगाचा ड्रेस घेतला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30050,
+    "incorrect": "माझा बहीण मुंबईला राहत होती.",
+    "correct": "माझी बहीण मुंबईला राहत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30051,
+    "incorrect": "तो कामावरून उशिरा आली.",
+    "correct": "तो कामावरून उशिरा आला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30052,
+    "incorrect": "गीताने अभ्यास केला नाही, म्हणून ती नापास झाला.",
+    "correct": "गीताने अभ्यास केला नाही, म्हणून ती नापास झाली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30053,
+    "incorrect": "हा माझा मोठी मुलगी आहे.",
+    "correct": "ही माझी मोठी मुलगी आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30054,
+    "incorrect": "तो सकाळी लवकर उठली.",
+    "correct": "तो सकाळी लवकर उठला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30055,
+    "incorrect": "स्मिताने हिरवा रंगाची ओढणी घेतली.",
+    "correct": "स्मिताने हिरव्या रंगाची ओढणी घेतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30056,
+    "incorrect": "माझा मित्र मला भेटायला आला होता.",
+    "correct": "माझा मित्र मला भेटायला आला होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30057,
+    "incorrect": "ती मुलगी सुंदर दिसत होता.",
+    "correct": "ती मुलगी सुंदर दिसत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30058,
+    "incorrect": "त्याचा बायको शिक्षिका आहे.",
+    "correct": "त्याची बायको शिक्षिका आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30059,
+    "incorrect": "शेतकरी शेतात काम करत होती.",
+    "correct": "शेतकरी शेतात काम करत होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30060,
+    "incorrect": "ती खिडकीतून बाहेर बघत होता.",
+    "correct": "ती खिडकीतून बाहेर बघत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30061,
+    "incorrect": "माझा गाडी खराब झाली आहे.",
+    "correct": "माझी गाडी खराब झाली आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30062,
+    "incorrect": "तो रोज संध्याकाळी खेळायला गेली.",
+    "correct": "तो रोज संध्याकाळी खेळायला गेला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30063,
+    "incorrect": "माधवीने तिची पुस्तक हरवला.",
+    "correct": "माधवीचे पुस्तक हरवले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30064,
+    "incorrect": "तो जेवण बनवत होती.",
+    "correct": "तो जेवण बनवत होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30065,
+    "incorrect": "रीमा आणि तिची बहीण बाजारात गेला.",
+    "correct": "रीमा आणि तिची बहीण बाजारात गेल्या.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30066,
+    "incorrect": "हा माझा छोटा भाऊ आहे.",
+    "correct": "हा माझा छोटा भाऊ आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30067,
+    "incorrect": "ती अचानक रडायला लागला.",
+    "correct": "ती अचानक रडायला लागली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30068,
+    "incorrect": "पोलीस चोरला पकडत होती.",
+    "correct": "पोलीस चोराला पकडत होते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30069,
+    "incorrect": "त्याचा मुलगी डॉक्टर बनली.",
+    "correct": "त्याची मुलगी डॉक्टर बनली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30070,
+    "incorrect": "तो मुलगी खूप जोरात धावला.",
+    "correct": "ती मुलगी खूप जोरात धावली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30071,
+    "incorrect": "आईने मला नवीन चप्पल आणला.",
+    "correct": "आईने मला नवीन चप्पल आणली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30072,
+    "incorrect": "माझी वडील एक प्रामाणिक माणूस आहे.",
+    "correct": "माझे वडील एक प्रामाणिक माणूस आहेत.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30073,
+    "incorrect": "ती गाणे ऐकत होता.",
+    "correct": "ती गाणे ऐकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30074,
+    "incorrect": "प्रसादने त्याची गाडी धुतला.",
+    "correct": "प्रसादने त्याची गाडी धुतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30075,
+    "incorrect": "ती खुर्चीवर बसला होता.",
+    "correct": "ती खुर्चीवर बसली होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30076,
+    "incorrect": "तो मुलगी शाळेत जात नाही.",
+    "correct": "ती मुलगी शाळेत जात नाही.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30077,
+    "incorrect": "माझा मैत्रीण खूप छान दिसते.",
+    "correct": "माझी मैत्रीण खूप छान दिसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30078,
+    "incorrect": "तो झाडाखाली उभा होती.",
+    "correct": "तो झाडाखाली उभा होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30079,
+    "incorrect": "कविताने लाल रंगाचा फ्रॉक घातला.",
+    "correct": "कविताने लाल रंगाचा फ्रॉक घातला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30080,
+    "incorrect": "माझी भाऊ खूप अभ्यास करतो.",
+    "correct": "माझा भाऊ खूप अभ्यास करतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30081,
+    "incorrect": "ती गाडी चालवायला शिकत होता.",
+    "correct": "ती गाडी चालवायला शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30082,
+    "incorrect": "तो मुलगी माझ्यासोबत बोलला नाही.",
+    "correct": "ती मुलगी माझ्यासोबत बोलली नाही.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30083,
+    "incorrect": "त्याचा आई त्याला ओरडली.",
+    "correct": "त्याची आई त्याला ओरडली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30084,
+    "incorrect": "तो रात्री उशिरा घरी आली.",
+    "correct": "तो रात्री उशिरा घरी आला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30085,
+    "incorrect": "माझा बहीण छान रांगोळी काढतो.",
+    "correct": "माझी बहीण छान रांगोळी काढते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30086,
+    "incorrect": "ती दरवाजा उघडला.",
+    "correct": "तिने दरवाजा उघडला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30087,
+    "incorrect": "हा माझा आवडती चित्रपट आहे.",
+    "correct": "हा माझा आवडता चित्रपट आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30088,
+    "incorrect": "तो तिच्या मित्रांसोबत खेळत होती.",
+    "correct": "तो त्याच्या मित्रांसोबत खेळत होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30089,
+    "incorrect": "माधुरीने तिची मैत्रीणला बोलावले.",
+    "correct": "माधुरीने तिच्या मैत्रिणीला बोलावले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30090,
+    "incorrect": "तो मुलगी खूप चंचल आहे.",
+    "correct": "ती मुलगी खूप चंचल आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30091,
+    "incorrect": "माझी आजोबा रोज फिरायला जाते.",
+    "correct": "माझे आजोबा रोज फिरायला जातात.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30092,
+    "incorrect": "ती अभ्यास करत होता.",
+    "correct": "ती अभ्यास करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30093,
+    "incorrect": "त्याचा गाडी रस्त्यात बंद पडला.",
+    "correct": "त्याची गाडी रस्त्यात बंद पडली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30094,
+    "incorrect": "तो खूप आजारी होती.",
+    "correct": "तो खूप आजारी होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30095,
+    "incorrect": "निशाने काळा ड्रेस घातला होता.",
+    "correct": "निशाने काळा ड्रेस घातला होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30096,
+    "incorrect": "माझी वडील बँकेत काम करते.",
+    "correct": "माझे वडील बँकेत काम करतात.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30097,
+    "incorrect": "ती मुलगी हळू चालतो.",
+    "correct": "ती मुलगी हळू चालते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30098,
+    "incorrect": "तो कामात व्यस्त होती.",
+    "correct": "तो कामात व्यस्त होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30099,
+    "incorrect": "आईने मला एक छान गोष्ट सांगितला.",
+    "correct": "आईने मला एक छान गोष्ट सांगितली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30100,
+    "incorrect": "त्याचा नवा गाडी खूप छान दिसते.",
+    "correct": "त्याची नवी गाडी खूप छान दिसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30101,
+    "incorrect": "तो रागाने निघून गेली.",
+    "correct": "तो रागाने निघून गेला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30102,
+    "incorrect": "माझा काकी डॉक्टर आहे.",
+    "correct": "माझी काकी डॉक्टर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30103,
+    "incorrect": "ती रोज मंदिरात जातो.",
+    "correct": "ती रोज मंदिरात जाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30104,
+    "incorrect": "हा माझा धाकटी बहीण आहे.",
+    "correct": "ही माझी धाकटी बहीण आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30105,
+    "incorrect": "तो मुलगी खूप रडली.",
+    "correct": "ती मुलगी खूप रडली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30106,
+    "incorrect": "माझी भाऊ मला मदत करत होती.",
+    "correct": "माझा भाऊ मला मदत करत होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30107,
+    "incorrect": "ती चांगली स्वयंपाक बनवतो.",
+    "correct": "ती चांगला स्वयंपाक बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30108,
+    "incorrect": "अमितने त्याची पुस्तक वाचली.",
+    "correct": "अमितने त्याचे पुस्तक वाचले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30109,
+    "incorrect": "ती आज खूप आनंदी दिसत होता.",
+    "correct": "ती आज खूप आनंदी दिसत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30110,
+    "incorrect": "त्याचा शाळा घरापासून लांब आहे.",
+    "correct": "त्याची शाळा घरापासून लांब आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30111,
+    "incorrect": "तो मुलगी गप्प बसला.",
+    "correct": "ती मुलगी गप्प बसली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30112,
+    "incorrect": "माझी आजी छान गाणी म्हणतो.",
+    "correct": "माझी आजी छान गाणी म्हणते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30113,
+    "incorrect": "तो टीव्ही बघत होती.",
+    "correct": "तो टीव्ही बघत होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30114,
+    "incorrect": "आईने पांढरा साडी नेसली.",
+    "correct": "आईने पांढरी साडी नेसली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30115,
+    "incorrect": "तो मुलगी खूप उंच आहे.",
+    "correct": "ती मुलगी खूप उंच आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30116,
+    "incorrect": "ती अचानक हसायला लागला.",
+    "correct": "ती अचानक हसायला लागली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30117,
+    "incorrect": "माझा आई बाजारात जात होता.",
+    "correct": "माझी आई बाजारात जात होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30118,
+    "incorrect": "तो अभ्यास करत नाही.",
+    "correct": "तो अभ्यास करत नाही.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30119,
+    "incorrect": "त्याची पेन हरवली.",
+    "correct": "त्याचा पेन हरवला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30120,
+    "incorrect": "ती मुलगा माझ्याकडे बघत होता.",
+    "correct": "तो मुलगा माझ्याकडे बघत होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30121,
+    "incorrect": "संगीताने तिची आईला फोन केला.",
+    "correct": "संगीताने तिच्या आईला फोन केला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30122,
+    "incorrect": "तो मुलगी चांगली नाही.",
+    "correct": "ती मुलगी चांगली नाही.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30123,
+    "incorrect": "माझा ताई कॉलेजला गेला.",
+    "correct": "माझी ताई कॉलेजला गेली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30124,
+    "incorrect": "ती खूप विचार करत होता.",
+    "correct": "ती खूप विचार करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30125,
+    "incorrect": "हा माझा आवडती शर्ट आहे.",
+    "correct": "हा माझा आवडता शर्ट आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30126,
+    "incorrect": "तो मुलगी माझ्याशी बोलत नाही.",
+    "correct": "ती मुलगी माझ्याशी बोलत नाही.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30127,
+    "incorrect": "माझा सायकल पंक्चर झाला.",
+    "correct": "माझी सायकल पंक्चर झाली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30128,
+    "incorrect": "तो झाडावर चढली.",
+    "correct": "तो झाडावर चढला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30129,
+    "incorrect": "त्याची आई खूप प्रेमळ आहे.",
+    "correct": "त्याची आई खूप प्रेमळ आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30130,
+    "incorrect": "ती छान नृत्य करतो.",
+    "correct": "ती छान नृत्य करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30131,
+    "incorrect": "बाबांनी मला एक मोठी चॉकलेट दिली.",
+    "correct": "बाबांनी मला एक मोठे चॉकलेट दिले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30132,
+    "incorrect": "तो मुलगी खूप हसतो.",
+    "correct": "ती मुलगी खूप हसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30133,
+    "incorrect": "माझा शाळा उद्या बंद आहे.",
+    "correct": "माझी शाळा उद्या बंद आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30134,
+    "incorrect": "ती चहा पीत होता.",
+    "correct": "ती चहा पीत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30135,
+    "incorrect": "त्याचा मोठा बहीण डॉक्टर आहे.",
+    "correct": "त्याची मोठी बहीण डॉक्टर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30136,
+    "incorrect": "तो मुलगी खूप बोलते.",
+    "correct": "ती मुलगी खूप बोलते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30137,
+    "incorrect": "सीमा रोज व्यायाम करतो.",
+    "correct": "सीमा रोज व्यायाम करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30138,
+    "incorrect": "माझी भाऊ अमेरिकेत शिकत होती.",
+    "correct": "माझा भाऊ अमेरिकेत शिकत होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30139,
+    "incorrect": "ती पत्र लिहित होता.",
+    "correct": "ती पत्र लिहित होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30140,
+    "incorrect": "हा माझा आवडती खेळ आहे.",
+    "correct": "हा माझा आवडता खेळ आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30141,
+    "incorrect": "तो मुलगी छान दिसते.",
+    "correct": "ती मुलगी छान दिसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30142,
+    "incorrect": "माझा चप्पल तुटला.",
+    "correct": "माझी चप्पल तुटली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30143,
+    "incorrect": "तो रात्रभर जागी होती.",
+    "correct": "तो रात्रभर जागा होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30144,
+    "incorrect": "तिची भाऊ खूप चांगला आहे.",
+    "correct": "तिचा भाऊ खूप चांगला आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30145,
+    "incorrect": "ती स्वयंपाक शिकत होता.",
+    "correct": "ती स्वयंपाक शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30146,
+    "incorrect": "तो मुलगी मला ओळखत नाही.",
+    "correct": "ती मुलगी मला ओळखत नाही.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30147,
+    "incorrect": "माझी काका शेती करतो.",
+    "correct": "माझे काका शेती करतात.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30148,
+    "incorrect": "ती पुस्तक वाचत होता.",
+    "correct": "ती पुस्तक वाचत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30149,
+    "incorrect": "त्याचा नवी सायकल छान आहे.",
+    "correct": "त्याची नवी सायकल छान आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30150,
+    "incorrect": "सुनिताने पांढरा साडी घातली.",
+    "correct": "सुनिताने पांढरी साडी घातली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30151,
+    "incorrect": "तो मुलगी मला आवडत नाही.",
+    "correct": "ती मुलगी मला आवडत नाही.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30152,
+    "incorrect": "माझा आजी रोज देवाची पूजा करतो.",
+    "correct": "माझी आजी रोज देवाची पूजा करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30153,
+    "incorrect": "ती झाडाखाली बसला होता.",
+    "correct": "ती झाडाखाली बसली होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30154,
+    "incorrect": "त्याचा लहान बहीण खूप गोड आहे.",
+    "correct": "त्याची लहान बहीण खूप गोड आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30155,
+    "incorrect": "तो मुलगी खूप घाबरली.",
+    "correct": "ती मुलगी खूप घाबरली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30156,
+    "incorrect": "गाय गवत खात होती.",
+    "correct": "गाय गवत खात होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30157,
+    "incorrect": "ती वेळेवर जेवत नाही.",
+    "correct": "ती वेळेवर जेवत नाही.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30158,
+    "incorrect": "हा माझा आवडती अभिनेत्री आहे.",
+    "correct": "ही माझी आवडती अभिनेत्री आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30159,
+    "incorrect": "तो मुलगी शांत बसत नाही.",
+    "correct": "ती मुलगी शांत बसत नाही.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30160,
+    "incorrect": "माझा मैत्रीण गावाला गेली.",
+    "correct": "माझी मैत्रीण गावाला गेली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30161,
+    "incorrect": "ती सिनेमा बघायला गेला.",
+    "correct": "ती सिनेमा बघायला गेली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30162,
+    "incorrect": "त्याची वही माझ्याकडे आहे.",
+    "correct": "त्याची वही माझ्याकडे आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30163,
+    "incorrect": "तो मुलगी खूप सुंदर गातो.",
+    "correct": "ती मुलगी खूप सुंदर गाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30164,
+    "incorrect": "माझी आई मला रोज शाळेत सोडतो.",
+    "correct": "माझी आई मला रोज शाळेत सोडते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30165,
+    "incorrect": "ती परीक्षेची तयारी करत होता.",
+    "correct": "ती परीक्षेची तयारी करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30166,
+    "incorrect": "हा माझा नवी कार आहे.",
+    "correct": "ही माझी नवी कार आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30167,
+    "incorrect": "तो मुलगी खूप दयाळू आहे.",
+    "correct": "ती मुलगी खूप दयाळू आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30168,
+    "incorrect": "माझा बहीण छान चित्र काढतो.",
+    "correct": "माझी बहीण छान चित्र काढते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30169,
+    "incorrect": "ती बाजारात जात होता.",
+    "correct": "ती बाजारात जात होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30170,
+    "incorrect": "त्याची शाळा खूप मोठी आहे.",
+    "correct": "त्याची शाळा खूप मोठी आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30171,
+    "incorrect": "तो मुलगी लवकर झोपतो.",
+    "correct": "ती मुलगी लवकर झोपते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30172,
+    "incorrect": "माझी वडील रोज पेपर वाचते.",
+    "correct": "माझे वडील रोज पेपर वाचतात.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30173,
+    "incorrect": "ती कविता करत होता.",
+    "correct": "ती कविता करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30174,
+    "incorrect": "हा माझा आवडती ड्रेस आहे.",
+    "correct": "हा माझा आवडता ड्रेस आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30175,
+    "incorrect": "तो मुलगी चांगली पोहतो.",
+    "correct": "ती मुलगी चांगली पोहते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30176,
+    "incorrect": "माझा पिशवी खूप जड आहे.",
+    "correct": "माझी पिशवी खूप जड आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30177,
+    "incorrect": "ती मंदिरात गेली होती.",
+    "correct": "ती मंदिरात गेली होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30178,
+    "incorrect": "त्याचा छोटी मुलगी शाळेत जाते.",
+    "correct": "त्याची छोटी मुलगी शाळेत जाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30179,
+    "incorrect": "तो मुलगी छान नाचते.",
+    "correct": "ती मुलगी छान नाचते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30180,
+    "incorrect": "माझी आई मला खूप मदत करतो.",
+    "correct": "माझी आई मला खूप मदत करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30181,
+    "incorrect": "ती जेवण करत होता.",
+    "correct": "ती जेवण करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30182,
+    "incorrect": "हा माझा जुनी सायकल आहे.",
+    "correct": "ही माझी जुनी सायकल आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30183,
+    "incorrect": "तो मुलगी नेहमी हसत असतो.",
+    "correct": "ती मुलगी नेहमी हसत असते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30184,
+    "incorrect": "माझा बहीण गाणे शिकतो.",
+    "correct": "माझी बहीण गाणे शिकते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30185,
+    "incorrect": "ती फोनवर बोलत होता.",
+    "correct": "ती फोनवर बोलत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30186,
+    "incorrect": "त्याची घर खूप सुंदर आहे.",
+    "correct": "त्याचे घर खूप सुंदर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30187,
+    "incorrect": "तो मुलगी खूप हुशार आहे.",
+    "correct": "ती मुलगी खूप हुशार आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30188,
+    "incorrect": "माझी आजोबा मंदिरात गेली.",
+    "correct": "माझे आजोबा मंदिरात गेले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30189,
+    "incorrect": "ती पाहुण्यांचे स्वागत करत होता.",
+    "correct": "ती पाहुण्यांचे स्वागत करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30190,
+    "incorrect": "हा माझा आवडती रंग आहे.",
+    "correct": "हा माझा आवडता रंग आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30191,
+    "incorrect": "तो मुलगी खूप मेहनती आहे.",
+    "correct": "ती मुलगी खूप मेहनती आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30192,
+    "incorrect": "माझा मावशी उद्या येणार आहे.",
+    "correct": "माझी मावशी उद्या येणार आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30193,
+    "incorrect": "ती नवीन भाषा शिकत होता.",
+    "correct": "ती नवीन भाषा शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30194,
+    "incorrect": "त्याचा मोठी गाडी रस्त्यात उभी आहे.",
+    "correct": "त्याची मोठी गाडी रस्त्यात उभी आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30195,
+    "incorrect": "तो मुलगी खूप प्रामाणिक आहे.",
+    "correct": "ती मुलगी खूप प्रामाणिक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30196,
+    "incorrect": "माझी ताई मला शिकवतो.",
+    "correct": "माझी ताई मला शिकवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30197,
+    "incorrect": "ती तिच्या आईला मदत करत होता.",
+    "correct": "ती तिच्या आईला मदत करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30198,
+    "incorrect": "हा माझा आवडती पदार्थ आहे.",
+    "correct": "हा माझा आवडता पदार्थ आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30199,
+    "incorrect": "तो मुलगी खूप शांत आहे.",
+    "correct": "ती मुलगी खूप शांत आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30200,
+    "incorrect": "माझा मैत्रीण चांगली गातो.",
+    "correct": "माझी मैत्रीण चांगले गाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30201,
+    "incorrect": "ती बागेत खेळत होता.",
+    "correct": "ती बागेत खेळत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30202,
+    "incorrect": "त्याचा पांढरी शर्ट छान दिसतो.",
+    "correct": "त्याचा पांढरा शर्ट छान दिसतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30203,
+    "incorrect": "तो मुलगी खूप धाडसी आहे.",
+    "correct": "ती मुलगी खूप धाडसी आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30204,
+    "incorrect": "माझा आई छान पोळ्या बनवतो.",
+    "correct": "माझी आई छान पोळ्या बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30205,
+    "incorrect": "ती भाजी चिरत होता.",
+    "correct": "ती भाजी चिरत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30206,
+    "incorrect": "ही माझा आवडता पुस्तक आहे.",
+    "correct": "हे माझे आवडते पुस्तक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30207,
+    "incorrect": "तो मुलगी नेहमी खरे बोलतो.",
+    "correct": "ती मुलगी नेहमी खरे बोलते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30208,
+    "incorrect": "माझा बहीण शाळेत गेली.",
+    "correct": "माझी बहीण शाळेत गेली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30209,
+    "incorrect": "ती कपडे धुवत होता.",
+    "correct": "ती कपडे धुवत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30210,
+    "incorrect": "त्याचा काळी मांजर खूप गोंडस आहे.",
+    "correct": "त्याची काळी मांजर खूप गोंडस आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30211,
+    "incorrect": "तो मुलगी खूप आत्मविश्वासू आहे.",
+    "correct": "ती मुलगी खूप आत्मविश्वासू आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30212,
+    "incorrect": "माझी आजोबा कथा सांगते.",
+    "correct": "माझे आजोबा कथा सांगतात.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30213,
+    "incorrect": "ती घर साफ करत होता.",
+    "correct": "ती घर साफ करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30214,
+    "incorrect": "हा माझा आवडती विषय आहे.",
+    "correct": "हा माझा आवडता विषय आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30215,
+    "incorrect": "तो मुलगी वेळेवर येतो.",
+    "correct": "ती मुलगी वेळेवर येते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30216,
+    "incorrect": "माझा मामी छान पदार्थ बनवतो.",
+    "correct": "माझी मामी छान पदार्थ बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30217,
+    "incorrect": "ती गावाला जात होता.",
+    "correct": "ती गावाला जात होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30218,
+    "incorrect": "त्याची मोठी बहीण लग्न करत आहे.",
+    "correct": "त्याची मोठी बहीण लग्न करत आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30219,
+    "incorrect": "तो मुलगी चांगली विद्यार्थी आहे.",
+    "correct": "ती मुलगी चांगली विद्यार्थिनी आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30220,
+    "incorrect": "माझी आई मला रोज उचलतो.",
+    "correct": "माझी आई मला रोज उचलते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30221,
+    "incorrect": "ती झाडांना पाणी घालत होता.",
+    "correct": "ती झाडांना पाणी घालत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30222,
+    "incorrect": "हा माझा आवडती पेन आहे.",
+    "correct": "हा माझा आवडता पेन आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30223,
+    "incorrect": "तो मुलगी लवकर उठतो.",
+    "correct": "ती मुलगी लवकर उठते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30224,
+    "incorrect": "माझा बहीण नोकरी करतो.",
+    "correct": "माझी बहीण नोकरी करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30225,
+    "incorrect": "ती देवाकडे प्रार्थना करत होता.",
+    "correct": "ती देवाकडे प्रार्थना करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30226,
+    "incorrect": "त्याचा नवी मोटरसायकल छान आहे.",
+    "correct": "त्याची नवी मोटरसायकल छान आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30227,
+    "incorrect": "तो मुलगी खूप प्रेमळ वागतो.",
+    "correct": "ती मुलगी खूप प्रेमळ वागते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30228,
+    "incorrect": "माझी आजी मला गोष्ट सांगतो.",
+    "correct": "माझी आजी मला गोष्ट सांगते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30229,
+    "incorrect": "ती दारात रांगोळी काढत होता.",
+    "correct": "ती दारात रांगोळी काढत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30230,
+    "incorrect": "हा माझा आवडती शहर आहे.",
+    "correct": "हे माझे आवडते शहर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30231,
+    "incorrect": "तो मुलगी सर्वांशी चांगले वागतो.",
+    "correct": "ती मुलगी सर्वांशी चांगले वागते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30232,
+    "incorrect": "माझा मैत्रीण डॉक्टर बनला.",
+    "correct": "माझी मैत्रीण डॉक्टर बनली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30233,
+    "incorrect": "ती संगणकावर काम करत होता.",
+    "correct": "ती संगणकावर काम करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30234,
+    "incorrect": "त्याची छोटी बहीण खूप रडतो.",
+    "correct": "त्याची छोटी बहीण खूप रडते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30235,
+    "incorrect": "तो मुलगी खूप अभ्यास करतो.",
+    "correct": "ती मुलगी खूप अभ्यास करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30236,
+    "incorrect": "माझी आई मला नवीन कपडे आणतो.",
+    "correct": "माझी आई मला नवीन कपडे आणते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30237,
+    "incorrect": "ती पैसे मोजत होता.",
+    "correct": "ती पैसे मोजत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30238,
+    "incorrect": "हा माझा आवडती मोबाईल आहे.",
+    "correct": "हा माझा आवडता मोबाईल आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30239,
+    "incorrect": "तो मुलगी सर्वांना मदत करतो.",
+    "correct": "ती मुलगी सर्वांना मदत करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30240,
+    "incorrect": "माझा बहीण खूप हुशार आहे.",
+    "correct": "माझी बहीण खूप हुशार आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30241,
+    "incorrect": "ती नवीन ड्रेस घालून बघत होता.",
+    "correct": "ती नवीन ड्रेस घालून बघत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30242,
+    "incorrect": "त्याची पिवळी साडी छान आहे.",
+    "correct": "त्याची पिवळी साडी छान आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30243,
+    "incorrect": "तो मुलगी वेळेवर जेवतो.",
+    "correct": "ती मुलगी वेळेवर जेवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30244,
+    "incorrect": "माझी आत्या मला खाऊ देतो.",
+    "correct": "माझी आत्या मला खाऊ देते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30245,
+    "incorrect": "ती केसात कंगवा फिरवत होता.",
+    "correct": "ती केसात कंगवा फिरवत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30246,
+    "incorrect": "ही माझा आवडता घर आहे.",
+    "correct": "हे माझे आवडते घर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30247,
+    "incorrect": "तो मुलगी खूप बडबड करतो.",
+    "correct": "ती मुलगी खूप बडबड करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30248,
+    "incorrect": "माझा वहिनी छान गातो.",
+    "correct": "माझी वहिनी छान गाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30249,
+    "incorrect": "ती देवाला नमस्कार करत होता.",
+    "correct": "ती देवाला नमस्कार करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30250,
+    "incorrect": "त्याचा सुंदर मुलगी छान हसते.",
+    "correct": "त्याची सुंदर मुलगी छान हसते.",
+    "error_type": "Gender Agreement"
+  },
+
+  {
+    "id": 30251,
+    "incorrect": "ती जेवला.",
+    "correct": "ती जेवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30252,
+    "incorrect": "अजयने बाजारातून भाजी आणला.",
+    "correct": "अजयने बाजारातून भाजी आणली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30253,
+    "incorrect": "माझा कोल्हापुरी चप्पल तुटला.",
+    "correct": "माझी कोल्हापुरी चप्पल तुटली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30254,
+    "incorrect": "तो रंकाळा तलावावर फिरायला गेली होती.",
+    "correct": "तो रंकाळा तलावावर फिरायला गेला होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30255,
+    "incorrect": "त्यांनी तिखट मिसळ खाल्ली.",
+    "correct": "त्यांनी तिखट मिसळ खाल्ली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30256,
+    "incorrect": "आईने मुलासाठी नवा शर्ट शिवली.",
+    "correct": "आईने मुलासाठी नवा शर्ट शिवला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30257,
+    "incorrect": "माझी भाऊ पुण्यात राहतो.",
+    "correct": "माझा भाऊ पुण्यात राहतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30258,
+    "incorrect": "स्नेहा रोज सकाळी लवकर उठतो.",
+    "correct": "स्नेहा रोज सकाळी लवकर उठते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30259,
+    "incorrect": "बाबांनी मला एक छान गोष्ट सांगितला.",
+    "correct": "बाबांनी मला एक छान गोष्ट सांगितली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30260,
+    "incorrect": "ती मुलगी खूप चांगला चित्र काढते.",
+    "correct": "ती मुलगी खूप चांगले चित्र काढते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30261,
+    "incorrect": "त्याचा बायको खूप छान स्वयंपाक करते.",
+    "correct": "त्याची बायको खूप छान स्वयंपाक करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30262,
+    "incorrect": "तो पैलवान तालमीत जात होती.",
+    "correct": "तो पैलवान तालमीत जात होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30263,
+    "incorrect": "माधुरीने निळा साडी नेसली.",
+    "correct": "माधुरीने निळी साडी नेसली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30264,
+    "incorrect": "माझी आजोबा देवळात गेली.",
+    "correct": "माझे आजोबा देवळात गेले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30265,
+    "incorrect": "तिने आंब्याचा रस काढली.",
+    "correct": "तिने आंब्याचा रस काढला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30266,
+    "incorrect": "तो माणूस खूप आजारी होती.",
+    "correct": "तो माणूस खूप आजारी होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30267,
+    "incorrect": "हा माझा जुनी गाडी आहे.",
+    "correct": "ही माझी जुनी गाडी आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30268,
+    "incorrect": "पूजा कॉलेजला जात होता.",
+    "correct": "पूजा कॉलेजला जात होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30269,
+    "incorrect": "मी चहा घेतला.",
+    "correct": "मी चहा घेतला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30270,
+    "incorrect": "माझा आजी छान लाडू बनवतो.",
+    "correct": "माझी आजी छान लाडू बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30271,
+    "incorrect": "त्याचा छोटी बहीण शाळेत जाते.",
+    "correct": "त्याची छोटी बहीण शाळेत जाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30272,
+    "incorrect": "तो मुलगा खूप जोरात पळाली.",
+    "correct": "तो मुलगा खूप जोरात पळाला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30273,
+    "incorrect": "सुनीताने तिचा वही आणला नाही.",
+    "correct": "सुनीताने तिची वही आणली नाही.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30274,
+    "incorrect": "ती बाई रांगेत उभा होती.",
+    "correct": "ती बाई रांगेत उभी होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30275,
+    "incorrect": "ही माझा आवडता सिनेमा आहे.",
+    "correct": "हा माझा आवडता सिनेमा आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30276,
+    "incorrect": "शेतकरी शेतात काम करत होती.",
+    "correct": "शेतकरी शेतात काम करत होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30277,
+    "incorrect": "मुलांनी एक सुंदर गाणे म्हटली.",
+    "correct": "मुलांनी एक सुंदर गाणे म्हटले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30278,
+    "incorrect": "माझा शाळा घरापासून जवळ आहे.",
+    "correct": "माझी शाळा घरापासून जवळ आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30279,
+    "incorrect": "ती अचानक रडायला लागला.",
+    "correct": "ती अचानक रडायला लागली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30280,
+    "incorrect": "तिने मला एक पत्र लिहिला.",
+    "correct": "तिने मला एक पत्र लिहिले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30281,
+    "incorrect": "तो कामावरून उशिरा आली.",
+    "correct": "तो कामावरून उशिरा आला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30282,
+    "incorrect": "त्याचा मोठा मुलगी डॉक्टर आहे.",
+    "correct": "त्याची मोठी मुलगी डॉक्टर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30283,
+    "incorrect": "आईने देवाला दिवा लावली.",
+    "correct": "आईने देवाला दिवा लावला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30284,
+    "incorrect": "ती नवीन भाषा शिकत होता.",
+    "correct": "ती नवीन भाषा शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30285,
+    "incorrect": "माझी भाऊ क्रिकेट खेळत होती.",
+    "correct": "माझा भाऊ क्रिकेट खेळत होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30286,
+    "incorrect": "तिने हिरवा रंगाची ओढणी घेतली.",
+    "correct": "तिने हिरव्या रंगाची ओढणी घेतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30287,
+    "incorrect": "तो मुलगा खूप प्रामाणिक होती.",
+    "correct": "तो मुलगा खूप प्रामाणिक होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30288,
+    "incorrect": "माझा मैत्रीण गावाला गेली आहे.",
+    "correct": "माझी मैत्रीण गावाला गेली आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30289,
+    "incorrect": "रमेशने त्याची गाडी धुतला.",
+    "correct": "रमेशने त्याची गाडी धुतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30290,
+    "incorrect": "ती खूप छान गाणे गायली.",
+    "correct": "तिने खूप छान गाणे गायले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30291,
+    "incorrect": "त्याचा आई त्याला ओरडली.",
+    "correct": "त्याची आई त्याला ओरडली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30292,
+    "incorrect": "तो धावण्याच्या शर्यतीत हरली.",
+    "correct": "तो धावण्याच्या शर्यतीत हरला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30293,
+    "incorrect": "आईने पांढरा साडी नेसली.",
+    "correct": "आईने पांढरी साडी नेसली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30294,
+    "incorrect": "माझी काका शेती करतो.",
+    "correct": "माझे काका शेती करतात.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30295,
+    "incorrect": "ती झाडाखाली शांतपणे बसला होता.",
+    "correct": "ती झाडाखाली शांतपणे बसली होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30296,
+    "incorrect": "वहिनींनी डबा भरला.",
+    "correct": "वहिनींनी डबा भरला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30297,
+    "incorrect": "हा माझा आवडती ड्रेस आहे.",
+    "correct": "हा माझा आवडता ड्रेस आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30298,
+    "incorrect": "तो मुलगा खूप हसतो.",
+    "correct": "तो मुलगा खूप हसतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30299,
+    "incorrect": "माझा मावशी उद्या येणार आहे.",
+    "correct": "माझी मावशी उद्या येणार आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30300,
+    "incorrect": "तिने दरवाज्याला कडी लावला.",
+    "correct": "तिने दरवाज्याला कडी लावली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30301,
+    "incorrect": "ती खूप विचार करत बसला होता.",
+    "correct": "ती खूप विचार करत बसली होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30302,
+    "incorrect": "त्याचा नवी सायकल छान आहे.",
+    "correct": "त्याची नवी सायकल छान आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30303,
+    "incorrect": "तो मुलगी खूप शांत स्वभावाची आहे.",
+    "correct": "ती मुलगी खूप शांत स्वभावाची आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30304,
+    "incorrect": "मी एक चांगली पुस्तक वाचली.",
+    "correct": "मी एक चांगले पुस्तक वाचले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30305,
+    "incorrect": "माझी वहिनी छान स्वयंपाक बनवतो.",
+    "correct": "माझी वहिनी छान स्वयंपाक बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30306,
+    "incorrect": "तो झाडावर चढली.",
+    "correct": "तो झाडावर चढला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30307,
+    "incorrect": "आजीने मला एक गोड पेढा दिला.",
+    "correct": "आजीने मला एक गोड पेढा दिला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30308,
+    "incorrect": "ती स्वयंपाक घरात काम करतो.",
+    "correct": "ती स्वयंपाक घरात काम करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30309,
+    "incorrect": "हा माझा मोठा बहीण आहे.",
+    "correct": "ही माझी मोठी बहीण आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30310,
+    "incorrect": "तो मुलगा अभ्यास करत नव्हती.",
+    "correct": "तो मुलगा अभ्यास करत नव्हता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30311,
+    "incorrect": "त्यांनी एक जुनी गाडी विकला.",
+    "correct": "त्यांनी एक जुनी गाडी विकली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30312,
+    "incorrect": "माझा आई बाजारात जात होती.",
+    "correct": "माझी आई बाजारात जात होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30313,
+    "incorrect": "ती चांगली पोहतो.",
+    "correct": "ती चांगली पोहते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30314,
+    "incorrect": "आईने पांढरा रंगाचा शर्ट धुतली.",
+    "correct": "आईने पांढऱ्या रंगाचा शर्ट धुतला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30315,
+    "incorrect": "तो खूप आजारी पडली आहे.",
+    "correct": "तो खूप आजारी पडला आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30316,
+    "incorrect": "त्याचा शाळा खूप प्रसिद्ध आहे.",
+    "correct": "त्याची शाळा खूप प्रसिद्ध आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30317,
+    "incorrect": "गीताने अभ्यास केला नाही म्हणून ती नापास झाला.",
+    "correct": "गीताने अभ्यास केला नाही म्हणून ती नापास झाली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30318,
+    "incorrect": "राधाने सुंदर रांगोळी काढला.",
+    "correct": "राधाने सुंदर रांगोळी काढली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30319,
+    "incorrect": "माझा पिशवी खूप जड आहे.",
+    "correct": "माझी पिशवी खूप जड आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30320,
+    "incorrect": "ती टीव्ही बघत होता.",
+    "correct": "ती टीव्ही बघत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30321,
+    "incorrect": "काकांनी मला एक नवी वही आणला.",
+    "correct": "काकांनी मला एक नवी वही आणली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30322,
+    "incorrect": "तो मुलगी खूप हुशार बोलतो.",
+    "correct": "ती मुलगी खूप हुशार बोलते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30323,
+    "incorrect": "तिची भाऊ इंजिनिअर आहे.",
+    "correct": "तिचा भाऊ इंजिनिअर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30324,
+    "incorrect": "ती रात्री उशिरापर्यंत जागी होती.",
+    "correct": "ती रात्री उशिरापर्यंत जागी होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30325,
+    "incorrect": "मी एक तिखट मिसळ खाल्ला.",
+    "correct": "मी एक तिखट मिसळ खाल्ली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30326,
+    "incorrect": "माझी वडील बँकेत काम करते.",
+    "correct": "माझे वडील बँकेत काम करतात.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30327,
+    "incorrect": "तो कामात व्यस्त होती.",
+    "correct": "तो कामात व्यस्त होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30328,
+    "incorrect": "मीनाने तिची मैत्रीणला बोलावला.",
+    "correct": "मीनाने तिच्या मैत्रिणीला बोलावले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30329,
+    "incorrect": "ही माझा मोठा भाऊ आहे.",
+    "correct": "हा माझा मोठा भाऊ आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30330,
+    "incorrect": "ती परीक्षेची तयारी करत होता.",
+    "correct": "ती परीक्षेची तयारी करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30331,
+    "incorrect": "त्यांनी महालक्ष्मी मंदिराचे तिकीट काढली.",
+    "correct": "त्यांनी महालक्ष्मी मंदिराचे तिकीट काढले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30332,
+    "incorrect": "माझा काकी डॉक्टर आहे.",
+    "correct": "माझी काकी डॉक्टर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30333,
+    "incorrect": "तो मुलगी खूप रडली.",
+    "correct": "ती मुलगी खूप रडली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30334,
+    "incorrect": "आईने आज बटाट्याची भाजी बनवला.",
+    "correct": "आईने आज बटाट्याची भाजी बनवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30335,
+    "incorrect": "ही माझा आवडती अभिनेत्री आहे.",
+    "correct": "ही माझी आवडती अभिनेत्री आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30336,
+    "incorrect": "ती गाडी चालवायला शिकत होता.",
+    "correct": "ती गाडी चालवायला शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30337,
+    "incorrect": "त्याने एक काळा मांजर पाळला आहे.",
+    "correct": "त्याने एक काळी मांजर पाळली आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30338,
+    "incorrect": "माझी ताई कॉलेजला गेला.",
+    "correct": "माझी ताई कॉलेजला गेली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30339,
+    "incorrect": "तो खूप छान कविता करतो.",
+    "correct": "तो खूप छान कविता करतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30340,
+    "incorrect": "सुजाताने दाराला कुलूप लावली.",
+    "correct": "सुजाताने दाराला कुलूप लावले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30341,
+    "incorrect": "त्याचा लहान बहीण खूप गोड आहे.",
+    "correct": "त्याची लहान बहीण खूप गोड आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30342,
+    "incorrect": "ती मंदिरात जात होता.",
+    "correct": "ती मंदिरात जात होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30343,
+    "incorrect": "बाबांनी एक मोठी पपई आणली.",
+    "correct": "बाबांनी एक मोठी पपई आणली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30344,
+    "incorrect": "तो मुलगी माझ्याशी बोलत नाही.",
+    "correct": "ती मुलगी माझ्याशी बोलत नाही.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30345,
+    "incorrect": "माझा चप्पल तुटला.",
+    "correct": "माझी चप्पल तुटली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30346,
+    "incorrect": "मी सकाळी चहा पितो.",
+    "correct": "मी सकाळी चहा पितो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30347,
+    "incorrect": "ती खूप आनंदी दिसत होता.",
+    "correct": "ती खूप आनंदी दिसत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30348,
+    "incorrect": "त्यांनी एक चांगला चित्रपट पाहिला.",
+    "correct": "त्यांनी एक चांगला चित्रपट पाहिला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30349,
+    "incorrect": "माझी मामी छान पुरणपोळी बनवतो.",
+    "correct": "माझी मामी छान पुरणपोळी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30350,
+    "incorrect": "तो रागाने निघून गेली.",
+    "correct": "तो रागाने निघून गेला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30351,
+    "incorrect": "राणीने तिचा गृहपाठ पूर्ण केली.",
+    "correct": "राणीने तिचा गृहपाठ पूर्ण केला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30352,
+    "incorrect": "ही माझा आवडता गाव आहे.",
+    "correct": "हे माझे आवडते गाव आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30353,
+    "incorrect": "ती खूप घाबरली होती.",
+    "correct": "ती खूप घाबरली होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30354,
+    "incorrect": "आम्ही एक मोठी खोली भाड्याने घेतली.",
+    "correct": "आम्ही एक मोठी खोली भाड्याने घेतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30355,
+    "incorrect": "माझा ताई मला शिकवतो.",
+    "correct": "माझी ताई मला शिकवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30356,
+    "incorrect": "तो मुलगा खूप उंच होती.",
+    "correct": "तो मुलगा खूप उंच होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30357,
+    "incorrect": "आईने आज इडली बनवला.",
+    "correct": "आईने आज इडली बनवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30358,
+    "incorrect": "त्याचा नवी मोटरसायकल छान आहे.",
+    "correct": "त्याची नवी मोटरसायकल छान आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30359,
+    "incorrect": "ती नवीन कपडे घालून बघत होता.",
+    "correct": "ती नवीन कपडे घालून बघत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30360,
+    "incorrect": "माझ्या मित्राने एक छान कविता लिहिला.",
+    "correct": "माझ्या मित्राने एक छान कविता लिहिली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30361,
+    "incorrect": "हा माझा आवडती रंग आहे.",
+    "correct": "हा माझा आवडता रंग आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30362,
+    "incorrect": "तो मुलगी खूप चांगला गाते.",
+    "correct": "ती मुलगी खूप चांगले गाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30363,
+    "incorrect": "माझा मामी उद्या येणार आहे.",
+    "correct": "माझी मामी उद्या येणार आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30364,
+    "incorrect": "तिने एक मोठी चूक केली.",
+    "correct": "तिने एक मोठी चूक केली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30365,
+    "incorrect": "तो नेहमी खरे बोलली.",
+    "correct": "तो नेहमी खरे बोलला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30366,
+    "incorrect": "त्याचा काळी मांजर खूप गोंडस आहे.",
+    "correct": "त्याची काळी मांजर खूप गोंडस आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30367,
+    "incorrect": "ती गाणे ऐकत होता.",
+    "correct": "ती गाणे ऐकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30368,
+    "incorrect": "मी आज एक नवीन गोष्ट शिकली.",
+    "correct": "मी आज एक नवीन गोष्ट शिकलो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30369,
+    "incorrect": "माझी भाऊ अमेरिकेत शिकत होती.",
+    "correct": "माझा भाऊ अमेरिकेत शिकत होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30370,
+    "incorrect": "ही माझा आवडता पुस्तक आहे.",
+    "correct": "हे माझे आवडते पुस्तक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30371,
+    "incorrect": "तो मुलगी खूप मेहनती आहे.",
+    "correct": "ती मुलगी खूप मेहनती आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30372,
+    "incorrect": "आईने मला एक छानशी बाहुली आणला.",
+    "correct": "आईने मला एक छानशी बाहुली आणली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30373,
+    "incorrect": "ती झाडांना पाणी घालत होता.",
+    "correct": "ती झाडांना पाणी घालत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30374,
+    "incorrect": "त्याचा मोठी गाडी रस्त्यात उभी आहे.",
+    "correct": "त्याची मोठी गाडी रस्त्यात उभी आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30375,
+    "incorrect": "तो नेहमी सर्वांना मदत करते.",
+    "correct": "तो नेहमी सर्वांना मदत करतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30376,
+    "incorrect": "मी एक पांढरा गाय पाहिली.",
+    "correct": "मी एक पांढरी गाय पाहिली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30377,
+    "incorrect": "माझा वहिनी छान रांगोळी काढतो.",
+    "correct": "माझी वहिनी छान रांगोळी काढते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30378,
+    "incorrect": "ती फोनवर बोलत होता.",
+    "correct": "ती फोनवर बोलत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30379,
+    "incorrect": "बाबांनी ताजी भाजी आणली.",
+    "correct": "बाबांनी ताजी भाजी आणली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30380,
+    "incorrect": "ही माझा आवडती जागा आहे.",
+    "correct": "ही माझी आवडती जागा आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30381,
+    "incorrect": "तो मुलगा खूप चांगला नाचतो.",
+    "correct": "तो मुलगा खूप चांगला नाचतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30382,
+    "incorrect": "माझा आत्या मला खाऊ देतो.",
+    "correct": "माझी आत्या मला खाऊ देते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30383,
+    "incorrect": "आईने मुलाला दूध पाजली.",
+    "correct": "आईने मुलाला दूध पाजले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30384,
+    "incorrect": "ती दारात उभी राहून वाट बघत होता.",
+    "correct": "ती दारात उभी राहून वाट बघत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30385,
+    "incorrect": "त्याचा धाकटी बहीण खूप हुशार आहे.",
+    "correct": "त्याची धाकटी बहीण खूप हुशार आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30386,
+    "incorrect": "तो मुलगी खूप बडबड करते.",
+    "correct": "ती मुलगी खूप बडबड करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30387,
+    "incorrect": "तिने एक सुंदर चित्र काढली.",
+    "correct": "तिने एक सुंदर चित्र काढले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30388,
+    "incorrect": "माझी आजोबा रोज फिरायला जाते.",
+    "correct": "माझे आजोबा रोज फिरायला जातात.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30389,
+    "incorrect": "तो गाडी चालवत होती.",
+    "correct": "तो गाडी चालवत होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30390,
+    "incorrect": "मी एक नवा बॅग विकत घेतली.",
+    "correct": "मी एक नवी बॅग विकत घेतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30391,
+    "incorrect": "ही माझा आवडता शहर आहे.",
+    "correct": "हे माझे आवडते शहर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30392,
+    "incorrect": "ती नवीन नोकरी शोधत होता.",
+    "correct": "ती नवीन नोकरी शोधत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30393,
+    "incorrect": "त्यांनी एक मोठी घर बांधली.",
+    "correct": "त्यांनी एक मोठे घर बांधले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30394,
+    "incorrect": "माझा मैत्रीण डॉक्टर बनला.",
+    "correct": "माझी मैत्रीण डॉक्टर बनली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30395,
+    "incorrect": "तो मुलगा शांतपणे बसला होता.",
+    "correct": "तो मुलगा शांतपणे बसला होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30396,
+    "incorrect": "आईने देवासमोर समई लावली.",
+    "correct": "आईने देवासमोर समई लावली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30397,
+    "incorrect": "ती केसात कंगवा फिरवत होता.",
+    "correct": "ती केसात कंगवा फिरवत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30398,
+    "incorrect": "त्याचा पिवळी शर्ट छान दिसतो.",
+    "correct": "त्याचा पिवळा शर्ट छान दिसतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30399,
+    "incorrect": "माझी आई मला नवीन कपडे आणतो.",
+    "correct": "माझी आई मला नवीन कपडे आणते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30400,
+    "incorrect": "तो मुलगी खूप धाडसी आहे.",
+    "correct": "ती मुलगी खूप धाडसी आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30401,
+    "incorrect": "मी एक गोड आंबा खाल्ली.",
+    "correct": "मी एक गोड आंबा खाल्ला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30402,
+    "incorrect": "ती देवाला नमस्कार करत होता.",
+    "correct": "ती देवाला नमस्कार करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30403,
+    "incorrect": "ही माझा आवडता विषय आहे.",
+    "correct": "हा माझा आवडता विषय आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30404,
+    "incorrect": "तो गाडीतून उतरली.",
+    "correct": "तो गाडीतून उतरला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30405,
+    "incorrect": "माझा बहीण छान गाणे शिकतो.",
+    "correct": "माझी बहीण गाणे शिकते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30406,
+    "incorrect": "त्यांनी एक मोठी जबाबदारी घेतली.",
+    "correct": "त्यांनी एक मोठी जबाबदारी घेतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30407,
+    "incorrect": "ती घर साफ करत होता.",
+    "correct": "ती घर साफ करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30408,
+    "incorrect": "त्याचा छोटी मुलगी शाळेत जाते.",
+    "correct": "त्याची छोटी मुलगी शाळेत जाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30409,
+    "incorrect": "तो मुलगा सर्वांशी चांगले वागतो.",
+    "correct": "तो मुलगा सर्वांशी चांगला वागतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30410,
+    "incorrect": "आईने तांदूळ निवडला.",
+    "correct": "आईने तांदूळ निवडले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30411,
+    "incorrect": "माझी आत्या छान स्वयंपाक करते.",
+    "correct": "माझी आत्या छान स्वयंपाक करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30412,
+    "incorrect": "ती संगणकावर काम करत होता.",
+    "correct": "ती संगणकावर काम करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30413,
+    "incorrect": "हा माझा आवडती पेन आहे.",
+    "correct": "हा माझा आवडता पेन आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30414,
+    "incorrect": "तो मुलगी वेळेवर येतो.",
+    "correct": "ती मुलगी वेळेवर येते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30415,
+    "incorrect": "बाबांनी एक किलो साखर आणला.",
+    "correct": "बाबांनी एक किलो साखर आणली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30416,
+    "incorrect": "माझा बहीण नोकरी करतो.",
+    "correct": "माझी बहीण नोकरी करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30417,
+    "incorrect": "ती पैसे मोजत होता.",
+    "correct": "ती पैसे मोजत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30418,
+    "incorrect": "मी एक काळी छत्री विकत घेतला.",
+    "correct": "मी एक काळी छत्री विकत घेतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30419,
+    "incorrect": "त्याचा धाकटा भाऊ खूप मस्ती करतो.",
+    "correct": "त्याचा धाकटा भाऊ खूप मस्ती करतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30420,
+    "incorrect": "तो मुलगी खूप आत्मविश्वासू आहे.",
+    "correct": "ती मुलगी खूप आत्मविश्वासू आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30421,
+    "incorrect": "माझी आई मला रोज उचलतो.",
+    "correct": "माझी आई मला रोज उचलते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30422,
+    "incorrect": "ती नवीन ड्रेस घालून बघत होती.",
+    "correct": "ती नवीन ड्रेस घालून बघत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30423,
+    "incorrect": "त्यांनी एक सुंदर मूर्ती बनवला.",
+    "correct": "त्यांनी एक सुंदर मूर्ती बनवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30424,
+    "incorrect": "ही माझा आवडता खेळ आहे.",
+    "correct": "हा माझा आवडता खेळ आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30425,
+    "incorrect": "तो मुलगी सर्वांना मदत करतो.",
+    "correct": "ती मुलगी सर्वांना मदत करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30426,
+    "incorrect": "माझा वहिनी मुंबईला राहते.",
+    "correct": "माझी वहिनी मुंबईला राहते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30427,
+    "incorrect": "तिने भाजी चिरला.",
+    "correct": "तिने भाजी चिरली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30428,
+    "incorrect": "ती देवाची प्रार्थना करत होता.",
+    "correct": "ती देवाची प्रार्थना करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30429,
+    "incorrect": "त्याचा सुंदर मुलगी छान हसते.",
+    "correct": "त्याची सुंदर मुलगी छान हसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30430,
+    "incorrect": "तो मुलगा खूप आज्ञाधारक आहे.",
+    "correct": "तो मुलगा खूप आज्ञाधारक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30431,
+    "incorrect": "मी एक लांब पत्र लिहिला.",
+    "correct": "मी एक लांब पत्र लिहिले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30432,
+    "incorrect": "माझी आजी छान भजन म्हणतो.",
+    "correct": "माझी आजी छान भजन म्हणते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30433,
+    "incorrect": "ती पाहुण्यांसाठी चहा बनवत होता.",
+    "correct": "ती पाहुण्यांसाठी चहा बनवत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30434,
+    "incorrect": "ही माझा आवडती मोबाईल आहे.",
+    "correct": "हा माझा आवडता मोबाईल आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30435,
+    "incorrect": "तो मुलगी खूप हुशार आहे.",
+    "correct": "ती मुलगी खूप हुशार आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30436,
+    "incorrect": "त्यांनी एक नवी दुकान उघडली.",
+    "correct": "त्यांनी एक नवे दुकान उघडले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30437,
+    "incorrect": "माझा बहीण छान चित्र काढतो.",
+    "correct": "माझी बहीण छान चित्र काढते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30438,
+    "incorrect": "तो कामावरून लवकर परत आली.",
+    "correct": "तो कामावरून लवकर परत आला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30439,
+    "incorrect": "मी एक पिवळा केळे खाल्ले.",
+    "correct": "मी एक पिवळे केळे खाल्ले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30440,
+    "incorrect": "ती बागेत खेळत होता.",
+    "correct": "ती बागेत खेळत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30441,
+    "incorrect": "त्याचा गोरा मुलगा छान दिसतो.",
+    "correct": "त्याचा गोरा मुलगा छान दिसतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30442,
+    "incorrect": "माझी आजोबा मंदिरात गेली.",
+    "correct": "माझे आजोबा मंदिरात गेले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30443,
+    "incorrect": "तिने एक गोड गाणे गायला.",
+    "correct": "तिने एक गोड गाणे गायले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30444,
+    "incorrect": "ती कपडे वाळत घालत होता.",
+    "correct": "ती कपडे वाळत घालत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30445,
+    "incorrect": "हा माझा जुनी सायकल आहे.",
+    "correct": "ही माझी जुनी सायकल आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30446,
+    "incorrect": "तो मुलगा नेहमी उशिरा येतो.",
+    "correct": "तो मुलगा नेहमी उशिरा येतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30447,
+    "incorrect": "आईने एक चविष्ट भाजी बनवला.",
+    "correct": "आईने एक चविष्ट भाजी बनवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30448,
+    "incorrect": "माझा मावशी शिक्षिका आहे.",
+    "correct": "माझी मावशी शिक्षिका आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30449,
+    "incorrect": "ती अभ्यास करत झोपून गेला.",
+    "correct": "ती अभ्यास करत झोपून गेली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30450,
+    "incorrect": "त्यांनी एक महागडी गाडी विकत घेतला.",
+    "correct": "त्यांनी एक महागडी गाडी विकत घेतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30451,
+    "incorrect": "ही माझा आवडता घर आहे.",
+    "correct": "हे माझे आवडते घर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30452,
+    "incorrect": "तो मुलगी खूप दयाळू आहे.",
+    "correct": "ती मुलगी खूप दयाळू आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30453,
+    "incorrect": "माझा मैत्रीण चांगली गातो.",
+    "correct": "माझी मैत्रीण चांगले गाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30454,
+    "incorrect": "तिने एक छानशी कविता रचला.",
+    "correct": "तिने एक छानशी कविता रचली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30455,
+    "incorrect": "ती तिच्या आईला मदत करत होता.",
+    "correct": "ती तिच्या आईला मदत करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30456,
+    "incorrect": "त्याचा मोठी बहीण डॉक्टर आहे.",
+    "correct": "त्याची मोठी बहीण डॉक्टर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30457,
+    "incorrect": "तो मुलगा खूप चांगला धावतो.",
+    "correct": "तो मुलगा खूप चांगला धावतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30458,
+    "incorrect": "मी एक लाल गुलाबाचे फूल तोडले.",
+    "correct": "मी एक लाल गुलाबाचे फूल तोडले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30459,
+    "incorrect": "माझा आई छान पोळ्या बनवतो.",
+    "correct": "माझी आई छान पोळ्या बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30460,
+    "incorrect": "ती गावाला जात होता.",
+    "correct": "ती गावाला जात होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30461,
+    "incorrect": "बाबांनी एक किलो गूळ आणली.",
+    "correct": "बाबांनी एक किलो गूळ आणला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30462,
+    "incorrect": "ही माझा आवडती जागा आहे.",
+    "correct": "ही माझी आवडती जागा आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30463,
+    "incorrect": "तो मुलगी चांगली विद्यार्थी आहे.",
+    "correct": "ती मुलगी चांगली विद्यार्थिनी आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30464,
+    "incorrect": "माझी काकी मंदिरात जातो.",
+    "correct": "माझी काकी मंदिरात जाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30465,
+    "incorrect": "त्यांनी एक नवीन योजना आखला.",
+    "correct": "त्यांनी एक नवीन योजना आखली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30466,
+    "incorrect": "ती भाजी निवडत होता.",
+    "correct": "ती भाजी निवडत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30467,
+    "incorrect": "त्याचा गोरी मुलगी छान दिसते.",
+    "correct": "त्याची गोरी मुलगी छान दिसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30468,
+    "incorrect": "तो आजारी असल्यामुळे शाळेत गेली नाही.",
+    "correct": "तो आजारी असल्यामुळे शाळेत गेला नाही.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30469,
+    "incorrect": "आईने एक चविष्ट आमटी बनवला.",
+    "correct": "आईने एक चविष्ट आमटी बनवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30470,
+    "incorrect": "माझा बहीण छान नृत्य करतो.",
+    "correct": "माझी बहीण छान नृत्य करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30471,
+    "incorrect": "ती नवीन पुस्तक वाचत होता.",
+    "correct": "ती नवीन पुस्तक वाचत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30472,
+    "incorrect": "हा माझा आवडता पेढा आहे.",
+    "correct": "हा माझा आवडता पेढा आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30473,
+    "incorrect": "तो मुलगी खूप हुशार आहे.",
+    "correct": "ती मुलगी खूप हुशार आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30474,
+    "incorrect": "त्यांनी एक चांगली बातमी दिली.",
+    "correct": "त्यांनी एक चांगली बातमी दिली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30475,
+    "incorrect": "माझा आजी रोज देवाची पूजा करतो.",
+    "correct": "माझी आजी रोज देवाची पूजा करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30476,
+    "incorrect": "ती खिडकीतून बाहेर बघत होता.",
+    "correct": "ती खिडकीतून बाहेर बघत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30477,
+    "incorrect": "मी एक थंडगार लस्सी प्यायलो.",
+    "correct": "मी एक थंडगार लस्सी प्यायलो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30478,
+    "incorrect": "त्याचा जुनी घर खूप मोठी आहे.",
+    "correct": "त्याचे जुने घर खूप मोठे आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30479,
+    "incorrect": "तो मुलगा खूप अभ्यास करतो.",
+    "correct": "तो मुलगा खूप अभ्यास करतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30480,
+    "incorrect": "माझी ताई मला नेहमी मदत करतो.",
+    "correct": "माझी ताई मला नेहमी मदत करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30481,
+    "incorrect": "तिने एक मजेदार खेळ खेळला.",
+    "correct": "तिने एक मजेदार खेळ खेळला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30482,
+    "incorrect": "ती मैत्रिणींसोबत गप्पा मारत होता.",
+    "correct": "ती मैत्रिणींसोबत गप्पा मारत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30483,
+    "incorrect": "हा माझा आवडता सण आहे.",
+    "correct": "हा माझा आवडता सण आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30484,
+    "incorrect": "तो मुलगी सर्वांशी प्रेमाने वागतो.",
+    "correct": "ती मुलगी सर्वांशी प्रेमाने वागते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30485,
+    "incorrect": "आईने एक नवीन चटई विकत घेतला.",
+    "correct": "आईने एक नवीन चटई विकत घेतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30486,
+    "incorrect": "माझा मैत्रीण चांगली गाणी म्हणते.",
+    "correct": "माझी मैत्रीण चांगली गाणी म्हणते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30487,
+    "incorrect": "तो माणूस रस्त्याच्या कडेला उभा होती.",
+    "correct": "तो माणूस रस्त्याच्या कडेला उभा होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30488,
+    "incorrect": "तिने एक पांढरा कुत्रा पाळला आहे.",
+    "correct": "तिने एक पांढरा कुत्रा पाळला आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30489,
+    "incorrect": "ती रोज संध्याकाळी खेळायला जातो.",
+    "correct": "ती रोज संध्याकाळी खेळायला जाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30490,
+    "incorrect": "त्याचा सुंदर घर छान दिसते.",
+    "correct": "त्याचे सुंदर घर छान दिसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30491,
+    "incorrect": "माझी वहिनी ऑफिसला जातो.",
+    "correct": "माझी वहिनी ऑफिसला जाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30492,
+    "incorrect": "त्यांनी एक मोठी माळ विकत घेतली.",
+    "correct": "त्यांनी एक मोठी माळ विकत घेतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30493,
+    "incorrect": "ती खूप दिवसांनी गावी आला होता.",
+    "correct": "ती खूप दिवसांनी गावी आली होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30494,
+    "incorrect": "ही माझा आवडता झाड आहे.",
+    "correct": "हे माझे आवडते झाड आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30495,
+    "incorrect": "तो मुलगा परीक्षेत पहिला आली.",
+    "correct": "तो मुलगा परीक्षेत पहिला आला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30496,
+    "incorrect": "आईने मुलाला नवीन कपडे घातली.",
+    "correct": "आईने मुलाला नवीन कपडे घातले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30497,
+    "incorrect": "माझा बहीण छान कविता करते.",
+    "correct": "माझी बहीण छान कविता करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30498,
+    "incorrect": "ती सकाळी लवकर उठून अभ्यास करत होता.",
+    "correct": "ती सकाळी लवकर उठून अभ्यास करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30499,
+    "incorrect": "त्यांनी एक महत्त्वाचा निर्णय घेतला.",
+    "correct": "त्यांनी एक महत्त्वाचा निर्णय घेतला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30500,
+    "incorrect": "त्याचा काळी पिशवी हरवली.",
+    "correct": "त्याची काळी पिशवी हरवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30501,
+    "incorrect": "तो मुलगी खूप चांगला स्वयंपाक करते.",
+    "correct": "ती मुलगी खूप चांगला स्वयंपाक करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30502,
+    "incorrect": "माझी आई मला रोज शाळेत सोडतो.",
+    "correct": "माझी आई मला रोज शाळेत सोडते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30503,
+    "incorrect": "मुलाने एक छान चित्र काढली.",
+    "correct": "मुलाने एक छान चित्र काढले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30504,
+    "incorrect": "ती नवीन नोकरी मिळाल्यामुळे आनंदी होता.",
+    "correct": "ती नवीन नोकरी मिळाल्यामुळे आनंदी होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30505,
+    "incorrect": "हा माझा मोठा खोली आहे.",
+    "correct": "ही माझी मोठी खोली आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30506,
+    "incorrect": "तो मुलगा खूप आजारी आहे.",
+    "correct": "तो मुलगा खूप आजारी आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30507,
+    "incorrect": "तिने एक हिरवी मिरची खाल्ला.",
+    "correct": "तिने एक हिरवी मिरची खाल्ली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30508,
+    "incorrect": "माझा मावशी छान गाणी गाते.",
+    "correct": "माझी मावशी छान गाणी गाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30509,
+    "incorrect": "तो माणूस गाडीची वाट बघत होती.",
+    "correct": "तो माणूस गाडीची वाट बघत होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30510,
+    "incorrect": "बाबांनी एक लाकडी खुर्ची आणला.",
+    "correct": "बाबांनी एक लाकडी खुर्ची आणली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30511,
+    "incorrect": "ती मुलगी खूप सुंदर दिसते.",
+    "correct": "ती मुलगी खूप सुंदर दिसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30512,
+    "incorrect": "त्याचा छोटा भाऊ खूप रडतो.",
+    "correct": "त्याचा छोटा भाऊ खूप रडतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30513,
+    "incorrect": "मी एक छानशी गाडी चालवला.",
+    "correct": "मी एक छानशी गाडी चालवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30514,
+    "incorrect": "ती पाहुण्यांचे स्वागत करत होता.",
+    "correct": "ती पाहुण्यांचे स्वागत करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30515,
+    "incorrect": "हा माझा आवडता खेळणी आहे.",
+    "correct": "हे माझे आवडते खेळणे आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30516,
+    "incorrect": "तो मुलगा खूप चांगला कवी आहे.",
+    "correct": "तो मुलगा खूप चांगला कवी आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30517,
+    "incorrect": "आईने एक नवीन साडी विकत घेतला.",
+    "correct": "आईने एक नवीन साडी विकत घेतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30518,
+    "incorrect": "माझी आजोबा कथा सांगते.",
+    "correct": "माझे आजोबा कथा सांगतात.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30519,
+    "incorrect": "ती नवीन पाककृती शिकत होता.",
+    "correct": "ती नवीन पाककृती शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30520,
+    "incorrect": "त्यांनी एक लहान घर विकत घेतला.",
+    "correct": "त्यांनी एक लहान घर विकत घेतले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30521,
+    "incorrect": "त्याचा गोरी मैत्रीण खूप छान आहे.",
+    "correct": "त्याची गोरी मैत्रीण खूप छान आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30522,
+    "incorrect": "तो मुलगी खूप अभ्यास करत होता.",
+    "correct": "ती मुलगी खूप अभ्यास करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30523,
+    "incorrect": "मी आज एक नवीन शर्ट घातली.",
+    "correct": "मी आज एक नवा शर्ट घातला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30524,
+    "incorrect": "माझा आई छान पदार्थ बनवते.",
+    "correct": "माझी आई छान पदार्थ बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30525,
+    "incorrect": "ती आईस्क्रीम खात होती.",
+    "correct": "ती आईस्क्रीम खात होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30526,
+    "incorrect": "त्यांनी एक जुनी सायकल दुरुस्त केला.",
+    "correct": "त्यांनी एक जुनी सायकल दुरुस्त केली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30527,
+    "incorrect": "हा माझा आवडता फळ आहे.",
+    "correct": "हे माझे आवडते फळ आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30528,
+    "incorrect": "तो मुलगी सर्वांशी आदराने वागतो.",
+    "correct": "ती मुलगी सर्वांशी आदराने वागते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30529,
+    "incorrect": "माझा बहीण छान रांगोळी काढते.",
+    "correct": "माझी बहीण छान रांगोळी काढते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30530,
+    "incorrect": "तिने एक लांब सुट्टी घेतली.",
+    "correct": "तिने एक लांब सुट्टी घेतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30531,
+    "incorrect": "ती सकाळी योगा करत होता.",
+    "correct": "ती सकाळी योगा करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30532,
+    "incorrect": "त्याचा काळा कुत्रा खूप भुंकतो.",
+    "correct": "त्याचा काळा कुत्रा खूप भुंकतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30533,
+    "incorrect": "तो मुलगा खूप चांगला लेखक आहे.",
+    "correct": "तो मुलगा खूप चांगला लेखक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30534,
+    "incorrect": "मी एक गोड जिलेबी खाल्ली.",
+    "correct": "मी एक गोड जिलेबी खाल्ली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30535,
+    "incorrect": "माझी आई छान केशरभात बनवते.",
+    "correct": "माझी आई छान केशरभात बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30536,
+    "incorrect": "ती पावसात भिजत होती.",
+    "correct": "ती पावसात भिजत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30537,
+    "incorrect": "त्यांनी एक मोठी चूक मान्य केला.",
+    "correct": "त्यांनी एक मोठी चूक मान्य केली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30538,
+    "incorrect": "ही माझा आवडता फूल आहे.",
+    "correct": "हे माझे आवडते फूल आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30539,
+    "incorrect": "तो मुलगी खूप सुंदर कविता करते.",
+    "correct": "ती मुलगी खूप सुंदर कविता करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30540,
+    "incorrect": "माझा वहिनी छान जेवण बनवते.",
+    "correct": "माझी वहिनी छान जेवण बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30541,
+    "incorrect": "तिने एक कठीण प्रश्न विचारला.",
+    "correct": "तिने एक कठीण प्रश्न विचारला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30542,
+    "incorrect": "ती मुलाला गोष्ट सांगत होता.",
+    "correct": "ती मुलाला गोष्ट सांगत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30543,
+    "incorrect": "त्याचा मोठी खोली छान सजवली आहे.",
+    "correct": "त्याची मोठी खोली छान सजवली आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30544,
+    "incorrect": "तो मुलगा खूप चांगला खेळाडू आहे.",
+    "correct": "तो मुलगा खूप चांगला खेळाडू आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30545,
+    "incorrect": "मी एक छानशी अंगठी विकत घेतली.",
+    "correct": "मी एक छानशी अंगठी विकत घेतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30546,
+    "incorrect": "माझा आत्या छान शिकवते.",
+    "correct": "माझी आत्या छान शिकवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30547,
+    "incorrect": "ती नवीन कला शिकत होता.",
+    "correct": "ती नवीन कला शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30548,
+    "incorrect": "त्यांनी एक सोपी समस्या सोडवला.",
+    "correct": "त्यांनी एक सोपी समस्या सोडवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30549,
+    "incorrect": "हा माझा आवडता पक्षी आहे.",
+    "correct": "हा माझा आवडता पक्षी आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30550,
+    "incorrect": "तो मुलगी खूप चांगला बोलते.",
+    "correct": "ती मुलगी खूप चांगले बोलते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30551,
+    "incorrect": "माझी आई छान थालीपीठ बनवते.",
+    "correct": "माझी आई छान थालीपीठ बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30552,
+    "incorrect": "तिने एक चांगली नोकरी मिळवला.",
+    "correct": "तिने एक चांगली नोकरी मिळवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30553,
+    "incorrect": "ती रात्री उशिरापर्यंत अभ्यास करत होता.",
+    "correct": "ती रात्री उशिरापर्यंत अभ्यास करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30554,
+    "incorrect": "त्याचा पिवळी बाग छान दिसतो.",
+    "correct": "त्याची पिवळी बाग छान दिसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30555,
+    "incorrect": "तो मुलगा खूप चांगला मित्र आहे.",
+    "correct": "तो मुलगा खूप चांगला मित्र आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30556,
+    "incorrect": "मी एक हिरवा पेरू खाल्ला.",
+    "correct": "मी एक हिरवा पेरू खाल्ला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30557,
+    "incorrect": "माझा बहीण छान शिकवते.",
+    "correct": "माझी बहीण छान शिकवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30558,
+    "incorrect": "ती बाळाला खेळवत होता.",
+    "correct": "ती बाळाला खेळवत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30559,
+    "incorrect": "त्यांनी एक मोठी इमारत बांधली.",
+    "correct": "त्यांनी एक मोठी इमारत बांधली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30560,
+    "incorrect": "ही माझा आवडता नेता आहे.",
+    "correct": "हे माझे आवडते नेते आहेत.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30561,
+    "incorrect": "तो मुलगी खूप सुंदर दिसते.",
+    "correct": "ती मुलगी खूप सुंदर दिसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30562,
+    "incorrect": "माझी आई छान मोदक बनवते.",
+    "correct": "माझी आई छान मोदक बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30563,
+    "incorrect": "तिने एक सुंदर बाग फुलवला.",
+    "correct": "तिने एक सुंदर बाग फुलवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30564,
+    "incorrect": "ती स्वयंपाक करत गाणे गात होता.",
+    "correct": "ती स्वयंपाक करत गाणे गात होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30565,
+    "incorrect": "त्याचा काळी गाडी छान आहे.",
+    "correct": "त्याची काळी गाडी छान आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30566,
+    "incorrect": "तो मुलगा खूप चांगला विद्यार्थी आहे.",
+    "correct": "तो मुलगा खूप चांगला विद्यार्थी आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30567,
+    "incorrect": "मी एक गरम चहा घेतला.",
+    "correct": "मी एक गरम चहा घेतला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30568,
+    "incorrect": "माझा मावशी छान भाजी बनवते.",
+    "correct": "माझी मावशी छान भाजी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30569,
+    "incorrect": "ती झोक्यावर बसून खेळत होता.",
+    "correct": "ती झोक्यावर बसून खेळत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30570,
+    "incorrect": "त्यांनी एक कठीण परीक्षा दिली.",
+    "correct": "त्यांनी एक कठीण परीक्षा दिली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30571,
+    "incorrect": "हा माझा आवडता प्राणी आहे.",
+    "correct": "हा माझा आवडता प्राणी आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30572,
+    "incorrect": "तो मुलगी खूप चांगला लिहिते.",
+    "correct": "ती मुलगी खूप चांगले लिहिते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30573,
+    "incorrect": "माझी आई छान लापशी बनवते.",
+    "correct": "माझी आई छान लापशी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30574,
+    "incorrect": "तिने एक छानशी भेटवस्तू दिली.",
+    "correct": "तिने एक छानशी भेटवस्तू दिली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30575,
+    "incorrect": "ती आईला कामात मदत करत होता.",
+    "correct": "ती आईला कामात मदत करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30576,
+    "incorrect": "त्याचा जुनी सायकल चांगली चालते.",
+    "correct": "त्याची जुनी सायकल चांगली चालते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30577,
+    "incorrect": "तो मुलगा खूप चांगला गायक आहे.",
+    "correct": "तो मुलगा खूप चांगला गायक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30578,
+    "incorrect": "मी एक थंडगार सरबत प्यायलो.",
+    "correct": "मी एक थंडगार सरबत प्यायलो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30579,
+    "incorrect": "माझा काकी छान पुरणपोळी बनवते.",
+    "correct": "माझी काकी छान पुरणपोळी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30580,
+    "incorrect": "ती आरशात स्वतःला बघत होता.",
+    "correct": "ती आरशात स्वतःला बघत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30581,
+    "incorrect": "त्यांनी एक छानशी पार्टी दिली.",
+    "correct": "त्यांनी एक छानशी पार्टी दिली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30582,
+    "incorrect": "ही माझा आवडता देश आहे.",
+    "correct": "हा माझा आवडता देश आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30583,
+    "incorrect": "तो मुलगी खूप चांगला वाचते.",
+    "correct": "ती मुलगी खूप चांगले वाचते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30584,
+    "incorrect": "माझी आई छान शिरा बनवते.",
+    "correct": "माझी आई छान शिरा बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30585,
+    "incorrect": "तिने एक गोड कथा सांगितला.",
+    "correct": "तिने एक गोड कथा सांगितली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30586,
+    "incorrect": "ती दारात वाट बघत उभी होता.",
+    "correct": "ती दारात वाट बघत उभी होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30587,
+    "incorrect": "त्याचा हिरवी शर्ट छान दिसतो.",
+    "correct": "त्याचा हिरवा शर्ट छान दिसतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30588,
+    "incorrect": "तो मुलगा खूप चांगला चित्रकार आहे.",
+    "correct": "तो मुलगा खूप चांगला चित्रकार आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30589,
+    "incorrect": "मी एक आंबट कैरी खाल्ली.",
+    "correct": "मी एक आंबट कैरी खाल्ली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30590,
+    "incorrect": "माझा आत्या छान चटणी बनवते.",
+    "correct": "माझी आत्या छान चटणी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30591,
+    "incorrect": "ती केसांची वेणी घालत होता.",
+    "correct": "ती केसांची वेणी घालत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30592,
+    "incorrect": "त्यांनी एक मोठी नदी पार केला.",
+    "correct": "त्यांनी एक मोठी नदी पार केली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30593,
+    "incorrect": "हा माझा आवडता किल्ला आहे.",
+    "correct": "हा माझा आवडता किल्ला आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30594,
+    "incorrect": "तो मुलगी खूप चांगला खेळते.",
+    "correct": "ती मुलगी खूप चांगला खेळते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30595,
+    "incorrect": "माझी आई छान भजी बनवते.",
+    "correct": "माझी आई छान भजी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30596,
+    "incorrect": "तिने एक चांगली संधी गमावला.",
+    "correct": "तिने एक चांगली संधी गमावली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30597,
+    "incorrect": "ती झोपेतून नुकतीच उठला होता.",
+    "correct": "ती झोपेतून नुकतीच उठली होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30598,
+    "incorrect": "त्याचा निळी वही कुठे आहे?",
+    "correct": "त्याची निळी वही कुठे आहे?",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30599,
+    "incorrect": "तो मुलगा खूप चांगला अभिनेता आहे.",
+    "correct": "तो मुलगा खूप चांगला अभिनेता आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30600,
+    "incorrect": "मी एक तिखट वडापाव खाल्ला.",
+    "correct": "मी एक तिखट वडापाव खाल्ला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30601,
+    "incorrect": "माझा बहीण छान शिकवते.",
+    "correct": "माझी बहीण छान शिकवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30602,
+    "incorrect": "ती नवीन ड्रेस घालून नाचत होता.",
+    "correct": "ती नवीन ड्रेस घालून नाचत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30603,
+    "incorrect": "त्यांनी एक सुंदर कविता वाचली.",
+    "correct": "त्यांनी एक सुंदर कविता वाचली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30604,
+    "incorrect": "ही माझा आवडता ग्रंथ आहे.",
+    "correct": "हा माझा आवडता ग्रंथ आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30605,
+    "incorrect": "तो मुलगी खूप चांगला गाते.",
+    "correct": "ती मुलगी खूप चांगले गाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30606,
+    "incorrect": "माझी आई छान सांबार बनवते.",
+    "correct": "माझी आई छान सांबार बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30607,
+    "incorrect": "तिने एक गोड लाडू खाल्ला.",
+    "correct": "तिने एक गोड लाडू खाल्ला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30608,
+    "incorrect": "ती झाडाखाली बसून वाचत होता.",
+    "correct": "ती झाडाखाली बसून वाचत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30609,
+    "incorrect": "त्याचा लाल गाडी छान दिसते.",
+    "correct": "त्याची लाल गाडी छान दिसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30610,
+    "incorrect": "तो मुलगा खूप चांगला नर्तक आहे.",
+    "correct": "तो मुलगा खूप चांगला नर्तक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30611,
+    "incorrect": "मी एक गार पाणी प्यायलो.",
+    "correct": "मी गार पाणी प्यायलो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30612,
+    "incorrect": "माझा मावशी छान कोशिंबीर बनवते.",
+    "correct": "माझी मावशी छान कोशिंबीर बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30613,
+    "incorrect": "ती बाबांना कामात मदत करत होता.",
+    "correct": "ती बाबांना कामात मदत करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30614,
+    "incorrect": "त्यांनी एक जुनी कथा सांगितली.",
+    "correct": "त्यांनी एक जुनी कथा सांगितली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30615,
+    "incorrect": "हा माझा आवडता ऋतू आहे.",
+    "correct": "हा माझा आवडता ऋतू आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30616,
+    "incorrect": "तो मुलगी खूप चांगला अभ्यास करते.",
+    "correct": "ती मुलगी खूप चांगला अभ्यास करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30617,
+    "incorrect": "माझी आई छान उपमा बनवते.",
+    "correct": "माझी आई छान उपमा बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30618,
+    "incorrect": "तिने एक छानशी पर्स विकत घेतला.",
+    "correct": "तिने एक छानशी पर्स विकत घेतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30619,
+    "incorrect": "ती शाळेत जात असताना पडला.",
+    "correct": "ती शाळेत जात असताना पडली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30620,
+    "incorrect": "त्याचा पांढरी घोडा छान धावतो.",
+    "correct": "त्याचा पांढरा घोडा छान धावतो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30621,
+    "incorrect": "तो मुलगा खूप चांगला वक्ता आहे.",
+    "correct": "तो मुलगा खूप चांगला वक्ता आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30622,
+    "incorrect": "मी एक गरम दूध प्यायलो.",
+    "correct": "मी गरम दूध प्यायलो.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30623,
+    "incorrect": "माझा काकी छान लोणचे बनवते.",
+    "correct": "माझी काकी छान लोणचे बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30624,
+    "incorrect": "ती बागेत फुले तोडत होता.",
+    "correct": "ती बागेत फुले तोडत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30625,
+    "incorrect": "त्यांनी एक छानशी कविता लिहिली.",
+    "correct": "त्यांनी एक छानशी कविता लिहिली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30626,
+    "incorrect": "ही माझा आवडता जिल्हा आहे.",
+    "correct": "हा माझा आवडता जिल्हा आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30627,
+    "incorrect": "तो मुलगी खूप चांगला चित्र काढते.",
+    "correct": "ती मुलगी खूप चांगले चित्र काढते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30628,
+    "incorrect": "माझी आई छान पोहे बनवते.",
+    "correct": "माझी आई छान पोहे बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30629,
+    "incorrect": "तिने एक मोठी चूक सुधारली.",
+    "correct": "तिने एक मोठी चूक सुधारली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30630,
+    "incorrect": "ती गाणे म्हणत स्वयंपाक करत होता.",
+    "correct": "ती गाणे म्हणत स्वयंपाक करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30631,
+    "incorrect": "त्याचा निळी शर्ट कुठे आहे?",
+    "correct": "त्याचा निळा शर्ट कुठे आहे?",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30632,
+    "incorrect": "तो मुलगा खूप चांगला नेता आहे.",
+    "correct": "तो मुलगा खूप चांगला नेता आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30633,
+    "incorrect": "मी एक गोड चिकू खाल्ला.",
+    "correct": "मी एक गोड चिकू खाल्ला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30634,
+    "incorrect": "माझा आत्या छान पापड बनवते.",
+    "correct": "माझी आत्या छान पापड बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30635,
+    "incorrect": "ती केसात फूल माळत होता.",
+    "correct": "ती केसात फूल माळत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30636,
+    "incorrect": "त्यांनी एक सुंदर देखावा पाहिला.",
+    "correct": "त्यांनी एक सुंदर देखावा पाहिला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30637,
+    "incorrect": "हा माझा आवडता प्रदेश आहे.",
+    "correct": "हा माझा आवडता प्रदेश आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30638,
+    "incorrect": "तो मुलगी खूप चांगला नृत्य करते.",
+    "correct": "ती मुलगी खूप चांगले नृत्य करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30639,
+    "incorrect": "माझी आई छान भाकरी बनवते.",
+    "correct": "माझी आई छान भाकरी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30640,
+    "incorrect": "तिने एक चांगली बातमी सांगितला.",
+    "correct": "तिने एक चांगली बातमी सांगितली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30641,
+    "incorrect": "ती दारात रांगोळी काढत होता.",
+    "correct": "ती दारात रांगोळी काढत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30642,
+    "incorrect": "त्याचा पिवळी सायकल कुठे आहे?",
+    "correct": "त्याची पिवळी सायकल कुठे आहे?",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30643,
+    "incorrect": "तो मुलगा खूप चांगला शिपाई आहे.",
+    "correct": "तो मुलगा खूप चांगला शिपाई आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30644,
+    "incorrect": "मी एक आंबट संत्रे खाल्ले.",
+    "correct": "मी एक आंबट संत्रे खाल्ले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30645,
+    "incorrect": "माझा वहिनी छान कढी बनवते.",
+    "correct": "माझी वहिनी छान कढी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30646,
+    "incorrect": "ती नवीन साडी घालून मिरवत होता.",
+    "correct": "ती नवीन साडी घालून मिरवत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30647,
+    "incorrect": "त्यांनी एक सुंदर चित्र रंगवले.",
+    "correct": "त्यांनी एक सुंदर चित्र रंगवले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30648,
+    "incorrect": "ही माझा आवडता तालुका आहे.",
+    "correct": "हा माझा आवडता तालुका आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30649,
+    "incorrect": "तो मुलगी खूप चांगला गाते.",
+    "correct": "ती मुलगी खूप चांगले गाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30650,
+    "incorrect": "माझी आई छान वरण-भात बनवते.",
+    "correct": "माझी आई छान वरण-भात बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30651,
+    "incorrect": "तिने एक छानशी शाल विकत घेतला.",
+    "correct": "तिने एक छानशी शाल विकत घेतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30652,
+    "incorrect": "ती मुलाला शाळेत सोडायला जात होता.",
+    "correct": "ती मुलाला शाळेत सोडायला जात होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30653,
+    "incorrect": "त्याचा हिरवी गाडी कुठे आहे?",
+    "correct": "त्याची हिरवी गाडी कुठे आहे?",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30654,
+    "incorrect": "तो मुलगा खूप चांगला डॉक्टर आहे.",
+    "correct": "तो मुलगा खूप चांगला डॉक्टर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30655,
+    "incorrect": "मी एक गोड पेरू खाल्ला.",
+    "correct": "मी एक गोड पेरू खाल्ला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30656,
+    "incorrect": "माझा मावशी छान चटणी-भाकरी बनवते.",
+    "correct": "माझी मावशी छान चटणी-भाकरी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30657,
+    "incorrect": "ती बाजारात भाजी विकत होता.",
+    "correct": "ती बाजारात भाजी विकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30658,
+    "incorrect": "त्यांनी एक जुनी आठवण सांगितली.",
+    "correct": "त्यांनी एक जुनी आठवण सांगितली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30659,
+    "incorrect": "हा माझा आवडता महाल आहे.",
+    "correct": "हा माझा आवडता महाल आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30660,
+    "incorrect": "तो मुलगी खूप चांगला वाचते.",
+    "correct": "ती मुलगी खूप चांगले वाचते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30661,
+    "incorrect": "माझी आई छान पिठलं-भाकरी बनवते.",
+    "correct": "माझी आई छान पिठलं-भाकरी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30662,
+    "incorrect": "तिने एक सुंदर हार बनवला.",
+    "correct": "तिने एक सुंदर हार बनवला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30663,
+    "incorrect": "ती नवीन गोष्ट शिकत होता.",
+    "correct": "ती नवीन गोष्ट शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30664,
+    "incorrect": "त्याचा लाल शर्ट कुठे आहे?",
+    "correct": "त्याचा लाल शर्ट कुठे आहे?",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30665,
+    "incorrect": "तो मुलगा खूप चांगला अभियंता आहे.",
+    "correct": "तो मुलगा खूप चांगला अभियंता आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30666,
+    "incorrect": "मी एक आंबट द्राक्षे खाल्ली.",
+    "correct": "मी आंबट द्राक्षे खाल्ली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30667,
+    "incorrect": "माझा काकी छान ठेचा बनवते.",
+    "correct": "माझी काकी छान ठेचा बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30668,
+    "incorrect": "ती पाण्यात पोहत होता.",
+    "correct": "ती पाण्यात पोहत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30669,
+    "incorrect": "त्यांनी एक छानशी गोष्ट रचली.",
+    "correct": "त्यांनी एक छानशी गोष्ट रचली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30670,
+    "incorrect": "ही माझा आवडता बंगला आहे.",
+    "correct": "हा माझा आवडता बंगला आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30671,
+    "incorrect": "तो मुलगी खूप चांगला लिहिते.",
+    "correct": "ती मुलगी खूप चांगले लिहिते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30672,
+    "incorrect": "माझी आई छान खिचडी बनवते.",
+    "correct": "माझी आई छान खिचडी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30673,
+    "incorrect": "तिने एक कठीण कोडे सोडवला.",
+    "correct": "तिने एक कठीण कोडे सोडवले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30674,
+    "incorrect": "ती पावसात नाचत होता.",
+    "correct": "ती पावसात नाचत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30675,
+    "incorrect": "त्याचा पांढरी गाडी कुठे आहे?",
+    "correct": "त्याची पांढरी गाडी कुठे आहे?",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30676,
+    "incorrect": "तो मुलगा खूप चांगला वकील आहे.",
+    "correct": "तो मुलगा खूप चांगला वकील आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30677,
+    "incorrect": "मी एक गोड सफरचंद खाल्ले.",
+    "correct": "मी एक गोड सफरचंद खाल्ले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30678,
+    "incorrect": "माझा आत्या छान भरीत बनवते.",
+    "correct": "माझी आत्या छान भरीत बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30679,
+    "incorrect": "ती गाडी चालवत गाणे ऐकत होता.",
+    "correct": "ती गाडी चालवत गाणे ऐकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30680,
+    "incorrect": "त्यांनी एक सुंदर बाग पाहिला.",
+    "correct": "त्यांनी एक सुंदर बाग पाहिली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30681,
+    "incorrect": "हा माझा आवडता वाडा आहे.",
+    "correct": "हा माझा आवडता वाडा आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30682,
+    "incorrect": "तो मुलगी खूप चांगला खेळते.",
+    "correct": "ती मुलगी खूप चांगला खेळते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30683,
+    "incorrect": "माझी आई छान पुलाव बनवते.",
+    "correct": "माझी आई छान पुलाव बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30684,
+    "incorrect": "तिने एक चांगली कल्पना मांडला.",
+    "correct": "तिने एक चांगली कल्पना मांडली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30685,
+    "incorrect": "ती बाजारात फिरत होता.",
+    "correct": "ती बाजारात फिरत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30686,
+    "incorrect": "त्याचा काळी वही कुठे आहे?",
+    "correct": "त्याची काळी वही कुठे आहे?",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30687,
+    "incorrect": "तो मुलगा खूप चांगला शिक्षक आहे.",
+    "correct": "तो मुलगा खूप चांगला शिक्षक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30688,
+    "incorrect": "मी एक आंबट बोर खाल्ले.",
+    "correct": "मी एक आंबट बोर खाल्ले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30689,
+    "incorrect": "माझा वहिनी छान लोणी काढते.",
+    "correct": "माझी वहिनी छान लोणी काढते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30690,
+    "incorrect": "ती नवीन खेळ शिकत होता.",
+    "correct": "ती नवीन खेळ शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30691,
+    "incorrect": "त्यांनी एक सुंदर जागा निवडली.",
+    "correct": "त्यांनी एक सुंदर जागा निवडली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30692,
+    "incorrect": "ही माझा आवडता किल्ला आहे.",
+    "correct": "हा माझा आवडता किल्ला आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30693,
+    "incorrect": "तो मुलगी खूप चांगला गाते.",
+    "correct": "ती मुलगी खूप चांगले गाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30694,
+    "incorrect": "माझी आई छान उसळ बनवते.",
+    "correct": "माझी आई छान उसळ बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30695,
+    "incorrect": "तिने एक छानशी अंगठी घातली.",
+    "correct": "तिने एक छानशी अंगठी घातली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30696,
+    "incorrect": "ती शाळेत जात होता.",
+    "correct": "ती शाळेत जात होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30697,
+    "incorrect": "त्याचा हिरवी वही कुठे आहे?",
+    "correct": "त्याची हिरवी वही कुठे आहे?",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30698,
+    "incorrect": "तो मुलगा खूप चांगला वैज्ञानिक आहे.",
+    "correct": "तो मुलगा खूप चांगला वैज्ञानिक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30699,
+    "incorrect": "मी एक गोड डाळिंब खाल्ले.",
+    "correct": "मी एक गोड डाळिंब खाल्ले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30700,
+    "incorrect": "माझा मावशी छान दही-भात बनवते.",
+    "correct": "माझी मावशी छान दही-भात बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30701,
+    "incorrect": "ती बागेत फिरत गाणे गुणगुणत होता.",
+    "correct": "ती बागेत फिरत गाणे गुणगुणत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30702,
+    "incorrect": "त्यांनी एक सुंदर मूर्ती घडवली.",
+    "correct": "त्यांनी एक सुंदर मूर्ती घडवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30703,
+    "incorrect": "हा माझा आवडता तलाव आहे.",
+    "correct": "हा माझा आवडता तलाव आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30704,
+    "incorrect": "तो मुलगी खूप चांगला वाचते.",
+    "correct": "ती मुलगी खूप चांगले वाचते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30705,
+    "incorrect": "माझी आई छान सोलकढी बनवते.",
+    "correct": "माझी आई छान सोलकढी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30706,
+    "incorrect": "तिने एक मोठी लढाई जिंकला.",
+    "correct": "तिने एक मोठी लढाई जिंकली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30707,
+    "incorrect": "ती अभ्यास करत चहा पीत होता.",
+    "correct": "ती अभ्यास करत चहा पीत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30708,
+    "incorrect": "त्याचा लाल वही कुठे आहे?",
+    "correct": "त्याची लाल वही कुठे आहे?",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30709,
+    "incorrect": "तो मुलगा खूप चांगला कलाकार आहे.",
+    "correct": "तो मुलगा खूप चांगला कलाकार आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30710,
+    "incorrect": "मी एक आंबट आवळा खाल्ला.",
+    "correct": "मी एक आंबट आवळा खाल्ला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30711,
+    "incorrect": "माझा काकी छान सार बनवते.",
+    "correct": "माझी काकी छान सार बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30712,
+    "incorrect": "ती आरशासमोर उभी राहून स्वतःला न्याहाळत होता.",
+    "correct": "ती आरशासमोर उभी राहून स्वतःला न्याहाळत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30713,
+    "incorrect": "त्यांनी एक सुंदर रचना केली.",
+    "correct": "त्यांनी एक सुंदर रचना केली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30714,
+    "incorrect": "ही माझा आवडता डोंगर आहे.",
+    "correct": "हा माझा आवडता डोंगर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30715,
+    "incorrect": "तो मुलगी खूप चांगला लिहिते.",
+    "correct": "ती मुलगी खूप चांगले लिहिते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30716,
+    "incorrect": "माझी आई छान कबाब बनवते.",
+    "correct": "माझी आई छान कबाब बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30717,
+    "incorrect": "तिने एक चांगली मैत्रीण मिळवली.",
+    "correct": "तिने एक चांगली मैत्रीण मिळवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30718,
+    "incorrect": "ती नवीन भाषा शिकण्याचा प्रयत्न करत होता.",
+    "correct": "ती नवीन भाषा शिकण्याचा प्रयत्न करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30719,
+    "incorrect": "त्याचा पांढरी वही कुठे आहे?",
+    "correct": "त्याची पांढरी वही कुठे आहे?",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30720,
+    "incorrect": "तो मुलगा खूप चांगला शास्त्रज्ञ आहे.",
+    "correct": "तो मुलगा खूप चांगला शास्त्रज्ञ आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30721,
+    "incorrect": "मी एक गोड अननस खाल्ले.",
+    "correct": "मी एक गोड अननस खाल्ले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30722,
+    "incorrect": "माझा आत्या छान सांडगे बनवते.",
+    "correct": "माझी आत्या छान सांडगे बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30723,
+    "incorrect": "ती घरात एकटीच बसून कंटाळला होता.",
+    "correct": "ती घरात एकटीच बसून कंटाळली होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30724,
+    "incorrect": "त्यांनी एक सुंदर कलाकृती बनवली.",
+    "correct": "त्यांनी एक सुंदर कलाकृती बनवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30725,
+    "incorrect": "हा माझा आवडता समुद्रकिनारा आहे.",
+    "correct": "हा माझा आवडता समुद्रकिनारा आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30726,
+    "incorrect": "तो मुलगी खूप चांगला खेळते.",
+    "correct": "ती मुलगी खूप चांगला खेळते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30727,
+    "incorrect": "माझी आई छान कोफ्ता बनवते.",
+    "correct": "माझी आई छान कोफ्ता बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30728,
+    "incorrect": "तिने एक छानशी अंगठी निवडली.",
+    "correct": "तिने एक छानशी अंगठी निवडली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30729,
+    "incorrect": "ती बागेतल्या फुलांना पाणी घालत होता.",
+    "correct": "ती बागेतल्या फुलांना पाणी घालत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30730,
+    "incorrect": "त्याचा काळी गाडी कुठे आहे?",
+    "correct": "त्याची काळी गाडी कुठे आहे?",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30731,
+    "incorrect": "तो मुलगा खूप चांगला सैनिक आहे.",
+    "correct": "तो मुलगा खूप चांगला सैनिक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30732,
+    "incorrect": "मी एक आंबट चिंच खाल्ली.",
+    "correct": "मी एक आंबट चिंच खाल्ली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30733,
+    "incorrect": "माझा वहिनी छान पापलेट फ्राय बनवते.",
+    "correct": "माझी वहिनी छान पापलेट फ्राय बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30734,
+    "incorrect": "ती मुलाला शाळेतून आणायला जात होता.",
+    "correct": "ती मुलाला शाळेतून आणायला जात होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30735,
+    "incorrect": "त्यांनी एक सुंदर गीत गायले.",
+    "correct": "त्यांनी एक सुंदर गीत गायले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30736,
+    "incorrect": "ही माझा आवडता धबधबा आहे.",
+    "correct": "हा माझा आवडता धबधबा आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30737,
+    "incorrect": "तो मुलगी खूप चांगला गाते.",
+    "correct": "ती मुलगी खूप चांगले गाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30738,
+    "incorrect": "माझी आई छान बिर्याणी बनवते.",
+    "correct": "माझी आई छान बिर्याणी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30739,
+    "incorrect": "तिने एक मोठी परीक्षा दिली.",
+    "correct": "तिने एक मोठी परीक्षा दिली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30740,
+    "incorrect": "ती नवीन कपडे घालून तयार होत होता.",
+    "correct": "ती नवीन कपडे घालून तयार होत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30741,
+    "incorrect": "त्याचा हिरवी गाडी कुठे आहे?",
+    "correct": "त्याची हिरवी गाडी कुठे आहे?",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30742,
+    "incorrect": "तो मुलगा खूप चांगला पोलीस आहे.",
+    "correct": "तो मुलगा खूप चांगला पोलीस आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30743,
+    "incorrect": "मी एक गोड कलिंगड खाल्ले.",
+    "correct": "मी एक गोड कलिंगड खाल्ले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30744,
+    "incorrect": "माझा मावशी छान मटकीची उसळ बनवते.",
+    "correct": "माझी मावशी छान मटकीची उसळ बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30745,
+    "incorrect": "ती अभ्यास करत असताना झोपला.",
+    "correct": "ती अभ्यास करत असताना झोपली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30746,
+    "incorrect": "त्यांनी एक सुंदर नाटक सादर केले.",
+    "correct": "त्यांनी एक सुंदर नाटक सादर केले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30747,
+    "incorrect": "हा माझा आवडता बेट आहे.",
+    "correct": "हे माझे आवडते बेट आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30748,
+    "incorrect": "तो मुलगी खूप चांगला वाचते.",
+    "correct": "ती मुलगी खूप चांगले वाचते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30749,
+    "incorrect": "माझी आई छान वडा सांबार बनवते.",
+    "correct": "माझी आई छान वडा सांबार बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30750,
+    "incorrect": "तिने एक छानशी कविता सादर केला.",
+    "correct": "तिने एक छानशी कविता सादर केली.",
+    "error_type": "Gender Agreement"
+  },
+  
+  {
+    "id": 30751,
+    "incorrect": "तिने एक छानशी कविता सादर केला.",
+    "correct": "तिने एक छानशी कविता सादर केली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30752,
+    "incorrect": "तो मुलगा खूप चांगला वाचक आहे.",
+    "correct": "तो मुलगा खूप चांगला वाचक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30753,
+    "incorrect": "माझा बहीण छान स्वयंपाक शिकते.",
+    "correct": "माझी बहीण छान स्वयंपाक शिकते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30754,
+    "incorrect": "ती ऑफिसला जायला निघाला होता.",
+    "correct": "ती ऑफिसला जायला निघाली होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30755,
+    "incorrect": "आईने मुलासाठी गरम दूध आणली.",
+    "correct": "आईने मुलासाठी गरम दूध आणले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30756,
+    "incorrect": "हा माझा आवडती किल्ला आहे.",
+    "correct": "हा माझा आवडता किल्ला आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30757,
+    "incorrect": "अजयने एक नवी फाईल उघडला.",
+    "correct": "अजयने एक नवी फाईल उघडली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30758,
+    "incorrect": "माझी भाऊ डॉक्टर बनला.",
+    "correct": "माझा भाऊ डॉक्टर झाला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30759,
+    "incorrect": "तो मुलगी खूप मेहनती होती.",
+    "correct": "ती मुलगी खूप मेहनती होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30760,
+    "incorrect": "त्याचा नवी किल्ली कुठे आहे?",
+    "correct": "त्याची नवी किल्ली कुठे आहे?",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30761,
+    "incorrect": "ती नवीन कला शिकण्याचा प्रयत्न करत होता.",
+    "correct": "ती नवीन कला शिकण्याचा प्रयत्न करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30762,
+    "incorrect": "मी एक महत्त्वाची तक्रार नोंदवला.",
+    "correct": "मी एक महत्त्वाची तक्रार नोंदवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30763,
+    "incorrect": "माझा आत्या छान शिकवते.",
+    "correct": "माझी आत्या छान शिकवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30764,
+    "incorrect": "तो माणूस बँकेत पैसे मोजत होती.",
+    "correct": "तो माणूस बँकेत पैसे मोजत होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30765,
+    "incorrect": "सुप्रियाने एक सुंदर पत्र लिहिला.",
+    "correct": "सुप्रियाने एक सुंदर पत्र लिहिले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30766,
+    "incorrect": "ही माझा आवडता झाड आहे.",
+    "correct": "हे माझे आवडते झाड आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30767,
+    "incorrect": "ती मुलगी सर्वांशी आदराने वागते.",
+    "correct": "ती मुलगी सर्वांशी आदराने वागते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30768,
+    "incorrect": "माझा मैत्रीण चांगली गाणी गाते.",
+    "correct": "माझी मैत्रीण चांगली गाणी गाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30769,
+    "incorrect": "तिने एक छानशी भेटवस्तू निवडला.",
+    "correct": "तिने एक छानशी भेटवस्तू निवडली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30770,
+    "incorrect": "तो मुलगा खूप चांगला खेळाडू होता.",
+    "correct": "तो मुलगा खूप चांगला खेळाडू होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30771,
+    "incorrect": "त्याचा काळी पिशवी हरवली आहे.",
+    "correct": "त्याची काळी पिशवी हरवली आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30772,
+    "incorrect": "ती झाडाखाली बसून पुस्तक वाचत होता.",
+    "correct": "ती झाडाखाली बसून पुस्तक वाचत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30773,
+    "incorrect": "बाबांनी एक मोठी जबाबदारी स्वीकारला.",
+    "correct": "बाबांनी एक मोठी जबाबदारी स्वीकारली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30774,
+    "incorrect": "माझा मावशी छान लोणचे बनवते.",
+    "correct": "माझी मावशी छान लोणचे बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30775,
+    "incorrect": "तो ऑफिसमध्ये काम करत होती.",
+    "correct": "तो ऑफिसमध्ये काम करत होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30776,
+    "incorrect": "आईने एक चविष्ट खीर बनवला.",
+    "correct": "आईने एक चविष्ट खीर बनवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30777,
+    "incorrect": "हा माझा आवडता पेहराव आहे.",
+    "correct": "हा माझा आवडता पेहराव आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30778,
+    "incorrect": "ती मुलगी खूप सुंदर नृत्य करते.",
+    "correct": "ती मुलगी खूप सुंदर नृत्य करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30779,
+    "incorrect": "माझा बहीण छान चित्रकला करते.",
+    "correct": "माझी बहीण छान चित्रकला करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30780,
+    "incorrect": "तिने एक नवीन औषध घेतला.",
+    "correct": "तिने एक नवीन औषध घेतले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30781,
+    "incorrect": "तो माणूस खूप दयाळू स्वभावाची होती.",
+    "correct": "तो माणूस खूप दयाळू स्वभावाचा होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30782,
+    "incorrect": "त्याचा मोठी खोली स्वच्छ आहे.",
+    "correct": "त्याची मोठी खोली स्वच्छ आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30783,
+    "incorrect": "ती बाजारात खरेदी करायला गेला.",
+    "correct": "ती बाजारात खरेदी करायला गेली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30784,
+    "incorrect": "मी एक लांब कथा वाचली.",
+    "correct": "मी एक लांब कथा वाचली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30785,
+    "incorrect": "माझी आजोबा रोज फिरायला जाते.",
+    "correct": "माझे आजोबा रोज फिरायला जातात.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30786,
+    "incorrect": "तो मुलगा खूप चांगला गायक आहे.",
+    "correct": "तो मुलगा खूप चांगला गायक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30787,
+    "incorrect": "आईने एक नवीन भांडे विकत घेतला.",
+    "correct": "आईने एक नवीन भांडे विकत घेतले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30788,
+    "incorrect": "ही माझा आवडता शहर आहे.",
+    "correct": "हे माझे आवडते शहर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30789,
+    "incorrect": "ती पावसात भिजायला गेला.",
+    "correct": "ती पावसात भिजायला गेली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30790,
+    "incorrect": "माझा काकी छान पुरणपोळी बनवते.",
+    "correct": "माझी काकी छान पुरणपोळी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30791,
+    "incorrect": "तिने एक महत्त्वाची सूचना दिला.",
+    "correct": "तिने एक महत्त्वाची सूचना दिली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30792,
+    "incorrect": "तो माणूस खूप हुशार होती.",
+    "correct": "तो माणूस खूप हुशार होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30793,
+    "incorrect": "त्याचा नवी सायकल कुठे आहे?",
+    "correct": "त्याची नवी सायकल कुठे आहे?",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30794,
+    "incorrect": "ती तिच्या मैत्रिणीला भेटायला जात होता.",
+    "correct": "ती तिच्या मैत्रिणीला भेटायला जात होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30795,
+    "incorrect": "मी एक छानशी गाडी विकत घेतला.",
+    "correct": "मी एक छानशी गाडी विकत घेतली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30796,
+    "incorrect": "माझी वहिनी ऑफिसला जाते.",
+    "correct": "माझी वहिनी ऑफिसला जाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30797,
+    "incorrect": "तो मुलगा खूप चांगला मित्र आहे.",
+    "correct": "तो मुलगा खूप चांगला मित्र आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30798,
+    "incorrect": "आईने एक गोड श्रीखंड बनवला.",
+    "correct": "आईने एक गोड श्रीखंड बनवले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30799,
+    "incorrect": "हा माझा आवडता देश आहे.",
+    "correct": "हा माझा आवडता देश आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30800,
+    "incorrect": "ती बागेत फुले तोडत होता.",
+    "correct": "ती बागेत फुले तोडत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30801,
+    "incorrect": "माझा बहीण छान शिकवते.",
+    "correct": "माझी बहीण छान शिकवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30802,
+    "incorrect": "तिने एक नवीन साडी नेसला.",
+    "correct": "तिने एक नवीन साडी नेसली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30803,
+    "incorrect": "तो मुलगा खूप चांगला अभिनेता आहे.",
+    "correct": "तो मुलगा खूप चांगला अभिनेता आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30804,
+    "incorrect": "त्याचा सुंदर घर छान सजवले आहे.",
+    "correct": "त्याचे सुंदर घर छान सजवले आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30805,
+    "incorrect": "ती आरशात स्वतःला बघत होता.",
+    "correct": "ती आरशात स्वतःला बघत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30806,
+    "incorrect": "मी एक चांगली बातमी ऐकली.",
+    "correct": "मी एक चांगली बातमी ऐकली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30807,
+    "incorrect": "माझा आई छान पदार्थ बनवते.",
+    "correct": "माझी आई छान पदार्थ बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30808,
+    "incorrect": "तो माणूस खूप प्रामाणिक होती.",
+    "correct": "तो माणूस खूप प्रामाणिक होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30809,
+    "incorrect": "आईने एक सुंदर रांगोळी काढला.",
+    "correct": "आईने एक सुंदर रांगोळी काढली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30810,
+    "incorrect": "ही माझा आवडता किल्ला आहे.",
+    "correct": "हा माझा आवडता किल्ला आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30811,
+    "incorrect": "ती मुलगी खूप चांगला अभ्यास करते.",
+    "correct": "ती मुलगी खूप चांगला अभ्यास करते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30812,
+    "incorrect": "माझा मावशी छान भाजी बनवते.",
+    "correct": "माझी मावशी छान भाजी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30813,
+    "incorrect": "तिने एक नवीन गाडी चालवला.",
+    "correct": "तिने एक नवीन गाडी चालवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30814,
+    "incorrect": "तो मुलगा खूप चांगला चित्रकार आहे.",
+    "correct": "तो मुलगा खूप चांगला चित्रकार आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30815,
+    "incorrect": "त्याचा मोठी बहीण डॉक्टर झाली आहे.",
+    "correct": "त्याची मोठी बहीण डॉक्टर झाली आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30816,
+    "incorrect": "ती नवीन कपडे घालून तयार होत होता.",
+    "correct": "ती नवीन कपडे घालून तयार होत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30817,
+    "incorrect": "मी एक गोड चिकू खाल्ली.",
+    "correct": "मी एक गोड चिकू खाल्ला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30818,
+    "incorrect": "माझा आत्या छान पापड बनवते.",
+    "correct": "माझी आत्या छान पापड बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30819,
+    "incorrect": "तो माणूस खूप मेहनती होती.",
+    "correct": "तो माणूस खूप मेहनती होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30820,
+    "incorrect": "आईने एक छानशी गोष्ट सांगितला.",
+    "correct": "आईने एक छानशी गोष्ट सांगितली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30821,
+    "incorrect": "हा माझा आवडता डोंगर आहे.",
+    "correct": "हा माझा आवडता डोंगर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30822,
+    "incorrect": "ती मुलगी खूप चांगला गाते.",
+    "correct": "ती मुलगी खूप चांगले गाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30823,
+    "incorrect": "माझा वहिनी छान कढी बनवते.",
+    "correct": "माझी वहिनी छान कढी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30824,
+    "incorrect": "तिने एक कठीण परीक्षा दिली.",
+    "correct": "तिने एक कठीण परीक्षा दिली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30825,
+    "incorrect": "तो मुलगा खूप चांगला नर्तक आहे.",
+    "correct": "तो मुलगा खूप चांगला नर्तक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30826,
+    "incorrect": "त्याचा काळी गाडी छान चालते.",
+    "correct": "त्याची काळी गाडी छान चालते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30827,
+    "incorrect": "ती नवीन खेळ शिकत होती.",
+    "correct": "ती नवीन खेळ शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30828,
+    "incorrect": "मी एक आंबट कैरी खाल्ला.",
+    "correct": "मी एक आंबट कैरी खाल्ली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30829,
+    "incorrect": "माझा काकी छान लोणी काढते.",
+    "correct": "माझी काकी छान लोणी काढते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30830,
+    "incorrect": "तो माणूस खूप श्रीमंत होती.",
+    "correct": "तो माणूस खूप श्रीमंत होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30831,
+    "incorrect": "आईने एक सुंदर हार बनवला.",
+    "correct": "आईने एक सुंदर हार बनवला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30832,
+    "incorrect": "ही माझा आवडता वाडा आहे.",
+    "correct": "हा माझा आवडता वाडा आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30833,
+    "incorrect": "ती मुलगी खूप चांगला वाचते.",
+    "correct": "ती मुलगी खूप चांगले वाचते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30834,
+    "incorrect": "माझा आई छान उसळ बनवते.",
+    "correct": "माझी आई छान उसळ बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30835,
+    "incorrect": "तिने एक चांगली नोकरी शोधला.",
+    "correct": "तिने एक चांगली नोकरी शोधली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30836,
+    "incorrect": "तो मुलगा खूप चांगला सैनिक आहे.",
+    "correct": "तो मुलगा खूप चांगला सैनिक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30837,
+    "incorrect": "त्याचा हिरवी गाडी छान दिसते.",
+    "correct": "त्याची हिरवी गाडी छान दिसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30838,
+    "incorrect": "ती नवीन भाषा शिकत होती.",
+    "correct": "ती नवीन भाषा शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30839,
+    "incorrect": "मी एक गोड पेरू खाल्ली.",
+    "correct": "मी एक गोड पेरू खाल्ला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30840,
+    "incorrect": "माझा मावशी छान पिठलं-भाकरी बनवते.",
+    "correct": "माझी मावशी छान पिठलं-भाकरी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30841,
+    "incorrect": "तो माणूस खूप गरीब होती.",
+    "correct": "तो माणूस खूप गरीब होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30842,
+    "incorrect": "आईने एक छानशी साडी निवडला.",
+    "correct": "आईने एक छानशी साडी निवडली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30843,
+    "incorrect": "हा माझा आवडता महाल आहे.",
+    "correct": "हा माझा आवडता महाल आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30844,
+    "incorrect": "ती मुलगी खूप चांगला लिहिते.",
+    "correct": "ती मुलगी खूप चांगले लिहिते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30845,
+    "incorrect": "माझा वहिनी छान बिर्याणी बनवते.",
+    "correct": "माझी वहिनी छान बिर्याणी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30846,
+    "incorrect": "तिने एक मोठी लढाई जिंकला.",
+    "correct": "तिने एक मोठी लढाई जिंकली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30847,
+    "incorrect": "तो मुलगा खूप चांगला डॉक्टर आहे.",
+    "correct": "तो मुलगा खूप चांगला डॉक्टर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30848,
+    "incorrect": "त्याचा लाल गाडी छान आहे.",
+    "correct": "त्याची लाल गाडी छान आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30849,
+    "incorrect": "ती नवीन गोष्ट शिकत होती.",
+    "correct": "ती नवीन गोष्ट शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30850,
+    "incorrect": "मी एक आंबट द्राक्ष खाल्ले.",
+    "correct": "मी एक आंबट द्राक्ष खाल्ले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30851,
+    "incorrect": "माझा काकी छान ठेचा बनवते.",
+    "correct": "माझी काकी छान ठेचा बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30852,
+    "incorrect": "तो माणूस खूप आनंदी होती.",
+    "correct": "तो माणूस खूप आनंदी होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30853,
+    "incorrect": "आईने एक सुंदर मूर्ती घडवला.",
+    "correct": "आईने एक सुंदर मूर्ती घडवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30854,
+    "incorrect": "ही माझा आवडता बंगला आहे.",
+    "correct": "हा माझा आवडता बंगला आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30855,
+    "incorrect": "ती मुलगी खूप चांगला खेळते.",
+    "correct": "ती मुलगी खूप चांगला खेळते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30856,
+    "incorrect": "माझा आई छान खिचडी बनवते.",
+    "correct": "माझी आई छान खिचडी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30857,
+    "incorrect": "तिने एक चांगली मैत्रीण मिळवला.",
+    "correct": "तिने एक चांगली मैत्रीण मिळवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30858,
+    "incorrect": "तो मुलगा खूप चांगला अभियंता आहे.",
+    "correct": "तो मुलगा खूप चांगला अभियंता आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30859,
+    "incorrect": "त्याचा पांढरी गाडी छान दिसते.",
+    "correct": "त्याची पांढरी गाडी छान दिसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30860,
+    "incorrect": "ती घरात एकटीच बसून कंटाळला होता.",
+    "correct": "ती घरात एकटीच बसून कंटाळली होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30861,
+    "incorrect": "मी एक गोड सफरचंद खाल्ली.",
+    "correct": "मी एक गोड सफरचंद खाल्ले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30862,
+    "incorrect": "माझा आत्या छान भरीत बनवते.",
+    "correct": "माझी आत्या छान भरीत बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30863,
+    "incorrect": "तो माणूस खूप दुःखी होती.",
+    "correct": "तो माणूस खूप दुःखी होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30864,
+    "incorrect": "आईने एक सुंदर बाग फुलवला.",
+    "correct": "आईने एक सुंदर बाग फुलवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30865,
+    "incorrect": "हा माझा आवडता समुद्रकिनारा आहे.",
+    "correct": "हा माझा आवडता समुद्रकिनारा आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30866,
+    "incorrect": "ती मुलगी खूप चांगला गाते.",
+    "correct": "ती मुलगी खूप चांगले गाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30867,
+    "incorrect": "माझा वहिनी छान पुलाव बनवते.",
+    "correct": "माझी वहिनी छान पुलाव बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30868,
+    "incorrect": "तिने एक चांगली कल्पना मांडला.",
+    "correct": "तिने एक चांगली कल्पना मांडली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30869,
+    "incorrect": "तो मुलगा खूप चांगला वकील आहे.",
+    "correct": "तो मुलगा खूप चांगला वकील आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30870,
+    "incorrect": "त्याचा काळी वही छान आहे.",
+    "correct": "त्याची काळी वही छान आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30871,
+    "incorrect": "ती नवीन खेळ शिकत होती.",
+    "correct": "ती नवीन खेळ शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30872,
+    "incorrect": "मी एक आंबट बोर खाल्ली.",
+    "correct": "मी एक आंबट बोर खाल्ले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30873,
+    "incorrect": "माझा मावशी छान लोणी काढते.",
+    "correct": "माझी मावशी छान लोणी काढते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30874,
+    "incorrect": "तो माणूस खूप रागीट होती.",
+    "correct": "तो माणूस खूप रागीट होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30875,
+    "incorrect": "आईने एक सुंदर जागा निवडला.",
+    "correct": "आईने एक सुंदर जागा निवडली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30876,
+    "incorrect": "ही माझा आवडता किल्ला आहे.",
+    "correct": "हा माझा आवडता किल्ला आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30877,
+    "incorrect": "ती मुलगी खूप चांगला वाचते.",
+    "correct": "ती मुलगी खूप चांगले वाचते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30878,
+    "incorrect": "माझा आई छान उसळ बनवते.",
+    "correct": "माझी आई छान उसळ बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30879,
+    "incorrect": "तिने एक छानशी अंगठी घातला.",
+    "correct": "तिने एक छानशी अंगठी घातली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30880,
+    "incorrect": "तो मुलगा खूप चांगला शिक्षक आहे.",
+    "correct": "तो मुलगा खूप चांगला शिक्षक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30881,
+    "incorrect": "त्याचा हिरवी वही छान दिसते.",
+    "correct": "त्याची हिरवी वही छान दिसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30882,
+    "incorrect": "ती नवीन भाषा शिकत होती.",
+    "correct": "ती नवीन भाषा शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30883,
+    "incorrect": "मी एक गोड डाळिंब खाल्ली.",
+    "correct": "मी एक गोड डाळिंब खाल्ले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30884,
+    "incorrect": "माझा काकी छान दही-भात बनवते.",
+    "correct": "माझी काकी छान दही-भात बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30885,
+    "incorrect": "तो माणूस खूप शांत होती.",
+    "correct": "तो माणूस खूप शांत होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30886,
+    "incorrect": "आईने एक सुंदर मूर्ती बनवला.",
+    "correct": "आईने एक सुंदर मूर्ती बनवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30887,
+    "incorrect": "हा माझा आवडता तलाव आहे.",
+    "correct": "हा माझा आवडता तलाव आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30888,
+    "incorrect": "ती मुलगी खूप चांगला लिहिते.",
+    "correct": "ती मुलगी खूप चांगले लिहिते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30889,
+    "incorrect": "माझा वहिनी छान सोलकढी बनवते.",
+    "correct": "माझी वहिनी छान सोलकढी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30890,
+    "incorrect": "तिने एक मोठी लढाई जिंकला.",
+    "correct": "तिने एक मोठी लढाई जिंकली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30891,
+    "incorrect": "तो मुलगा खूप चांगला वैज्ञानिक आहे.",
+    "correct": "तो मुलगा खूप चांगला वैज्ञानिक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30892,
+    "incorrect": "त्याचा लाल वही छान आहे.",
+    "correct": "त्याची लाल वही छान आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30893,
+    "incorrect": "ती नवीन गोष्ट शिकत होती.",
+    "correct": "ती नवीन गोष्ट शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30894,
+    "incorrect": "मी एक आंबट आवळा खाल्ली.",
+    "correct": "मी एक आंबट आवळा खाल्ला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30895,
+    "incorrect": "माझा आत्या छान सार बनवते.",
+    "correct": "माझी आत्या छान सार बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30896,
+    "incorrect": "तो माणूस खूप चतुर होती.",
+    "correct": "तो माणूस खूप चतुर होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30897,
+    "incorrect": "आईने एक सुंदर रचना केला.",
+    "correct": "आईने एक सुंदर रचना केली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30898,
+    "incorrect": "ही माझा आवडता डोंगर आहे.",
+    "correct": "हा माझा आवडता डोंगर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30899,
+    "incorrect": "ती मुलगी खूप चांगला खेळते.",
+    "correct": "ती मुलगी खूप चांगला खेळते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30900,
+    "incorrect": "माझा आई छान कबाब बनवते.",
+    "correct": "माझी आई छान कबाब बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30901,
+    "incorrect": "तिने एक चांगली मैत्रीण मिळवला.",
+    "correct": "तिने एक चांगली मैत्रीण मिळवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30902,
+    "incorrect": "तो मुलगा खूप चांगला कलाकार आहे.",
+    "correct": "तो मुलगा खूप चांगला कलाकार आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30903,
+    "incorrect": "त्याचा पांढरी वही छान दिसते.",
+    "correct": "त्याची पांढरी वही छान दिसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30904,
+    "incorrect": "ती नवीन भाषा शिकण्याचा प्रयत्न करत होता.",
+    "correct": "ती नवीन भाषा शिकण्याचा प्रयत्न करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30905,
+    "incorrect": "मी एक गोड अननस खाल्ली.",
+    "correct": "मी एक गोड अननस खाल्ले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30906,
+    "incorrect": "माझा मावशी छान सांडगे बनवते.",
+    "correct": "माझी मावशी छान सांडगे बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30907,
+    "incorrect": "तो माणूस खूप साधा होती.",
+    "correct": "तो माणूस खूप साधा होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30908,
+    "incorrect": "आईने एक सुंदर कलाकृती बनवला.",
+    "correct": "आईने एक सुंदर कलाकृती बनवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30909,
+    "incorrect": "हा माझा आवडता समुद्रकिनारा आहे.",
+    "correct": "हा माझा आवडता समुद्रकिनारा आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30910,
+    "incorrect": "ती मुलगी खूप चांगला गाते.",
+    "correct": "ती मुलगी खूप चांगले गाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30911,
+    "incorrect": "माझा वहिनी छान कोफ्ता बनवते.",
+    "correct": "माझी वहिनी छान कोफ्ता बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30912,
+    "incorrect": "तिने एक छानशी अंगठी निवडला.",
+    "correct": "तिने एक छानशी अंगठी निवडली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30913,
+    "incorrect": "तो मुलगा खूप चांगला शास्त्रज्ञ आहे.",
+    "correct": "तो मुलगा खूप चांगला शास्त्रज्ञ आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30914,
+    "incorrect": "त्याचा काळी वही छान आहे.",
+    "correct": "त्याची काळी वही छान आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30915,
+    "incorrect": "ती नवीन खेळ शिकत होती.",
+    "correct": "ती नवीन खेळ शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30916,
+    "incorrect": "मी एक आंबट चिंच खाल्ली.",
+    "correct": "मी एक आंबट चिंच खाल्ली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30917,
+    "incorrect": "माझा काकी छान पापलेट फ्राय बनवते.",
+    "correct": "माझी काकी छान पापलेट फ्राय बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30918,
+    "incorrect": "तो माणूस खूप धूर्त होती.",
+    "correct": "तो माणूस खूप धूर्त होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30919,
+    "incorrect": "आईने एक सुंदर गीत गायला.",
+    "correct": "आईने एक सुंदर गीत गायले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30920,
+    "incorrect": "ही माझा आवडता धबधबा आहे.",
+    "correct": "हा माझा आवडता धबधबा आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30921,
+    "incorrect": "ती मुलगी खूप चांगला वाचते.",
+    "correct": "ती मुलगी खूप चांगले वाचते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30922,
+    "incorrect": "माझा आई छान बिर्याणी बनवते.",
+    "correct": "माझी आई छान बिर्याणी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30923,
+    "incorrect": "तिने एक मोठी परीक्षा दिली.",
+    "correct": "तिने एक मोठी परीक्षा दिली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30924,
+    "incorrect": "तो मुलगा खूप चांगला सैनिक आहे.",
+    "correct": "तो मुलगा खूप चांगला सैनिक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30925,
+    "incorrect": "त्याचा हिरवी वही छान दिसते.",
+    "correct": "त्याची हिरवी वही छान दिसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30926,
+    "incorrect": "ती नवीन भाषा शिकत होती.",
+    "correct": "ती नवीन भाषा शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30927,
+    "incorrect": "मी एक गोड कलिंगड खाल्ली.",
+    "correct": "मी एक गोड कलिंगड खाल्ले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30928,
+    "incorrect": "माझा मावशी छान मटकीची उसळ बनवते.",
+    "correct": "माझी मावशी छान मटकीची उसळ बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30929,
+    "incorrect": "तो माणूस खूप कंजूष होती.",
+    "correct": "तो माणूस खूप कंजूष होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30930,
+    "incorrect": "आईने एक सुंदर नाटक सादर केला.",
+    "correct": "आईने एक सुंदर नाटक सादर केले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30931,
+    "incorrect": "हा माझा आवडता बेट आहे.",
+    "correct": "हे माझे आवडते बेट आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30932,
+    "incorrect": "ती मुलगी खूप चांगला लिहिते.",
+    "correct": "ती मुलगी खूप चांगले लिहिते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30933,
+    "incorrect": "माझा वहिनी छान वडा सांबार बनवते.",
+    "correct": "माझी वहिनी छान वडा सांबार बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30934,
+    "incorrect": "तिने एक छानशी कविता सादर केला.",
+    "correct": "तिने एक छानशी कविता सादर केली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30935,
+    "incorrect": "तो मुलगा खूप चांगला पोलीस आहे.",
+    "correct": "तो मुलगा खूप चांगला पोलीस आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30936,
+    "incorrect": "त्याचा लाल वही छान आहे.",
+    "correct": "त्याची लाल वही छान आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30937,
+    "incorrect": "ती नवीन गोष्ट शिकत होती.",
+    "correct": "ती नवीन गोष्ट शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30938,
+    "incorrect": "मी एक आंबट द्राक्ष खाल्ले.",
+    "correct": "मी एक आंबट द्राक्ष खाल्ले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30939,
+    "incorrect": "माझा काकी छान ठेचा बनवते.",
+    "correct": "माझी काकी छान ठेचा बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30940,
+    "incorrect": "तो माणूस खूप उदार होती.",
+    "correct": "तो माणूस खूप उदार होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30941,
+    "incorrect": "आईने एक सुंदर मूर्ती घडवला.",
+    "correct": "आईने एक सुंदर मूर्ती घडवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30942,
+    "incorrect": "ही माझा आवडता बंगला आहे.",
+    "correct": "हा माझा आवडता बंगला आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30943,
+    "incorrect": "ती मुलगी खूप चांगला खेळते.",
+    "correct": "ती मुलगी खूप चांगला खेळते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30944,
+    "incorrect": "माझा आई छान खिचडी बनवते.",
+    "correct": "माझी आई छान खिचडी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30945,
+    "incorrect": "तिने एक चांगली मैत्रीण मिळवला.",
+    "correct": "तिने एक चांगली मैत्रीण मिळवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30946,
+    "incorrect": "तो मुलगा खूप चांगला अभियंता आहे.",
+    "correct": "तो मुलगा खूप चांगला अभियंता आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30947,
+    "incorrect": "त्याचा पांढरी गाडी छान दिसते.",
+    "correct": "त्याची पांढरी गाडी छान दिसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30948,
+    "incorrect": "ती घरात एकटीच बसून कंटाळला होता.",
+    "correct": "ती घरात एकटीच बसून कंटाळली होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30949,
+    "incorrect": "मी एक गोड सफरचंद खाल्ली.",
+    "correct": "मी एक गोड सफरचंद खाल्ले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30950,
+    "incorrect": "माझा आत्या छान भरीत बनवते.",
+    "correct": "माझी आत्या छान भरीत बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30951,
+    "incorrect": "तो माणूस खूप क्रूर होती.",
+    "correct": "तो माणूस खूप क्रूर होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30952,
+    "incorrect": "आईने एक सुंदर बाग फुलवला.",
+    "correct": "आईने एक सुंदर बाग फुलवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30953,
+    "incorrect": "हा माझा आवडता समुद्रकिनारा आहे.",
+    "correct": "हा माझा आवडता समुद्रकिनारा आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30954,
+    "incorrect": "ती मुलगी खूप चांगला गाते.",
+    "correct": "ती मुलगी खूप चांगले गाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30955,
+    "incorrect": "माझा वहिनी छान पुलाव बनवते.",
+    "correct": "माझी वहिनी छान पुलाव बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30956,
+    "incorrect": "तिने एक चांगली कल्पना मांडला.",
+    "correct": "तिने एक चांगली कल्पना मांडली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30957,
+    "incorrect": "तो मुलगा खूप चांगला वकील आहे.",
+    "correct": "तो मुलगा खूप चांगला वकील आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30958,
+    "incorrect": "त्याचा काळी वही छान आहे.",
+    "correct": "त्याची काळी वही छान आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30959,
+    "incorrect": "ती नवीन खेळ शिकत होती.",
+    "correct": "ती नवीन खेळ शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30960,
+    "incorrect": "मी एक आंबट बोर खाल्ली.",
+    "correct": "मी एक आंबट बोर खाल्ले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30961,
+    "incorrect": "माझा मावशी छान लोणी काढते.",
+    "correct": "माझी मावशी छान लोणी काढते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30962,
+    "incorrect": "तो माणूस खूप लाजाळू होती.",
+    "correct": "तो माणूस खूप लाजाळू होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30963,
+    "incorrect": "आईने एक सुंदर जागा निवडला.",
+    "correct": "आईने एक सुंदर जागा निवडली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30964,
+    "incorrect": "ही माझा आवडता किल्ला आहे.",
+    "correct": "हा माझा आवडता किल्ला आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30965,
+    "incorrect": "ती मुलगी खूप चांगला वाचते.",
+    "correct": "ती मुलगी खूप चांगले वाचते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30966,
+    "incorrect": "माझा आई छान उसळ बनवते.",
+    "correct": "माझी आई छान उसळ बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30967,
+    "incorrect": "तिने एक छानशी अंगठी घातला.",
+    "correct": "तिने एक छानशी अंगठी घातली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30968,
+    "incorrect": "तो मुलगा खूप चांगला शिक्षक आहे.",
+    "correct": "तो मुलगा खूप चांगला शिक्षक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30969,
+    "incorrect": "त्याचा हिरवी वही छान दिसते.",
+    "correct": "त्याची हिरवी वही छान दिसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30970,
+    "incorrect": "ती नवीन भाषा शिकत होती.",
+    "correct": "ती नवीन भाषा शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30971,
+    "incorrect": "मी एक गोड डाळिंब खाल्ली.",
+    "correct": "मी एक गोड डाळिंब खाल्ले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30972,
+    "incorrect": "माझा काकी छान दही-भात बनवते.",
+    "correct": "माझी काकी छान दही-भात बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30973,
+    "incorrect": "तो माणूस खूप भांडखोर होती.",
+    "correct": "तो माणूस खूप भांडखोर होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30974,
+    "incorrect": "आईने एक सुंदर मूर्ती बनवला.",
+    "correct": "आईने एक सुंदर मूर्ती बनवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30975,
+    "incorrect": "हा माझा आवडता तलाव आहे.",
+    "correct": "हा माझा आवडता तलाव आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30976,
+    "incorrect": "ती मुलगी खूप चांगला लिहिते.",
+    "correct": "ती मुलगी खूप चांगले लिहिते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30977,
+    "incorrect": "माझा वहिनी छान सोलकढी बनवते.",
+    "correct": "माझी वहिनी छान सोलकढी बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30978,
+    "incorrect": "तिने एक मोठी लढाई जिंकला.",
+    "correct": "तिने एक मोठी लढाई जिंकली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30979,
+    "incorrect": "तो मुलगा खूप चांगला वैज्ञानिक आहे.",
+    "correct": "तो मुलगा खूप चांगला वैज्ञानिक आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30980,
+    "incorrect": "त्याचा लाल वही छान आहे.",
+    "correct": "त्याची लाल वही छान आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30981,
+    "incorrect": "ती नवीन गोष्ट शिकत होती.",
+    "correct": "ती नवीन गोष्ट शिकत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30982,
+    "incorrect": "मी एक आंबट आवळा खाल्ली.",
+    "correct": "मी एक आंबट आवळा खाल्ला.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30983,
+    "incorrect": "माझा आत्या छान सार बनवते.",
+    "correct": "माझी आत्या छान सार बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30984,
+    "incorrect": "तो माणूस खूप विसरभोळा होती.",
+    "correct": "तो माणूस खूप विसरभोळा होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30985,
+    "incorrect": "आईने एक सुंदर रचना केला.",
+    "correct": "आईने एक सुंदर रचना केली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30986,
+    "incorrect": "ही माझा आवडता डोंगर आहे.",
+    "correct": "हा माझा आवडता डोंगर आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30987,
+    "incorrect": "ती मुलगी खूप चांगला खेळते.",
+    "correct": "ती मुलगी खूप चांगला खेळते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30988,
+    "incorrect": "माझा आई छान कबाब बनवते.",
+    "correct": "माझी आई छान कबाब बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30989,
+    "incorrect": "तिने एक चांगली मैत्रीण मिळवला.",
+    "correct": "तिने एक चांगली मैत्रीण मिळवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30990,
+    "incorrect": "तो मुलगा खूप चांगला कलाकार आहे.",
+    "correct": "तो मुलगा खूप चांगला कलाकार आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30991,
+    "incorrect": "त्याचा पांढरी वही छान दिसते.",
+    "correct": "त्याची पांढरी वही छान दिसते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30992,
+    "incorrect": "ती नवीन भाषा शिकण्याचा प्रयत्न करत होता.",
+    "correct": "ती नवीन भाषा शिकण्याचा प्रयत्न करत होती.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30993,
+    "incorrect": "मी एक गोड अननस खाल्ली.",
+    "correct": "मी एक गोड अननस खाल्ले.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30994,
+    "incorrect": "माझा मावशी छान सांडगे बनवते.",
+    "correct": "माझी मावशी छान सांडगे बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30995,
+    "incorrect": "तो माणूस खूप खोटारडा होती.",
+    "correct": "तो माणूस खूप खोटारडा होता.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30996,
+    "incorrect": "आईने एक सुंदर कलाकृती बनवला.",
+    "correct": "आईने एक सुंदर कलाकृती बनवली.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30997,
+    "incorrect": "हा माझा आवडता समुद्रकिनारा आहे.",
+    "correct": "हा माझा आवडता समुद्रकिनारा आहे.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30998,
+    "incorrect": "ती मुलगी खूप चांगला गाते.",
+    "correct": "ती मुलगी खूप चांगले गाते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 30999,
+    "incorrect": "माझा वहिनी छान कोफ्ता बनवते.",
+    "correct": "माझी वहिनी छान कोफ्ता बनवते.",
+    "error_type": "Gender Agreement"
+  },
+  {
+    "id": 31000,
+    "incorrect": "तिने एक छानशी अंगठी निवडला.",
+    "correct": "तिने एक छानशी अंगठी निवडली.",
+    "error_type": "Gender Agreement"
+  }
+]
