@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "incorrect": "मी खातो एक आंबा.",
+    "correct": "मी एक आंबा खातो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 2,
+    "incorrect": "ती वाचते पुस्तक.",
+    "correct": "ती पुस्तक वाचते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 3,
+    "incorrect": "तो जाईल उद्या पुण्याला.",
+    "correct": "तो उद्या पुण्याला जाईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 4,
+    "incorrect": "आई बनवते छान जेवण.",
+    "correct": "आई छान जेवण बनवते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 5,
+    "incorrect": "आम्ही बघितला काल चित्रपट.",
+    "correct": "आम्ही काल चित्रपट बघितला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 6,
+    "incorrect": "बाबा गेले ऑफिसला सकाळी.",
+    "correct": "बाबा सकाळी ऑफिसला गेले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 7,
+    "incorrect": "तू कर अभ्यास आता.",
+    "correct": "तू आता अभ्यास कर.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 8,
+    "incorrect": "माझे ठेवले आहे कुठे पेन?",
+    "correct": "माझे पेन कुठे ठेवले आहे?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 9,
+    "incorrect": "तिने घातला ड्रेस सुंदर.",
+    "correct": "तिने सुंदर ड्रेस घातला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 10,
+    "incorrect": "पाऊस पडतो आहे बाहेर.",
+    "correct": "बाहेर पाऊस पडतो आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 11,
+    "incorrect": "मुले खेळतात मैदानावर.",
+    "correct": "मुले मैदानावर खेळतात.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 12,
+    "incorrect": "शिक्षक शिकवतात मुलांना.",
+    "correct": "शिक्षक मुलांना शिकवतात.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 13,
+    "incorrect": "मी आलो आहे तुला भेटायला.",
+    "correct": "मी तुला भेटायला आलो आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 14,
+    "incorrect": "ती गेली बाजारात भाजी आणायला.",
+    "correct": "ती भाजी आणायला बाजारात गेली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 15,
+    "incorrect": "त्याने दिली नाही मला मदत.",
+    "correct": "त्याने मला मदत दिली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 16,
+    "incorrect": "तुम्ही आलात कधी इकडे?",
+    "correct": "तुम्ही इकडे कधी आलात?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 17,
+    "incorrect": "मला आवडते खूप ही जागा.",
+    "correct": "मला ही जागा खूप आवडते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 18,
+    "incorrect": "तो आला परत काल रात्री.",
+    "correct": "तो काल रात्री परत आला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 19,
+    "incorrect": "आजी सांगते रोज गोष्ट.",
+    "correct": "आजी रोज गोष्ट सांगते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 20,
+    "incorrect": "आम्ही जातो फिरायला उद्या.",
+    "correct": "आम्ही उद्या फिरायला जातो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 21,
+    "incorrect": "हे काम कर पटकन.",
+    "correct": "हे काम पटकन कर.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 22,
+    "incorrect": "माझे दुखत आहे खूप डोके.",
+    "correct": "माझे डोके खूप दुखत आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 23,
+    "incorrect": "ती राहते पुण्यामध्ये.",
+    "correct": "ती पुण्यामध्ये राहते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 24,
+    "incorrect": "त्याने विकत घेतला नवीन मोबाईल.",
+    "correct": "त्याने नवीन मोबाईल विकत घेतला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 25,
+    "incorrect": "चहा झाला आहे का तयार?",
+    "correct": "चहा तयार झाला आहे का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 26,
+    "incorrect": "सूर्य उगवतो पूर्वेला.",
+    "correct": "सूर्य पूर्वेला उगवतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 27,
+    "incorrect": "मी करत आहे माझे काम.",
+    "correct": "मी माझे काम करत आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 28,
+    "incorrect": "आम्ही बसलो होतो बागेत.",
+    "correct": "आम्ही बागेत बसलो होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 29,
+    "incorrect": "तिला आवडतो पांढरा रंग.",
+    "correct": "तिला पांढरा रंग आवडतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 30,
+    "incorrect": "तो धावतो खूप वेगात.",
+    "correct": "तो खूप वेगात धावतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 31,
+    "incorrect": "मला पाहिजे एक ग्लास पाणी.",
+    "correct": "मला एक ग्लास पाणी पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 32,
+    "incorrect": "तुम्ही बोलता खूप छान.",
+    "correct": "तुम्ही खूप छान बोलता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 33,
+    "incorrect": "मी विसरलो आणायला वही.",
+    "correct": "मी वही आणायला विसरलो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 34,
+    "incorrect": "ती बनवत आहे मस्त चहा.",
+    "correct": "ती मस्त चहा बनवत आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 35,
+    "incorrect": "त्यांनी बांधले मोठे घर.",
+    "correct": "त्यांनी मोठे घर बांधले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 36,
+    "incorrect": "बाळ झोपले आहे शांत.",
+    "correct": "बाळ शांत झोपले आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 37,
+    "incorrect": "आम्ही जिंकलो काल मॅच.",
+    "correct": "आम्ही काल मॅच जिंकलो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 38,
+    "incorrect": "तू का आलास उशिरा?",
+    "correct": "तू उशिरा का आलास?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 39,
+    "incorrect": "माझी गाडी आहे पार्किंगमध्ये.",
+    "correct": "माझी गाडी पार्किंगमध्ये आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 40,
+    "incorrect": "तो करतो नेहमी दुसऱ्यांची मदत.",
+    "correct": "तो नेहमी दुसऱ्यांची मदत करतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 41,
+    "incorrect": "तिने गायले सुंदर गाणे.",
+    "correct": "तिने सुंदर गाणे गायले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 42,
+    "incorrect": "मी जात आहे माझ्या घरी.",
+    "correct": "मी माझ्या घरी जात आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 43,
+    "incorrect": "त्याला समजली नाही गोष्ट.",
+    "correct": "त्याला गोष्ट समजली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 44,
+    "incorrect": "आपण भेटूया उद्या पुन्हा.",
+    "correct": "आपण उद्या पुन्हा भेटूया.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 45,
+    "incorrect": "ती दिसते खूप आनंदी.",
+    "correct": "ती खूप आनंदी दिसते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 46,
+    "incorrect": "ते आले आहेत आमच्या घरी.",
+    "correct": "ते आमच्या घरी आले आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 47,
+    "incorrect": "मला कळले नाही तुझे बोलणे.",
+    "correct": "मला तुझे बोलणे कळले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 48,
+    "incorrect": "त्याने दिले उत्तर बरोबर.",
+    "correct": "त्याने बरोबर उत्तर दिले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 49,
+    "incorrect": "आम्ही करणार आहोत उद्या प्रवास.",
+    "correct": "आम्ही उद्या प्रवास करणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 50,
+    "incorrect": "मांजर बसले आहे टेबलाखाली.",
+    "correct": "मांजर टेबलाखाली बसले आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 51,
+    "incorrect": "मी पाहिला एक मोठा साप.",
+    "correct": "मी एक मोठा साप पाहिला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 52,
+    "incorrect": "ती ऐकत होती गाणी.",
+    "correct": "ती गाणी ऐकत होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 53,
+    "incorrect": "तो आला धावत घरात.",
+    "correct": "तो धावत घरात आला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 54,
+    "incorrect": "आईने बनवली होती खीर.",
+    "correct": "आईने खीर बनवली होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 55,
+    "incorrect": "आम्ही गेलो होतो देवळात.",
+    "correct": "आम्ही देवळात गेलो होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 56,
+    "incorrect": "बाबा वाचत आहेत वर्तमानपत्र.",
+    "correct": "बाबा वर्तमानपत्र वाचत आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 57,
+    "incorrect": "तू दे मला तुझा पेन.",
+    "correct": "तू मला तुझा पेन दे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 58,
+    "incorrect": "हे आहे कोणाचे घर?",
+    "correct": "हे घर कोणाचे आहे?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 59,
+    "incorrect": "तिने निवडली पिवळी साडी.",
+    "correct": "तिने पिवळी साडी निवडली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 60,
+    "incorrect": "वारा वाहत आहे जोरात.",
+    "correct": "जोरात वारा वाहत आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 61,
+    "incorrect": "मुले करतात खूप दंगा.",
+    "correct": "मुले खूप दंगा करतात.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 62,
+    "incorrect": "मी करीन हे काम नक्की.",
+    "correct": "मी हे काम नक्की करीन.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 63,
+    "incorrect": "तो गेला निघून रागाने.",
+    "correct": "तो रागाने निघून गेला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 64,
+    "incorrect": "ती आली आहे आताच.",
+    "correct": "ती आताच आली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 65,
+    "incorrect": "त्यांनी केली नाही तक्रार.",
+    "correct": "त्यांनी तक्रार केली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 66,
+    "incorrect": "तुम्ही जाणार आहात का बाहेर?",
+    "correct": "तुम्ही बाहेर जाणार आहात का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 67,
+    "incorrect": "मला हवी आहे तुमची मदत.",
+    "correct": "मला तुमची मदत हवी आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 68,
+    "incorrect": "तो बोलतो नेहमी खरे.",
+    "correct": "तो नेहमी खरे बोलतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 69,
+    "incorrect": "आजीने सांगितली एक जुनी कथा.",
+    "correct": "आजीने एक जुनी कथा सांगितली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 70,
+    "incorrect": "आम्ही राहू इथे काही दिवस.",
+    "correct": "आम्ही इथे काही दिवस राहू.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 71,
+    "incorrect": "कृपया बसा खाली.",
+    "correct": "कृपया खाली बसा.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 72,
+    "incorrect": "माझे नाव आहे समीर.",
+    "correct": "माझे नाव समीर आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 73,
+    "incorrect": "ती बोलत होती फोनवर.",
+    "correct": "ती फोनवर बोलत होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 74,
+    "incorrect": "त्याने आणले बाजारातून सामान.",
+    "correct": "त्याने बाजारातून सामान आणले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 75,
+    "incorrect": "आज आहे रविवार.",
+    "correct": "आज रविवार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 76,
+    "incorrect": "फुले आहेत सुंदर बागेतली.",
+    "correct": "बागेतली फुले सुंदर आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 77,
+    "incorrect": "मी करत होतो अभ्यास.",
+    "correct": "मी अभ्यास करत होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 78,
+    "incorrect": "आम्ही गेलो फिरायला समुद्रावर.",
+    "correct": "आम्ही समुद्रावर फिरायला गेलो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 79,
+    "incorrect": "तिला आवडते हिरवी भाजी.",
+    "correct": "तिला हिरवी भाजी आवडते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 80,
+    "incorrect": "तो आला नाही अजून.",
+    "correct": "तो अजून आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 81,
+    "incorrect": "मला द्या थोडा वेळ.",
+    "correct": "मला थोडा वेळ द्या.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 82,
+    "incorrect": "तुम्ही करता काय?",
+    "correct": "तुम्ही काय करता?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 83,
+    "incorrect": "मी शिकणार आहे मराठी.",
+    "correct": "मी मराठी शिकणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 84,
+    "incorrect": "ती बनवते छान चित्र.",
+    "correct": "ती छान चित्र बनवते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 85,
+    "incorrect": "त्यांनी घेतली नवीन गाडी.",
+    "correct": "त्यांनी नवीन गाडी घेतली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 86,
+    "incorrect": "कुत्रा धावत आहे रस्त्यावर.",
+    "correct": "कुत्रा रस्त्यावर धावत आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 87,
+    "incorrect": "आम्ही पोहोचलो वेळेवर.",
+    "correct": "आम्ही वेळेवर पोहोचलो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 88,
+    "incorrect": "तू का हसलास जोरात?",
+    "correct": "तू जोरात का हसलास?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 89,
+    "incorrect": "माझे ठेवले आहे दप्तर शाळेत.",
+    "correct": "माझे दप्तर शाळेत ठेवले आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 90,
+    "incorrect": "तो चालतो खूप हळू.",
+    "correct": "तो खूप हळू चालतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 91,
+    "incorrect": "तिने पाहिले नाही मागे वळून.",
+    "correct": "तिने मागे वळून पाहिले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 92,
+    "incorrect": "मी जाणार आहे उद्या गावी.",
+    "correct": "मी उद्या गावी जाणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 93,
+    "incorrect": "त्याला आवडत नाही तिखट.",
+    "correct": "त्याला तिखट आवडत नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 94,
+    "incorrect": "आपण करूया उद्या सुरुवात.",
+    "correct": "आपण उद्या सुरुवात करूया.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 95,
+    "incorrect": "ती बसली आहे शांतपणे.",
+    "correct": "ती शांतपणे बसली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 96,
+    "incorrect": "ते विकत आहेत फळे.",
+    "correct": "ते फळे विकत आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 97,
+    "incorrect": "मला आठवत नाही त्याचे नाव.",
+    "correct": "मला त्याचे नाव आठवत नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 98,
+    "incorrect": "त्याने फोडला काच.",
+    "correct": "त्याने काच फोडला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 99,
+    "incorrect": "आम्ही करणार आहोत मजा.",
+    "correct": "आम्ही मजा करणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 100,
+    "incorrect": "पक्षी उडत आहेत आकाशात.",
+    "correct": "पक्षी आकाशात उडत आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 101,
+    "incorrect": "मी आणली आहे भाजी.",
+    "correct": "मी भाजी आणली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 102,
+    "incorrect": "ती लिहीत आहे पत्र.",
+    "correct": "ती पत्र लिहीत आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 103,
+    "incorrect": "तो बघत आहे टीव्ही.",
+    "correct": "तो टीव्ही बघत आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 104,
+    "incorrect": "आईने दिला खाऊ मला.",
+    "correct": "आईने मला खाऊ दिला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 105,
+    "incorrect": "आम्ही खेळलो होतो क्रिकेट.",
+    "correct": "आम्ही क्रिकेट खेळलो होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 106,
+    "incorrect": "बाबांनी आणले चॉकलेट.",
+    "correct": "बाबांनी चॉकलेट आणले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 107,
+    "incorrect": "तू ये माझ्यासोबत.",
+    "correct": "तू माझ्यासोबत ये.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 108,
+    "incorrect": "तुझे नाव आहे काय?",
+    "correct": "तुझे नाव काय आहे?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 109,
+    "incorrect": "तिने विकली तिची जुनी सायकल.",
+    "correct": "तिने तिची जुनी सायकल विकली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 110,
+    "incorrect": "पाणी वाहत होते नळातून.",
+    "correct": "नळातून पाणी वाहत होते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 111,
+    "incorrect": "विद्यार्थी करतात वर्गात अभ्यास.",
+    "correct": "विद्यार्थी वर्गात अभ्यास करतात.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 112,
+    "incorrect": "मी देईन तुला पुस्तक उद्या.",
+    "correct": "मी तुला उद्या पुस्तक देईन.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 113,
+    "incorrect": "तो गेला निघून काही न बोलता.",
+    "correct": "तो काही न बोलता निघून गेला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 114,
+    "incorrect": "ती आली आहे तिच्या मैत्रिणीसोबत.",
+    "correct": "ती तिच्या मैत्रिणीसोबत आली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 115,
+    "incorrect": "त्यांनी विचारला नाही प्रश्न.",
+    "correct": "त्यांनी प्रश्न विचारला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 116,
+    "incorrect": "तुम्ही राहता कुठे?",
+    "correct": "तुम्ही कुठे राहता?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 117,
+    "incorrect": "मला आवडते ऐकायला संगीत.",
+    "correct": "मला संगीत ऐकायला आवडते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 118,
+    "incorrect": "तो बोलतो अस्खलित मराठी.",
+    "correct": "तो अस्खलित मराठी बोलतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 119,
+    "incorrect": "आजीने घातले जाड भिंगाचे चष्मे.",
+    "correct": "आजीने जाड भिंगाचे चष्मे घातले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 120,
+    "incorrect": "आम्ही बसणार आहोत पुढच्या स्टेशनवर.",
+    "correct": "आम्ही पुढच्या स्टेशनवर बसणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 121,
+    "incorrect": "थांब इथे माझ्यासाठी.",
+    "correct": "माझ्यासाठी इथे थांब.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 122,
+    "incorrect": "माझा आला आहे मित्र.",
+    "correct": "माझा मित्र आला आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 123,
+    "incorrect": "ती करत होती घराची साफसफाई.",
+    "correct": "ती घराची साफसफाई करत होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 124,
+    "incorrect": "त्याने मागितली नाही माफी.",
+    "correct": "त्याने माफी मागितली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 125,
+    "incorrect": "आज आहे हवामान छान.",
+    "correct": "आज हवामान छान आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 126,
+    "incorrect": "झाडे देतात आपल्याला सावली.",
+    "correct": "झाडे आपल्याला सावली देतात.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 127,
+    "incorrect": "मी करत नाही उशीर कधीच.",
+    "correct": "मी कधीच उशीर करत नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 128,
+    "incorrect": "आम्ही आलो होतो तुमच्याकडे.",
+    "correct": "आम्ही तुमच्याकडे आलो होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 129,
+    "incorrect": "तिला आवडते फिरायला.",
+    "correct": "तिला फिरायला आवडते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 130,
+    "incorrect": "तो आला नाही शाळेत आज.",
+    "correct": "तो आज शाळेत आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 131,
+    "incorrect": "मला बनवायची आहे चपाती.",
+    "correct": "मला चपाती बनवायची आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 132,
+    "incorrect": "तुम्ही आलात कसे?",
+    "correct": "तुम्ही कसे आलात?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 133,
+    "incorrect": "मी वाचणार आहे हे पुस्तक.",
+    "correct": "मी हे पुस्तक वाचणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 134,
+    "incorrect": "ती काढत आहे सुंदर रांगोळी.",
+    "correct": "ती सुंदर रांगोळी काढत आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 135,
+    "incorrect": "त्यांनी जिंकली स्पर्धा.",
+    "correct": "त्यांनी स्पर्धा जिंकली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 136,
+    "incorrect": "मांजर पीत आहे दूध.",
+    "correct": "मांजर दूध पीत आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 137,
+    "incorrect": "आम्ही पोहोचू संध्याकाळपर्यंत.",
+    "correct": "आम्ही संध्याकाळपर्यंत पोहोचू.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 138,
+    "incorrect": "तू का घेतला नाही फोन?",
+    "correct": "तू फोन का घेतला नाही?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 139,
+    "incorrect": "माझी आहे उद्या परीक्षा.",
+    "correct": "माझी उद्या परीक्षा आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 140,
+    "incorrect": "तो वाट बघत होता बसची.",
+    "correct": "तो बसची वाट बघत होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 141,
+    "incorrect": "तिने घेतला नाही सहभाग.",
+    "correct": "तिने सहभाग घेतला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 142,
+    "incorrect": "मी जाणार आहे बाजारात.",
+    "correct": "मी बाजारात जाणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 143,
+    "incorrect": "त्याला आवडते खायला गोड.",
+    "correct": "त्याला गोड खायला आवडते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 144,
+    "incorrect": "आपण बोलूया नंतर.",
+    "correct": "आपण नंतर बोलूया.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 145,
+    "incorrect": "ती आहे एक हुशार मुलगी.",
+    "correct": "ती एक हुशार मुलगी आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 146,
+    "incorrect": "ते गेले आहेत फिरायला.",
+    "correct": "ते फिरायला गेले आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 147,
+    "incorrect": "मला दिसला नाही तो.",
+    "correct": "तो मला दिसला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 148,
+    "incorrect": "त्याने तोडला नियम.",
+    "correct": "त्याने नियम तोडला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 149,
+    "incorrect": "आम्ही करणार नाही ही चूक.",
+    "correct": "आम्ही ही चूक करणार नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 150,
+    "incorrect": "सूर्य मावळतो पश्चिमेला.",
+    "correct": "सूर्य पश्चिमेला मावळतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 151,
+    "incorrect": "मी पिली सकाळी कॉफी.",
+    "correct": "मी सकाळी कॉफी पिली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 152,
+    "incorrect": "ती शिवते छान कपडे.",
+    "correct": "ती छान कपडे शिवते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 153,
+    "incorrect": "तो आला नाही वेळेवर.",
+    "correct": "तो वेळेवर आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 154,
+    "incorrect": "आईने ठेवले डब्यात लाडू.",
+    "correct": "आईने डब्यात लाडू ठेवले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 155,
+    "incorrect": "आम्ही पाहिला होता तो किल्ला.",
+    "correct": "आम्ही तो किल्ला पाहिला होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 156,
+    "incorrect": "बाबांनी दिली मला नवीन सायकल.",
+    "correct": "बाबांनी मला नवीन सायकल दिली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 157,
+    "incorrect": "तू ये आत पटकन.",
+    "correct": "तू पटकन आत ये.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 158,
+    "incorrect": "तुझी परीक्षा आहे कधी?",
+    "correct": "तुझी परीक्षा कधी आहे?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 159,
+    "incorrect": "तिने केली नाही मदत कोणाला.",
+    "correct": "तिने कोणाला मदत केली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 160,
+    "incorrect": "ढग दाटून आले आहेत आकाशात.",
+    "correct": "आकाशात ढग दाटून आले आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 161,
+    "incorrect": "शेतकरी करतो शेतात काम.",
+    "correct": "शेतकरी शेतात काम करतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 162,
+    "incorrect": "मी ऐकेन तुझे नक्की.",
+    "correct": "मी तुझे नक्की ऐकेन.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 163,
+    "incorrect": "तो बोलला नाही एक शब्द.",
+    "correct": "तो एक शब्द बोलला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 164,
+    "incorrect": "ती गेली आहे तिच्या आजोळी.",
+    "correct": "ती तिच्या आजोळी गेली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 165,
+    "incorrect": "त्यांनी दिले नाही उत्तर.",
+    "correct": "त्यांनी उत्तर दिले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 166,
+    "incorrect": "तुम्ही जेवलात का?",
+    "correct": "तुम्ही जेवलात का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 167,
+    "incorrect": "मला करायचा आहे अभ्यास.",
+    "correct": "मला अभ्यास करायचा आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 168,
+    "incorrect": "तो आहे एक चांगला खेळाडू.",
+    "correct": "तो एक चांगला खेळाडू आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 169,
+    "incorrect": "आजीने दिले मला पैसे.",
+    "correct": "आजीने मला पैसे दिले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 170,
+    "incorrect": "आम्ही जाणार आहोत सहलीला.",
+    "correct": "आम्ही सहलीला जाणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 171,
+    "incorrect": "हे काम कर व्यवस्थित.",
+    "correct": "हे काम व्यवस्थित कर.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 172,
+    "incorrect": "माझा लागला आहे डोळा.",
+    "correct": "माझा डोळा लागला आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 173,
+    "incorrect": "ती बसली होती गाडीत.",
+    "correct": "ती गाडीत बसली होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 174,
+    "incorrect": "त्याने जिंकले पहिले बक्षीस.",
+    "correct": "त्याने पहिले बक्षीस जिंकले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 175,
+    "incorrect": "आता आहे संध्याकाळची वेळ.",
+    "correct": "आता संध्याकाळची वेळ आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 176,
+    "incorrect": "नदी वाहते खळखळ.",
+    "correct": "नदी खळखळ वाहते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 177,
+    "incorrect": "मी आलो नाही काल.",
+    "correct": "मी काल आलो नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 178,
+    "incorrect": "आम्ही गेलो नातेवाईकांकडे.",
+    "correct": "आम्ही नातेवाईकांकडे गेलो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 179,
+    "incorrect": "तिला आवडते वाचायला पुस्तके.",
+    "correct": "तिला पुस्तके वाचायला आवडते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 180,
+    "incorrect": "तो आला नाही माझ्यासोबत.",
+    "correct": "तो माझ्यासोबत आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 181,
+    "incorrect": "मला लावायचे आहे एक झाड.",
+    "correct": "मला एक झाड लावायचे आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 182,
+    "incorrect": "तुम्ही करता काम कुठे?",
+    "correct": "तुम्ही कुठे काम करता?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 183,
+    "incorrect": "मी विसरणार नाही ही गोष्ट.",
+    "correct": "मी ही गोष्ट विसरणार नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 184,
+    "incorrect": "ती करत होती स्वयंपाक.",
+    "correct": "ती स्वयंपाक करत होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 185,
+    "incorrect": "त्यांनी बांधले नदीवर धरण.",
+    "correct": "त्यांनी नदीवर धरण बांधले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 186,
+    "incorrect": "पोपट खातो आहे पेरू.",
+    "correct": "पोपट पेरू खातो आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 187,
+    "incorrect": "आम्ही बोललो त्यांच्याशी.",
+    "correct": "आम्ही त्यांच्याशी बोललो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 188,
+    "incorrect": "तू का नाही आलास पार्टीला?",
+    "correct": "तू पार्टीला का नाही आलास?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 189,
+    "incorrect": "माझा आहे उद्या वाढदिवस.",
+    "correct": "माझा उद्या वाढदिवस आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 190,
+    "incorrect": "तो विचार करत होता खोल.",
+    "correct": "तो खोल विचार करत होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 191,
+    "incorrect": "तिने मानले नाही माझे म्हणणे.",
+    "correct": "तिने माझे म्हणणे मानले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 192,
+    "incorrect": "मी जाणार आहे झोपायला आता.",
+    "correct": "मी आता झोपायला जाणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 193,
+    "incorrect": "त्याला लागतो वेळ.",
+    "correct": "त्याला वेळ लागतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 194,
+    "incorrect": "आपण शिकूया काहीतरी नवीन.",
+    "correct": "आपण काहीतरी नवीन शिकूया.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 195,
+    "incorrect": "ती आहे खूप दयाळू.",
+    "correct": "ती खूप दयाळू आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 196,
+    "incorrect": "ते विकत होते भाजी.",
+    "correct": "ते भाजी विकत होते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 197,
+    "incorrect": "मला मिळाले नाही अजून पत्र.",
+    "correct": "मला अजून पत्र मिळाले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 198,
+    "incorrect": "त्याने पार केली नदी.",
+    "correct": "त्याने नदी पार केली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 199,
+    "incorrect": "आम्ही ठेवणार आहोत हे गुप्त.",
+    "correct": "आम्ही हे गुप्त ठेवणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 200,
+    "incorrect": "माकडे बसली आहेत झाडावर.",
+    "correct": "माकडे झाडावर बसली आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 201,
+    "incorrect": "मी उठतो रोज सकाळी.",
+    "correct": "मी रोज सकाळी उठतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 202,
+    "incorrect": "ती गेली आहे शाळेत.",
+    "correct": "ती शाळेत गेली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 203,
+    "incorrect": "तो खेळत होता मित्रांसोबत.",
+    "correct": "तो मित्रांसोबत खेळत होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 204,
+    "incorrect": "आईने बनवले चविष्ट जेवण.",
+    "correct": "आईने चविष्ट जेवण बनवले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 205,
+    "incorrect": "आम्ही बघणार आहोत एक नाटक.",
+    "correct": "आम्ही एक नाटक बघणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 206,
+    "incorrect": "बाबांनी वाचले नाही माझे पत्र.",
+    "correct": "बाबांनी माझे पत्र वाचले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 207,
+    "incorrect": "तू कर शांतपणे काम.",
+    "correct": "तू शांतपणे काम कर.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 208,
+    "incorrect": "तुमचे वय आहे किती?",
+    "correct": "तुमचे वय किती आहे?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 209,
+    "incorrect": "तिने घातले लाल रंगाचे स्वेटर.",
+    "correct": "तिने लाल रंगाचे स्वेटर घातले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 210,
+    "incorrect": "थंडी वाजत आहे खूप.",
+    "correct": "खूप थंडी वाजत आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 211,
+    "incorrect": "पोलिसांनी पकडला चोर.",
+    "correct": "पोलिसांनी चोर पकडला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 212,
+    "incorrect": "मी आलो आहे मुंबईहून.",
+    "correct": "मी मुंबईहून आलो आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 213,
+    "incorrect": "तो आला नाही काल कामावर.",
+    "correct": "तो काल कामावर आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 214,
+    "incorrect": "ती गेली आहे बाजारात.",
+    "correct": "ती बाजारात गेली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 215,
+    "incorrect": "त्यांनी दिले नाही लक्ष.",
+    "correct": "त्यांनी लक्ष दिले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 216,
+    "incorrect": "तुम्ही आलात का इकडे आधी?",
+    "correct": "तुम्ही आधी इकडे आलात का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 217,
+    "incorrect": "मला आवडतो प्रवास करायला.",
+    "correct": "मला प्रवास करायला आवडतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 218,
+    "incorrect": "तो दिसतो आहे खूप थकलेला.",
+    "correct": "तो खूप थकलेला दिसतो आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 219,
+    "incorrect": "आजीने शिवले सुंदर गोधडी.",
+    "correct": "आजीने सुंदर गोधडी शिवली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 220,
+    "incorrect": "आम्ही थांबणार आहोत येथे.",
+    "correct": "आम्ही येथे थांबणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 221,
+    "incorrect": "दरवाजा लावा कृपया.",
+    "correct": "कृपया दरवाजा लावा.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 222,
+    "incorrect": "माझा आला आहे निकाल.",
+    "correct": "माझा निकाल आला आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 223,
+    "incorrect": "ती घालत होती स्वेटर.",
+    "correct": "ती स्वेटर घालत होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 224,
+    "incorrect": "त्याने आणले नाहीत पैसे.",
+    "correct": "त्याने पैसे आणले नाहीत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 225,
+    "incorrect": "आज आहे माझी सुट्टी.",
+    "correct": "आज माझी सुट्टी आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 226,
+    "incorrect": "मोर नाचतो पावसात.",
+    "correct": "मोर पावसात नाचतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 227,
+    "incorrect": "मी पूर्ण केले काम.",
+    "correct": "मी काम पूर्ण केले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 228,
+    "incorrect": "आम्ही पोहचलो होतो स्टेशनवर.",
+    "correct": "आम्ही स्टेशनवर पोहचलो होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 229,
+    "incorrect": "तिला आवडते बागकाम.",
+    "correct": "तिला बागकाम आवडते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 230,
+    "incorrect": "तो आला होता एकटा.",
+    "correct": "तो एकटा आला होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 231,
+    "incorrect": "मला सांग तुझा पत्ता.",
+    "correct": "मला तुझा पत्ता सांग.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 232,
+    "incorrect": "तुम्ही करता काय व्यवसाय?",
+    "correct": "तुम्ही काय व्यवसाय करता?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 233,
+    "incorrect": "मी शिकलो आहे सायकल चालवायला.",
+    "correct": "मी सायकल चालवायला शिकलो आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 234,
+    "incorrect": "ती गाते खूप मधुर.",
+    "correct": "ती खूप मधुर गाते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 235,
+    "incorrect": "त्यांनी दिली एक चांगली बातमी.",
+    "correct": "त्यांनी एक चांगली बातमी दिली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 236,
+    "incorrect": "सिंह राहतो गुहेत.",
+    "correct": "सिंह गुहेत राहतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 237,
+    "incorrect": "आम्ही गेलो नाही कुठेच.",
+    "correct": "आम्ही कुठेच गेलो नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 238,
+    "incorrect": "तू का नाही घेतला चहा?",
+    "correct": "तू चहा का नाही घेतला?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 239,
+    "incorrect": "माझे दुखत आहे पोट.",
+    "correct": "माझे पोट दुखत आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 240,
+    "incorrect": "तो बघत होता आकाशाकडे.",
+    "correct": "तो आकाशाकडे बघत होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 241,
+    "incorrect": "तिने ठेवले नाहीत पैसे.",
+    "correct": "तिने पैसे ठेवले नाहीत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 242,
+    "incorrect": "मी जाणार आहे गावाला दिवाळीत.",
+    "correct": "मी दिवाळीत गावाला जाणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 243,
+    "incorrect": "त्याला आवडतो खेळायला क्रिकेट.",
+    "correct": "त्याला क्रिकेट खेळायला आवडतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 244,
+    "incorrect": "आपण करूया प्रयत्न.",
+    "correct": "आपण प्रयत्न करूया.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 245,
+    "incorrect": "ती आहे खूप हुशार.",
+    "correct": "ती खूप हुशार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 246,
+    "incorrect": "ते करत आहेत चर्चा.",
+    "correct": "ते चर्चा करत आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 247,
+    "incorrect": "मला आठवत नाही नीट.",
+    "correct": "मला नीट आठवत नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 248,
+    "incorrect": "त्याने जिंकले सर्वांचे मन.",
+    "correct": "त्याने सर्वांचे मन जिंकले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 249,
+    "incorrect": "आम्ही जाणार नाही तिकडे.",
+    "correct": "आम्ही तिकडे जाणार नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 250,
+    "incorrect": "पुस्तक आहे टेबलावर.",
+    "correct": "टेबलावर पुस्तक आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 251,
+    "incorrect": "मी खाल्ली होती इडली.",
+    "correct": "मी इडली खाल्ली होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 252,
+    "incorrect": "ती करत आहे अभ्यास.",
+    "correct": "ती अभ्यास करत आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 253,
+    "incorrect": "तो आला होता माझ्या घरी.",
+    "correct": "तो माझ्या घरी आला होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 254,
+    "incorrect": "आईने घातली मला रांगोळी.",
+    "correct": "आईने मला रांगोळी शिकवली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 255,
+    "incorrect": "आम्ही खेळणार आहोत उद्या.",
+    "correct": "आम्ही उद्या खेळणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 256,
+    "incorrect": "बाबांनी वाचली नाही बातमी.",
+    "correct": "बाबांनी बातमी वाचली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 257,
+    "incorrect": "तू कर माझे एक काम.",
+    "correct": "तू माझे एक काम कर.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 258,
+    "incorrect": "ही जागा आहे कोणती?",
+    "correct": "ही कोणती जागा आहे?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 259,
+    "incorrect": "तिने घेतला एक मोठा निर्णय.",
+    "correct": "तिने एक मोठा निर्णय घेतला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 260,
+    "incorrect": "गर्दी झाली आहे खूप.",
+    "correct": "खूप गर्दी झाली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 261,
+    "incorrect": "डॉक्टरांनी दिली औषधे.",
+    "correct": "डॉक्टरांनी औषधे दिली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 262,
+    "incorrect": "मी शिकणार आहे गाडी चालवायला.",
+    "correct": "मी गाडी चालवायला शिकणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 263,
+    "incorrect": "तो बोलला नाही काहीच.",
+    "correct": "तो काहीच बोलला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 264,
+    "incorrect": "ती गेली आहे सिनेमाला.",
+    "correct": "ती सिनेमाला गेली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 265,
+    "incorrect": "त्यांनी स्वीकारली नाही भेट.",
+    "correct": "त्यांनी भेट स्वीकारली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 266,
+    "incorrect": "तुम्ही गेला होतात का तिकडे?",
+    "correct": "तुम्ही तिकडे गेला होतात का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 267,
+    "incorrect": "मला करायचे आहे हे काम.",
+    "correct": "मला हे काम करायचे आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 268,
+    "incorrect": "तो आहे खूप प्रामाणिक.",
+    "correct": "तो खूप प्रामाणिक आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 269,
+    "incorrect": "आजीने बनवले लोणचे.",
+    "correct": "आजीने लोणचे बनवले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 270,
+    "incorrect": "आम्ही करणार आहोत उद्या साफसफाई.",
+    "correct": "आम्ही उद्या साफसफाई करणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 271,
+    "incorrect": "हे पत्र वाच मोठ्याने.",
+    "correct": "हे पत्र मोठ्याने वाच.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 272,
+    "incorrect": "माझा आला नाही अजून नंबर.",
+    "correct": "माझा नंबर अजून आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 273,
+    "incorrect": "ती करत होती विनंती.",
+    "correct": "ती विनंती करत होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 274,
+    "incorrect": "त्याने दिले नाही उत्तर बरोबर.",
+    "correct": "त्याने बरोबर उत्तर दिले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 275,
+    "incorrect": "उद्या आहे हवामान कोरडे.",
+    "correct": "उद्या हवामान कोरडे आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 276,
+    "incorrect": "मासा राहतो पाण्यात.",
+    "correct": "मासा पाण्यात राहतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 277,
+    "incorrect": "मी करत नाही माझे काम.",
+    "correct": "मी माझे काम करत नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 278,
+    "incorrect": "आम्ही थांबलो होतो झाडाखाली.",
+    "correct": "आम्ही झाडाखाली थांबलो होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 279,
+    "incorrect": "तिला आवडते नवीन कपडे.",
+    "correct": "तिला नवीन कपडे आवडतात.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 280,
+    "incorrect": "तो आला होता कालच.",
+    "correct": "तो कालच आला होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 281,
+    "incorrect": "मला समजव तुझी अडचण.",
+    "correct": "मला तुझी अडचण समजव.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 282,
+    "incorrect": "तुम्ही जाताय कुठे?",
+    "correct": "तुम्ही कुठे जाताय?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 283,
+    "incorrect": "मी शिकलो आहे पोहायला.",
+    "correct": "मी पोहायला शिकलो आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 284,
+    "incorrect": "ती दिसते आहे खूप सुंदर.",
+    "correct": "ती खूप सुंदर दिसते आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 285,
+    "incorrect": "त्यांनी पाळला नाही नियम.",
+    "correct": "त्यांनी नियम पाळला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 286,
+    "incorrect": "हत्ती चालतो हळू हळू.",
+    "correct": "हत्ती हळू हळू चालतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 287,
+    "incorrect": "आम्ही आलो नाही तुमच्यासाठी.",
+    "correct": "आम्ही तुमच्यासाठी आलो नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 288,
+    "incorrect": "तू का नाही जेवलास?",
+    "correct": "तू जेवलास का नाही?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 289,
+    "incorrect": "माझा आहे मित्र तो.",
+    "correct": "तो माझा मित्र आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 290,
+    "incorrect": "तो पीत होता पाणी.",
+    "correct": "तो पाणी पीत होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 291,
+    "incorrect": "तिने घेतला नाही निरोप.",
+    "correct": "तिने निरोप घेतला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 292,
+    "incorrect": "मी जाणार आहे उद्या मुंबईला.",
+    "correct": "मी उद्या मुंबईला जाणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 293,
+    "incorrect": "त्याला आवडतो बघायला सिनेमा.",
+    "correct": "त्याला सिनेमा बघायला आवडतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 294,
+    "incorrect": "आपण भेटूया संध्याकाळी.",
+    "correct": "आपण संध्याकाळी भेटूया.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 295,
+    "incorrect": "ती आहे खूप समजूतदार.",
+    "correct": "ती खूप समजूतदार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 296,
+    "incorrect": "ते करत होते शेती.",
+    "correct": "ते शेती करत होते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 297,
+    "incorrect": "मला आला नाही मेसेज.",
+    "correct": "मला मेसेज आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 298,
+    "incorrect": "त्याने पूर्ण केले ध्येय.",
+    "correct": "त्याने ध्येय पूर्ण केले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 299,
+    "incorrect": "आम्ही जाणार आहोत बाहेर.",
+    "correct": "आम्ही बाहेर जाणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 300,
+    "incorrect": "चेंडू आहे मुलांच्या जवळ.",
+    "correct": "मुलांच्या जवळ चेंडू आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 301,
+    "incorrect": "मी आणला आहे ताजा भाजीपाला.",
+    "correct": "मी ताजा भाजीपाला आणला आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 302,
+    "incorrect": "ती गेली आहे डॉक्टरांकडे.",
+    "correct": "ती डॉक्टरांकडे गेली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 303,
+    "incorrect": "तो करत होता विचार.",
+    "correct": "तो विचार करत होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 304,
+    "incorrect": "आईने लावला नाही दिवा.",
+    "correct": "आईने दिवा लावला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 305,
+    "incorrect": "आम्ही खेळलो भरपूर.",
+    "correct": "आम्ही भरपूर खेळलो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 306,
+    "incorrect": "बाबांनी वाचले आजचे वर्तमानपत्र.",
+    "correct": "बाबांनी आजचे वर्तमानपत्र वाचले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 307,
+    "incorrect": "तू कर लवकर तयारी.",
+    "correct": "तू लवकर तयारी कर.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 308,
+    "incorrect": "तुमचा पत्ता आहे काय?",
+    "correct": "तुमचा पत्ता काय आहे?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 309,
+    "incorrect": "तिने विकत घेतली एक सुंदर मूर्ती.",
+    "correct": "तिने एक सुंदर मूर्ती विकत घेतली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 310,
+    "incorrect": "ऊन आहे बाहेर खूप.",
+    "correct": "बाहेर खूप ऊन आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 311,
+    "incorrect": "मुलांनी केला नाही गोंधळ.",
+    "correct": "मुलांनी गोंधळ केला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 312,
+    "incorrect": "मी देणार आहे तुला एक भेट.",
+    "correct": "मी तुला एक भेट देणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 313,
+    "incorrect": "तो आला नाही कारण तो आजारी होता.",
+    "correct": "तो आजारी होता म्हणून आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 314,
+    "incorrect": "ती गेली आहे गावी.",
+    "correct": "ती गावी गेली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 315,
+    "incorrect": "त्यांनी विचारला नाही पत्ता.",
+    "correct": "त्यांनी पत्ता विचारला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 316,
+    "incorrect": "तुम्ही राहता का या शहरात?",
+    "correct": "तुम्ही या शहरात राहता का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 317,
+    "incorrect": "मला आवडते पोहणे.",
+    "correct": "मला पोहायला आवडते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 318,
+    "incorrect": "तो आहे खूप हुशार मुलगा.",
+    "correct": "तो खूप हुशार मुलगा आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 319,
+    "incorrect": "आजीने बनवली गोड पोळी.",
+    "correct": "आजीने गोड पोळी बनवली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 320,
+    "incorrect": "आम्ही जाणार आहोत पुण्याला उद्या सकाळी.",
+    "correct": "आम्ही उद्या सकाळी पुण्याला जाणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 321,
+    "incorrect": "हे पुस्तक ठेव जागेवर.",
+    "correct": "हे पुस्तक जागेवर ठेव.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 322,
+    "incorrect": "माझा आला नाही अजून पगार.",
+    "correct": "माझा पगार अजून आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 323,
+    "incorrect": "ती करत होती अभ्यास शांतपणे.",
+    "correct": "ती शांतपणे अभ्यास करत होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 324,
+    "incorrect": "त्याने दिले नाही कोणाला आमंत्रण.",
+    "correct": "त्याने कोणाला आमंत्रण दिले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 325,
+    "incorrect": "आज आहे वातावरण ढगाळ.",
+    "correct": "आज ढगाळ वातावरण आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 326,
+    "incorrect": "वाघ राहतो जंगलात.",
+    "correct": "वाघ जंगलात राहतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 327,
+    "incorrect": "मी करत नाही कोणाची निंदा.",
+    "correct": "मी कोणाची निंदा करत नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 328,
+    "incorrect": "आम्ही जेवलो होतो हॉटेलमध्ये.",
+    "correct": "आम्ही हॉटेलमध्ये जेवलो होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 329,
+    "incorrect": "तिला आवडतात फुले.",
+    "correct": "तिला फुले आवडतात.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 330,
+    "incorrect": "तो आला होता माझ्याबरोबर.",
+    "correct": "तो माझ्याबरोबर आला होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 331,
+    "incorrect": "मला शिकव गणित.",
+    "correct": "मला गणित शिकव.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 332,
+    "incorrect": "तुम्ही करता काय नोकरी?",
+    "correct": "तुम्ही कोणती नोकरी करता?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 333,
+    "incorrect": "मी शिकलो आहे खूप काही.",
+    "correct": "मी खूप काही शिकलो आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 334,
+    "incorrect": "ती बोलते खूप कमी.",
+    "correct": "ती खूप कमी बोलते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 335,
+    "incorrect": "त्यांनी केली नाही माझी मदत.",
+    "correct": "त्यांनी माझी मदत केली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 336,
+    "incorrect": "ससा धावतो वेगाने.",
+    "correct": "ससा वेगाने धावतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 337,
+    "incorrect": "आम्ही गेलो नाही चित्रपटाला.",
+    "correct": "आम्ही चित्रपटाला गेलो नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 338,
+    "incorrect": "तू का नाही दिली परीक्षा?",
+    "correct": "तू परीक्षा का नाही दिली?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 339,
+    "incorrect": "माझा दुखतो आहे दात.",
+    "correct": "माझा दात दुखतो आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 340,
+    "incorrect": "तो पाहत होता तिच्याकडे.",
+    "correct": "तो तिच्याकडे पाहत होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 341,
+    "incorrect": "तिने घेतला नाही चहा.",
+    "correct": "तिने चहा घेतला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 342,
+    "incorrect": "मी जाणार आहे गावाला सुट्टीत.",
+    "correct": "मी सुट्टीत गावाला जाणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 343,
+    "incorrect": "त्याला आवडतो खेळायला फुटबॉल.",
+    "correct": "त्याला फुटबॉल खेळायला आवडतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 344,
+    "incorrect": "आपण करूया विचार यावर.",
+    "correct": "आपण यावर विचार करूया.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 345,
+    "incorrect": "ती आहे खूप धाडसी.",
+    "correct": "ती खूप धाडसी आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 346,
+    "incorrect": "ते करत आहेत काम.",
+    "correct": "ते काम करत आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 347,
+    "incorrect": "मला आठवत नाही त्याचा चेहरा.",
+    "correct": "मला त्याचा चेहरा आठवत नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 348,
+    "incorrect": "त्याने जिंकले सर्वांचे प्रेम.",
+    "correct": "त्याने सर्वांचे प्रेम जिंकले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 349,
+    "incorrect": "आम्ही जाणार नाही त्यांच्यासोबत.",
+    "correct": "आम्ही त्यांच्यासोबत जाणार नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 350,
+    "incorrect": "चष्मा आहे डोळ्यांवर.",
+    "correct": "डोळ्यांवर चष्मा आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 351,
+    "incorrect": "मी आणली आहे गोड फळे.",
+    "correct": "मी गोड फळे आणली आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 352,
+    "incorrect": "ती गेली आहे मंदिरात.",
+    "correct": "ती मंदिरात गेली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 353,
+    "incorrect": "तो ऐकत होता गाणी.",
+    "correct": "तो गाणी ऐकत होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 354,
+    "incorrect": "आईने बनवली नाही भाजी.",
+    "correct": "आईने भाजी बनवली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 355,
+    "incorrect": "आम्ही खेळलो होतो दिवसभर.",
+    "correct": "आम्ही दिवसभर खेळलो होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 356,
+    "incorrect": "बाबांनी वाचली नाही ती कादंबरी.",
+    "correct": "बाबांनी ती कादंबरी वाचली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 357,
+    "incorrect": "तू कर व्यवस्थित अभ्यास.",
+    "correct": "तू अभ्यास व्यवस्थित कर.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 358,
+    "incorrect": "तुमचे गाव आहे कोणते?",
+    "correct": "तुमचे गाव कोणते आहे?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 359,
+    "incorrect": "तिने विकत घेतले एक महागडे घड्याळ.",
+    "correct": "तिने एक महागडे घड्याळ विकत घेतले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 360,
+    "incorrect": "गारवा आहे हवेत खूप.",
+    "correct": "हवेत खूप गारवा आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 361,
+    "incorrect": "शिपायाने वाजवली नाही घंटा.",
+    "correct": "शिपायाने घंटा वाजवली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 362,
+    "incorrect": "मी शिकवणार आहे तुला इंग्रजी.",
+    "correct": "मी तुला इंग्रजी शिकवणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 363,
+    "incorrect": "तो आला नाही वेळेवर म्हणून गाडी चुकली.",
+    "correct": "तो वेळेवर आला नाही म्हणून गाडी चुकली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 364,
+    "incorrect": "ती गेली आहे तिच्या कामासाठी.",
+    "correct": "ती तिच्या कामासाठी गेली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 365,
+    "incorrect": "त्यांनी विचारला नाही सल्ला.",
+    "correct": "त्यांनी सल्ला विचारला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 366,
+    "incorrect": "तुम्ही राहता का इथे जवळ?",
+    "correct": "तुम्ही इथे जवळ राहता का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 367,
+    "incorrect": "मला आवडतो चित्रकला.",
+    "correct": "मला चित्रकला आवडते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 368,
+    "incorrect": "तो आहे खूप मेहनती.",
+    "correct": "तो खूप मेहनती आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 369,
+    "incorrect": "आजीने बनवले गरम भजे.",
+    "correct": "आजीने गरम भजे बनवले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 370,
+    "incorrect": "आम्ही जाणार आहोत फिरायला उद्या.",
+    "correct": "आम्ही उद्या फिरायला जाणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 371,
+    "incorrect": "हे चित्र रंगव छान.",
+    "correct": "हे चित्र छान रंगव.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 372,
+    "incorrect": "माझा आला नाही अजून ईमेल.",
+    "correct": "माझा ईमेल अजून आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 373,
+    "incorrect": "ती करत होती गप्पा मैत्रिणींशी.",
+    "correct": "ती मैत्रिणींशी गप्पा करत होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 374,
+    "incorrect": "त्याने दिली नाही काहीच माहिती.",
+    "correct": "त्याने काहीच माहिती दिली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 375,
+    "incorrect": "आज आहे वातावरण प्रसन्न.",
+    "correct": "आज प्रसन्न वातावरण आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 376,
+    "incorrect": "कासव चालते हळू.",
+    "correct": "कासव हळू चालते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 377,
+    "incorrect": "मी करत नाही कोणावर अन्याय.",
+    "correct": "मी कोणावर अन्याय करत नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 378,
+    "incorrect": "आम्ही थांबलो होतो बस स्टॉपवर.",
+    "correct": "आम्ही बस स्टॉपवर थांबलो होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 379,
+    "incorrect": "तिला आवडते भारतीय संगीत.",
+    "correct": "तिला भारतीय संगीत आवडते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 380,
+    "incorrect": "तो आला होता कामानिमित्त.",
+    "correct": "तो कामानिमित्त आला होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 381,
+    "incorrect": "मला दाखव तुझा नवीन फोन.",
+    "correct": "मला तुझा नवीन फोन दाखव.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 382,
+    "incorrect": "तुम्ही करता काय विचार?",
+    "correct": "तुम्ही काय विचार करता?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 383,
+    "incorrect": "मी शिकणार आहे स्वयंपाक.",
+    "correct": "मी स्वयंपाक शिकणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 384,
+    "incorrect": "ती बोलते खूप स्पष्ट.",
+    "correct": "ती खूप स्पष्ट बोलते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 385,
+    "incorrect": "त्यांनी पाळला नाही शब्द.",
+    "correct": "त्यांनी शब्द पाळला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 386,
+    "incorrect": "घोडा धावतो वेगात.",
+    "correct": "घोडा वेगात धावतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 387,
+    "incorrect": "आम्ही आलो नाही त्यासाठी.",
+    "correct": "आम्ही त्यासाठी आलो नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 388,
+    "incorrect": "तू का नाही केली मदत?",
+    "correct": "तू मदत का नाही केली?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 389,
+    "incorrect": "माझा दुखतो आहे पाय.",
+    "correct": "माझा पाय दुखतो आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 390,
+    "incorrect": "तो बघत होता बाहेर.",
+    "correct": "तो बाहेर बघत होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 391,
+    "incorrect": "तिने घेतला नाही भाग.",
+    "correct": "तिने भाग घेतला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 392,
+    "incorrect": "मी जाणार आहे उद्या बाजारात.",
+    "correct": "मी उद्या बाजारात जाणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 393,
+    "incorrect": "त्याला आवडतो खेळायला पत्ते.",
+    "correct": "त्याला पत्ते खेळायला आवडतात.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 394,
+    "incorrect": "आपण करूया मदत.",
+    "correct": "आपण मदत करूया.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 395,
+    "incorrect": "ती आहे खूप भावनिक.",
+    "correct": "ती खूप भावनिक आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 396,
+    "incorrect": "ते करत आहेत प्रार्थना.",
+    "correct": "ते प्रार्थना करत आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 397,
+    "incorrect": "मला आला नाही तुझा फोन.",
+    "correct": "मला तुझा फोन आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 398,
+    "incorrect": "त्याने पूर्ण केले वचन.",
+    "correct": "त्याने वचन पूर्ण केले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 399,
+    "incorrect": "आम्ही जाणार नाही सिनेमाला.",
+    "correct": "आम्ही सिनेमाला जाणार नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 400,
+    "incorrect": "पेन आहे माझ्या खिशात.",
+    "correct": "माझ्या खिशात पेन आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 401,
+    "incorrect": "मी पिली नाही कॉफी.",
+    "correct": "मी कॉफी पिली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 402,
+    "incorrect": "ती करत होती शिवणकाम.",
+    "correct": "ती शिवणकाम करत होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 403,
+    "incorrect": "तो बोलला होता माझ्याशी.",
+    "correct": "तो माझ्याशी बोलला होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 404,
+    "incorrect": "आईने बनवले होते मोदक.",
+    "correct": "आईने मोदक बनवले होते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 405,
+    "incorrect": "आम्ही खेळणार आहोत कबड्डी.",
+    "correct": "आम्ही कबड्डी खेळणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 406,
+    "incorrect": "बाबांनी वाचली नाही कविता.",
+    "correct": "बाबांनी कविता वाचली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 407,
+    "incorrect": "तू कर माझे काम आज.",
+    "correct": "तू आज माझे काम कर.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 408,
+    "incorrect": "हे दुकान आहे कोणाचे?",
+    "correct": "हे कोणाचे दुकान आहे?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 409,
+    "incorrect": "तिने घेतला एक महत्त्वाचा निर्णय.",
+    "correct": "तिने एक महत्त्वाचा निर्णय घेतला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 410,
+    "incorrect": "शांतता आहे इथे खूप.",
+    "correct": "इथे खूप शांतता आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 411,
+    "incorrect": "मालकाने काढले नोकराला कामावरून.",
+    "correct": "मालकाने नोकराला कामावरून काढले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 412,
+    "incorrect": "मी शिकणार आहे पियानो.",
+    "correct": "मी पियानो शिकणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 413,
+    "incorrect": "तो बोलला नाही तिच्याशी.",
+    "correct": "तो तिच्याशी बोलला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 414,
+    "incorrect": "ती गेली आहे लायब्ररीत.",
+    "correct": "ती लायब्ररीत गेली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 415,
+    "incorrect": "त्यांनी स्वीकारली नाही हार.",
+    "correct": "त्यांनी हार स्वीकारली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 416,
+    "incorrect": "तुम्ही गेला होतात का गावी?",
+    "correct": "तुम्ही गावी गेला होतात का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 417,
+    "incorrect": "मला करायचे आहे लग्न.",
+    "correct": "मला लग्न करायचे आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 418,
+    "incorrect": "तो आहे खूप स्वार्थी.",
+    "correct": "तो खूप स्वार्थी आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 419,
+    "incorrect": "आजीने बनवली भाकरी.",
+    "correct": "आजीने भाकरी बनवली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 420,
+    "incorrect": "आम्ही करणार आहोत पार्टी.",
+    "correct": "आम्ही पार्टी करणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 421,
+    "incorrect": "हे पत्र लिही सुवाच्य अक्षरात.",
+    "correct": "हे पत्र सुवाच्य अक्षरात लिही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 422,
+    "incorrect": "माझा आला नाही अजून रिझल्ट.",
+    "correct": "माझा रिझल्ट अजून आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 423,
+    "incorrect": "ती करत होती पूजा.",
+    "correct": "ती पूजा करत होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 424,
+    "incorrect": "त्याने दिले नाही कोणाला उत्तर.",
+    "correct": "त्याने कोणाला उत्तर दिले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 425,
+    "incorrect": "आज आहे हवामान थंड.",
+    "correct": "आज थंड हवामान आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 426,
+    "incorrect": "गरुड उडतो आकाशात उंच.",
+    "correct": "गरुड आकाशात उंच उडतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 427,
+    "incorrect": "मी करत नाही कोणाची चेष्टा.",
+    "correct": "मी कोणाची चेष्टा करत नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 428,
+    "incorrect": "आम्ही थांबलो होतो सिग्नलवर.",
+    "correct": "आम्ही सिग्नलवर थांबलो होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 429,
+    "incorrect": "तिला आवडते शास्त्रीय संगीत.",
+    "correct": "तिला शास्त्रीय संगीत आवडते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 430,
+    "incorrect": "तो आला होता अचानक.",
+    "correct": "तो अचानक आला होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 431,
+    "incorrect": "मला सांग खरी गोष्ट.",
+    "correct": "मला खरी गोष्ट सांग.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 432,
+    "incorrect": "तुम्ही जाताय कसे?",
+    "correct": "तुम्ही कसे जाताय?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 433,
+    "incorrect": "मी शिकलो आहे चित्रकला.",
+    "correct": "मी चित्रकला शिकलो आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 434,
+    "incorrect": "ती दिसते आहे खूप चिंताग्रस्त.",
+    "correct": "ती खूप चिंताग्रस्त दिसते आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 435,
+    "incorrect": "त्यांनी पाळले नाहीत संकेत.",
+    "correct": "त्यांनी संकेत पाळले नाहीत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 436,
+    "incorrect": "उंट चालतो वाळवंटात.",
+    "correct": "उंट वाळवंटात चालतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 437,
+    "incorrect": "आम्ही आलो नाही तुमच्यामुळे.",
+    "correct": "आम्ही तुमच्यामुळे आलो नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 438,
+    "incorrect": "तू का नाही आलास माझ्या घरी?",
+    "correct": "तू माझ्या घरी का नाही आलास?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 439,
+    "incorrect": "माझा आहे भाऊ तो.",
+    "correct": "तो माझा भाऊ आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 440,
+    "incorrect": "तो पीत होता रस.",
+    "correct": "तो रस पीत होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 441,
+    "incorrect": "तिने घेतला नाही निर्णय.",
+    "correct": "तिने निर्णय घेतला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 442,
+    "incorrect": "मी जाणार आहे उद्या ऑफीसला.",
+    "correct": "मी उद्या ऑफीसला जाणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 443,
+    "incorrect": "त्याला आवडतो बघायला कार्टून.",
+    "correct": "त्याला कार्टून बघायला आवडते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 444,
+    "incorrect": "आपण भेटूया स्टेशनवर.",
+    "correct": "आपण स्टेशनवर भेटूया.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 445,
+    "incorrect": "ती आहे खूप साहसी.",
+    "correct": "ती खूप साहसी आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 446,
+    "incorrect": "ते करत होते गप्पा.",
+    "correct": "ते गप्पा करत होते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 447,
+    "incorrect": "मला आला नाही तुझा संदेश.",
+    "correct": "मला तुझा संदेश आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 448,
+    "incorrect": "त्याने पूर्ण केले काम वेळेवर.",
+    "correct": "त्याने वेळेवर काम पूर्ण केले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 449,
+    "incorrect": "आम्ही जाणार नाही पार्टीला.",
+    "correct": "आम्ही पार्टीला जाणार नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 450,
+    "incorrect": "फूल आहे झाडावर.",
+    "correct": "झाडावर फूल आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 451,
+    "incorrect": "मी खाल्ला होता केक.",
+    "correct": "मी केक खाल्ला होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 452,
+    "incorrect": "ती करत आहे तयारी.",
+    "correct": "ती तयारी करत आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 453,
+    "incorrect": "तो आला होता एकटाच.",
+    "correct": "तो एकटाच आला होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 454,
+    "incorrect": "आईने लावली नाही झाडे.",
+    "correct": "आईने झाडे लावली नाहीत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 455,
+    "incorrect": "आम्ही खेळणार आहोत उद्या संध्याकाळी.",
+    "correct": "आम्ही उद्या संध्याकाळी खेळणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 456,
+    "incorrect": "बाबांनी वाचला नाही तो लेख.",
+    "correct": "बाबांनी तो लेख वाचला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 457,
+    "incorrect": "तू कर मदत गरीबांना.",
+    "correct": "तू गरीबांना मदत कर.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 458,
+    "incorrect": "ही गाडी आहे कोणाची?",
+    "correct": "ही कोणाची गाडी आहे?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 459,
+    "incorrect": "तिने घेतला एक धाडसी निर्णय.",
+    "correct": "तिने एक धाडसी निर्णय घेतला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 460,
+    "incorrect": "अंधार झाला आहे बाहेर.",
+    "correct": "बाहेर अंधार झाला आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 461,
+    "incorrect": "चोराने फोडले नाही कुलूप.",
+    "correct": "चोराने कुलूप फोडले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 462,
+    "incorrect": "मी शिकवणार आहे तुला गाणे.",
+    "correct": "मी तुला गाणे शिकवणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 463,
+    "incorrect": "तो आला नाही म्हणून मी गेलो.",
+    "correct": "तो आला नाही म्हणून मी गेलो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 464,
+    "incorrect": "ती गेली आहे घरी.",
+    "correct": "ती घरी गेली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 465,
+    "incorrect": "त्यांनी विचारले नाही कारण.",
+    "correct": "त्यांनी कारण विचारले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 466,
+    "incorrect": "तुम्ही राहता का एकटे?",
+    "correct": "तुम्ही एकटे राहता का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 467,
+    "incorrect": "मला आवडतो व्यायाम.",
+    "correct": "मला व्यायाम करायला आवडतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 468,
+    "incorrect": "तो आहे खूप आनंदी.",
+    "correct": "तो खूप आनंदी आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 469,
+    "incorrect": "आजीने बनवली गोड शेव.",
+    "correct": "आजीने गोड शेव बनवली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 470,
+    "incorrect": "आम्ही जाणार आहोत मंदिरात उद्या.",
+    "correct": "आम्ही उद्या मंदिरात जाणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 471,
+    "incorrect": "हे काम कर लक्षपूर्वक.",
+    "correct": "हे काम लक्षपूर्वक कर.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 472,
+    "incorrect": "माझा आला नाही अजून नंबर.",
+    "correct": "माझा नंबर अजून आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 473,
+    "incorrect": "ती करत होती खरेदी.",
+    "correct": "ती खरेदी करत होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 474,
+    "incorrect": "त्याने दिले नाही कोणाला आमंत्रण.",
+    "correct": "त्याने कोणाला आमंत्रण दिले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 475,
+    "incorrect": "आज आहे हवामान उष्ण.",
+    "correct": "आज उष्ण हवामान आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 476,
+    "incorrect": "सिंह करतो जंगलात शिकार.",
+    "correct": "सिंह जंगलात शिकार करतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 477,
+    "incorrect": "मी करत नाही कोणाची फसवणूक.",
+    "correct": "मी कोणाची फसवणूक करत नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 478,
+    "incorrect": "आम्ही जेवलो होतो घरीच.",
+    "correct": "आम्ही घरीच जेवलो होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 479,
+    "incorrect": "तिला आवडतात जुनी गाणी.",
+    "correct": "तिला जुनी गाणी आवडतात.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 480,
+    "incorrect": "तो आला होता मित्रांसोबत.",
+    "correct": "तो मित्रांसोबत आला होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 481,
+    "incorrect": "मला शिकव गाडी चालवायला.",
+    "correct": "मला गाडी चालवायला शिकव.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 482,
+    "incorrect": "तुम्ही करता काय सध्या?",
+    "correct": "तुम्ही सध्या काय करता?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 483,
+    "incorrect": "मी शिकलो आहे खूप गोष्टी.",
+    "correct": "मी खूप गोष्टी शिकलो आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 484,
+    "incorrect": "ती बोलते खूप हळू.",
+    "correct": "ती खूप हळू बोलते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 485,
+    "incorrect": "त्यांनी केली नाही माझी तक्रार.",
+    "correct": "त्यांनी माझी तक्रार केली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 486,
+    "incorrect": "हरीण धावते वेगाने.",
+    "correct": "हरीण वेगाने धावते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 487,
+    "incorrect": "आम्ही गेलो नाही बागेत.",
+    "correct": "आम्ही बागेत गेलो नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 488,
+    "incorrect": "तू का नाही दिले उत्तर?",
+    "correct": "तू उत्तर का नाही दिले?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 489,
+    "incorrect": "माझा दुखतो आहे घसा.",
+    "correct": "माझा घसा दुखतो आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 490,
+    "incorrect": "तो पाहत होता टीव्ही.",
+    "correct": "तो टीव्ही पाहत होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 491,
+    "incorrect": "तिने घेतला नाही अभ्यास.",
+    "correct": "तिने अभ्यास केला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 492,
+    "incorrect": "मी जाणार आहे उद्या गावाला.",
+    "correct": "मी उद्या गावाला जाणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 493,
+    "incorrect": "त्याला आवडतो खेळायला कॅरम.",
+    "correct": "त्याला कॅरम खेळायला आवडतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 494,
+    "incorrect": "आपण करूया सुरुवात.",
+    "correct": "आपण सुरुवात करूया.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 495,
+    "incorrect": "ती आहे खूप समंजस.",
+    "correct": "ती खूप समंजस आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 496,
+    "incorrect": "ते करत आहेत तयारी.",
+    "correct": "ते तयारी करत आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 497,
+    "incorrect": "मला आठवत नाही त्याचा नंबर.",
+    "correct": "मला त्याचा नंबर आठवत नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 498,
+    "incorrect": "त्याने जिंकले सर्वांचे हृदय.",
+    "correct": "त्याने सर्वांचे हृदय जिंकले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 499,
+    "incorrect": "आम्ही जाणार नाही त्यासोबत.",
+    "correct": "आम्ही त्यासोबत जाणार नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 500,
+    "incorrect": "घड्याळ आहे भिंतीवर.",
+    "correct": "भिंतीवर घड्याळ आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 501,
+    "incorrect": "मी आणले आहेत तुझ्यासाठी फुले.",
+    "correct": "मी तुझ्यासाठी फुले आणली आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 502,
+    "incorrect": "ती गेली आहे तिच्या आईसोबत.",
+    "correct": "ती तिच्या आईसोबत गेली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 503,
+    "incorrect": "तो करत होता अभ्यास खोलीत बसून.",
+    "correct": "तो खोलीत बसून अभ्यास करत होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 504,
+    "incorrect": "आईने दिला मला खाऊ.",
+    "correct": "आईने मला खाऊ दिला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 505,
+    "incorrect": "आम्ही जाणार आहोत फिरायला उद्या डोंगरावर.",
+    "correct": "आम्ही उद्या डोंगरावर फिरायला जाणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 506,
+    "incorrect": "बाबांनी आणले नाहीत बाजारातून आंबे.",
+    "correct": "बाबांनी बाजारातून आंबे आणले नाहीत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 507,
+    "incorrect": "तू ये माझ्या घरी जेवायला.",
+    "correct": "तू जेवायला माझ्या घरी ये.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 508,
+    "incorrect": "ही गोष्ट आहे खरी का?",
+    "correct": "ही गोष्ट खरी आहे का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 509,
+    "incorrect": "तिने दिले नाही उत्तर माझ्या प्रश्नाचे.",
+    "correct": "तिने माझ्या प्रश्नाचे उत्तर दिले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 510,
+    "incorrect": "पाऊस येईल असे वाटते मला.",
+    "correct": "मला वाटते की पाऊस येईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 511,
+    "incorrect": "मुलांनी केला वर्गात गोंधळ.",
+    "correct": "मुलांनी वर्गात गोंधळ केला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 512,
+    "incorrect": "मी विसरलो त्याला फोन करायला.",
+    "correct": "मी त्याला फोन करायला विसरलो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 513,
+    "incorrect": "तो आला नाही कारण तो होता व्यस्त.",
+    "correct": "तो व्यस्त होता म्हणून आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 514,
+    "incorrect": "ती गेली आहे प्रदर्शनाला.",
+    "correct": "ती प्रदर्शनाला गेली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 515,
+    "incorrect": "त्यांनी मानले नाही आमचे आभार.",
+    "correct": "त्यांनी आमचे आभार मानले नाहीत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 516,
+    "incorrect": "तुम्ही राहता का या भागात?",
+    "correct": "तुम्ही या भागात राहता का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 517,
+    "incorrect": "मला आवडते ऐकायला शास्त्रीय संगीत.",
+    "correct": "मला शास्त्रीय संगीत ऐकायला आवडते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 518,
+    "incorrect": "तो दिसतो आहे खूप आजारी.",
+    "correct": "तो खूप आजारी दिसतो आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 519,
+    "incorrect": "आजीने शिवले नाही माझे कपडे.",
+    "correct": "आजीने माझे कपडे शिवले नाहीत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 520,
+    "incorrect": "आम्ही थांबणार आहोत इथेच थोडा वेळ.",
+    "correct": "आम्ही इथेच थोडा वेळ थांबणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 521,
+    "incorrect": "तुमचे काम करा वेळेवर.",
+    "correct": "वेळेवर तुमचे काम करा.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 522,
+    "incorrect": "माझा आला आहे ई-मेल.",
+    "correct": "माझा ई-मेल आला आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 523,
+    "incorrect": "ती घालत होती कानातले.",
+    "correct": "ती कानातले घालत होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 524,
+    "incorrect": "त्याने दिले नाही कोणाला आमंत्रण.",
+    "correct": "त्याने कोणाला आमंत्रण दिले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 525,
+    "incorrect": "आज आहे बाहेर खूप वारा.",
+    "correct": "आज बाहेर खूप वारा आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 526,
+    "incorrect": "कोल्हा राहतो जंगलात.",
+    "correct": "कोल्हा जंगलात राहतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 527,
+    "incorrect": "मी बोलणार नाही त्याच्याशी.",
+    "correct": "मी त्याच्याशी बोलणार नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 528,
+    "incorrect": "आम्ही पोहोचलो होतो वेळेच्या आधी.",
+    "correct": "आम्ही वेळेच्या आधी पोहोचलो होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 529,
+    "incorrect": "तिला आवडते घालायला साडी.",
+    "correct": "तिला साडी घालायला आवडते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 530,
+    "incorrect": "तो आला होता माझ्यासाठी.",
+    "correct": "तो माझ्यासाठी आला होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 531,
+    "incorrect": "मला दे तुझे पुस्तक वाचायला.",
+    "correct": "मला वाचायला तुझे पुस्तक दे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 532,
+    "incorrect": "तुम्ही आलात का इथून?",
+    "correct": "तुम्ही इथून आलात का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 533,
+    "incorrect": "मी शिकलो आहे खूप काही तुझ्याकडून.",
+    "correct": "मी तुझ्याकडून खूप काही शिकलो आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 534,
+    "incorrect": "ती चालवते गाडी खूप वेगात.",
+    "correct": "ती खूप वेगात गाडी चालवते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 535,
+    "incorrect": "त्यांनी दिली नाही आम्हाला परवानगी.",
+    "correct": "त्यांनी आम्हाला परवानगी दिली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 536,
+    "incorrect": "चिमणी बांधते घरटे झाडावर.",
+    "correct": "चिमणी झाडावर घरटे बांधते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 537,
+    "incorrect": "आम्ही गेलो नाही त्यांच्या घरी.",
+    "correct": "आम्ही त्यांच्या घरी गेलो नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 538,
+    "incorrect": "तू का नाही केले जेवण?",
+    "correct": "तू जेवण का नाही केलेस?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 539,
+    "incorrect": "माझी झाली आहे तयारी.",
+    "correct": "माझी तयारी झाली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 540,
+    "incorrect": "तो बघत होता निरखून.",
+    "correct": "तो निरखून बघत होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 541,
+    "incorrect": "तिने ठेवले नाहीत पैसे पर्समध्ये.",
+    "correct": "तिने पर्समध्ये पैसे ठेवले नाहीत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 542,
+    "incorrect": "मी जाणार आहे उद्या सकाळी फिरायला.",
+    "correct": "मी उद्या सकाळी फिरायला जाणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 543,
+    "incorrect": "त्याला आवडतो खेळायला खो-खो.",
+    "correct": "त्याला खो-खो खेळायला आवडतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 544,
+    "incorrect": "आपण करूया चर्चा या विषयावर.",
+    "correct": "आपण या विषयावर चर्चा करूया.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 545,
+    "incorrect": "ती आहे एक चांगली लेखिका.",
+    "correct": "ती एक चांगली लेखिका आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 546,
+    "incorrect": "ते करत आहेत आंदोलन.",
+    "correct": "ते आंदोलन करत आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 547,
+    "incorrect": "मला सापडला नाही माझा मोबाईल.",
+    "correct": "मला माझा मोबाईल सापडला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 548,
+    "incorrect": "त्याने जिंकले नाही बक्षीस.",
+    "correct": "त्याने बक्षीस जिंकले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 549,
+    "incorrect": "आम्ही जाणार नाही पुण्याला.",
+    "correct": "आम्ही पुण्याला जाणार नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 550,
+    "incorrect": "पैसे आहेत माझ्याकडे.",
+    "correct": "माझ्याकडे पैसे आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 551,
+    "incorrect": "मी दिले त्याला एक पुस्तक.",
+    "correct": "मी त्याला एक पुस्तक दिले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 552,
+    "incorrect": "तिने सांगितली मुलांना गोष्ट.",
+    "correct": "तिने मुलांना गोष्ट सांगितली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 553,
+    "incorrect": "तो पोहोचला स्टेशनवर वेळेवर.",
+    "correct": "तो वेळेवर स्टेशनवर पोहोचला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 554,
+    "incorrect": "आईने दिला बाळाला दूध.",
+    "correct": "आईने बाळाला दूध दिले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 555,
+    "incorrect": "आम्ही पाठवले आहे तिला पत्र.",
+    "correct": "आम्ही तिला पत्र पाठवले आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 556,
+    "incorrect": "बाबांनी दिले नाही मला पैसे.",
+    "correct": "बाबांनी मला पैसे दिले नाहीत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 557,
+    "incorrect": "तू सांग सगळ्यांना ही बातमी.",
+    "correct": "तू ही बातमी सगळ्यांना सांग.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 558,
+    "incorrect": "मी ऐकले की आला आहे तो.",
+    "correct": "मी ऐकले की तो आला आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 559,
+    "incorrect": "त्याने दिले नाही कोणाला उत्तर.",
+    "correct": "त्याने कोणाला उत्तर दिले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 560,
+    "incorrect": "जेव्हा येशील तू, तेव्हा आपण जाऊ.",
+    "correct": "जेव्हा तू येशील, तेव्हा आपण जाऊ.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 561,
+    "incorrect": "रस्ता ओलांडला गेला मुलांकडून.",
+    "correct": "मुलांकडून रस्ता ओलांडला गेला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 562,
+    "incorrect": "सीता आहे सुंदर गीतेपेक्षा.",
+    "correct": "सीता गीतेपेक्षा सुंदर आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 563,
+    "incorrect": "तुम्ही करायला हवे हे काम आज.",
+    "correct": "तुम्ही आज हे काम करायला हवे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 564,
+    "incorrect": "जर केली मदत तू, तर बरे होईल.",
+    "correct": "जर तू मदत केलीस, तर बरे होईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 565,
+    "incorrect": "त्याला लागेल जायला.",
+    "correct": "त्याला जायला लागेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 566,
+    "incorrect": "तुम्ही जाणार आहात का उद्या?",
+    "correct": "तुम्ही उद्या जाणार आहात का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 567,
+    "incorrect": "मला द्यायला हवा होता त्याला सल्ला.",
+    "correct": "मला त्याला सल्ला द्यायला हवा होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 568,
+    "incorrect": "तो धावतो माझ्यापेक्षा वेगात.",
+    "correct": "तो माझ्यापेक्षा वेगात धावतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 569,
+    "incorrect": "मला माहित आहे की तू बोलतोस खोटं.",
+    "correct": "मला माहित आहे की तू खोटं बोलतोस.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 570,
+    "incorrect": "आम्ही बसलो होतो शांतपणे घरात.",
+    "correct": "आम्ही घरात शांतपणे बसलो होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 571,
+    "incorrect": "हे काम करा आधी.",
+    "correct": "आधी हे काम करा.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 572,
+    "incorrect": "माझी गाडी आहे तुझ्या गाडीसारखी.",
+    "correct": "माझी गाडी तुझ्या गाडीसारखी आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 573,
+    "incorrect": "ती बोलत होती हळू आवाजात.",
+    "correct": "ती हळू आवाजात बोलत होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 574,
+    "incorrect": "त्याने मागितली माझ्याकडे मदत.",
+    "correct": "त्याने माझ्याकडे मदत मागितली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 575,
+    "incorrect": "हे आहे चुकीचे पूर्णपणे.",
+    "correct": "हे पूर्णपणे चुकीचे आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 576,
+    "incorrect": "पत्र लिहिले गेले त्याच्याकडून.",
+    "correct": "त्याच्याकडून पत्र लिहिले गेले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 577,
+    "incorrect": "मी त्याला विचारणार नाही काहीही.",
+    "correct": "मी त्याला काहीही विचारणार नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 578,
+    "incorrect": "आम्ही गेलो होतो दर्शनाला देवळात.",
+    "correct": "आम्ही देवळात दर्शनाला गेलो होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 579,
+    "incorrect": "तिला आवडते ऐकायला गोष्टी.",
+    "correct": "तिला गोष्टी ऐकायला आवडतात.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 580,
+    "incorrect": "तो आला नाही म्हणून कार्यक्रम रद्द झाला.",
+    "correct": "तो न आल्याने कार्यक्रम रद्द झाला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 581,
+    "incorrect": "मला करायचे आहे हे काम पूर्ण.",
+    "correct": "मला हे काम पूर्ण करायचे आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 582,
+    "incorrect": "तुम्ही यायलाच पाहिजे लग्नाला.",
+    "correct": "तुम्ही लग्नाला यायलाच पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 583,
+    "incorrect": "मी आणणार आहे भाजी बाजारातून.",
+    "correct": "मी बाजारातून भाजी आणणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 584,
+    "incorrect": "ती आहे माझ्या बहिणीपेक्षा उंच.",
+    "correct": "ती माझ्या बहिणीपेक्षा उंच आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 585,
+    "incorrect": "त्यांनी दिली नाही कोणतीही सूचना.",
+    "correct": "त्यांनी कोणतीही सूचना दिली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 586,
+    "incorrect": "जे होईल ते पाहावे.",
+    "correct": "जे होईल ते पाहावे लागेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 587,
+    "incorrect": "आम्ही खाल्ले नाही काहीच सकाळपासून.",
+    "correct": "आम्ही सकाळपासून काहीच खाल्ले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 588,
+    "incorrect": "तू का नाही आलास वेळेवर?",
+    "correct": "तू वेळेवर का नाही आलास?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 589,
+    "incorrect": "माझे झाले आहे जेवण.",
+    "correct": "माझे जेवण झाले आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 590,
+    "incorrect": "तो वाचत होता पुस्तक मन लावून.",
+    "correct": "तो मन लावून पुस्तक वाचत होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 591,
+    "incorrect": "तिने आणले नाही पाणी.",
+    "correct": "तिने पाणी आणले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 592,
+    "incorrect": "मी जाणार आहे उद्या मित्राच्या घरी.",
+    "correct": "मी उद्या मित्राच्या घरी जाणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 593,
+    "incorrect": "त्याला पाहिजे होती तुझी मदत.",
+    "correct": "त्याला तुझी मदत पाहिजे होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 594,
+    "incorrect": "आपण बोलूया निवांतपणे.",
+    "correct": "आपण निवांतपणे बोलूया.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 595,
+    "incorrect": "ती आहे एक कुशल कलाकार.",
+    "correct": "ती एक कुशल कलाकार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 596,
+    "incorrect": "ते करत होते तयारी परीक्षेची.",
+    "correct": "ते परीक्षेची तयारी करत होते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 597,
+    "incorrect": "मला आला नाही तुझा आवाज.",
+    "correct": "मला तुझा आवाज आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 598,
+    "incorrect": "त्याने पूर्ण केले नाही त्याचे काम.",
+    "correct": "त्याने त्याचे काम पूर्ण केले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 599,
+    "incorrect": "आम्ही जाणार नाही त्यांच्याबरोबर.",
+    "correct": "आम्ही त्यांच्याबरोबर जाणार नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 600,
+    "incorrect": "बेडूक मारतो पाण्यात उडी.",
+    "correct": "बेडूक पाण्यात उडी मारतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 601,
+    "incorrect": "मी जातो रोज सकाळी बागेत.",
+    "correct": "मी रोज सकाळी बागेत जातो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 602,
+    "incorrect": "ती परत आली काल रात्री उशिरा.",
+    "correct": "ती काल रात्री उशिरा परत आली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 603,
+    "incorrect": "तो करतो नेहमी शांतपणे त्याचे काम.",
+    "correct": "तो नेहमी त्याचे काम शांतपणे करतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 604,
+    "incorrect": "आई ठेवते डब्यात खाऊ रोज.",
+    "correct": "आई रोज डब्यात खाऊ ठेवते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 605,
+    "incorrect": "आम्ही पोहोचलो होतो आरामात घरी.",
+    "correct": "आम्ही आरामात घरी पोहोचलो होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 606,
+    "incorrect": "बाबा जातात कार्यालयात दररोज.",
+    "correct": "बाबा दररोज कार्यालयात जातात.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 607,
+    "incorrect": "तू ये उद्या लवकर घरी.",
+    "correct": "तू उद्या घरी लवकर ये.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 608,
+    "incorrect": "माझी गाडी चालते चांगली अजूनही.",
+    "correct": "माझी गाडी अजूनही चांगली चालते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 609,
+    "incorrect": "तिने साफ केली तिची खोली काल.",
+    "correct": "तिने काल तिची खोली साफ केली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 610,
+    "incorrect": "पाऊस पडत आहे जोरात बाहेर.",
+    "correct": "बाहेर जोरात पाऊस पडत आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 611,
+    "incorrect": "मुले खेळतात मैदानावर संध्याकाळी.",
+    "correct": "मुले संध्याकाळी मैदानावर खेळतात.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 612,
+    "incorrect": "मी विसरलो नाही कधीच ती गोष्ट.",
+    "correct": "मी ती गोष्ट कधीच विसरलो नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 613,
+    "incorrect": "तो आला होता माझ्याकडे अचानक.",
+    "correct": "तो अचानक माझ्याकडे आला होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 614,
+    "incorrect": "ती गेली आहे आताच बाहेर.",
+    "correct": "ती आताच बाहेर गेली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 615,
+    "incorrect": "त्यांनी सोडले नाही कधीच गाव.",
+    "correct": "त्यांनी कधीच गाव सोडले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 616,
+    "incorrect": "तुम्ही आलात का इथे कधी?",
+    "correct": "तुम्ही कधी इथे आलात का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 617,
+    "incorrect": "मला आवडते चालायला सकाळी.",
+    "correct": "मला सकाळी चालायला आवडते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 618,
+    "incorrect": "तो दिसतो आहे खूप आनंदी आज.",
+    "correct": "तो आज खूप आनंदी दिसतो आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 619,
+    "incorrect": "आजी सांगते छान गोष्टी नेहमी.",
+    "correct": "आजी नेहमी छान गोष्टी सांगते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 620,
+    "incorrect": "आम्ही जाणार आहोत उद्या सकाळी लवकर.",
+    "correct": "आम्ही उद्या सकाळी लवकर जाणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 621,
+    "incorrect": "हे काम कर तू लगेच.",
+    "correct": "तू हे काम लगेच कर.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 622,
+    "incorrect": "माझे दुखत आहे डोके सकाळपासून.",
+    "correct": "माझे डोके सकाळपासून दुखत आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 623,
+    "incorrect": "ती बोलत होती त्याच्याशी फोनवर.",
+    "correct": "ती त्याच्याशी फोनवर बोलत होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 624,
+    "incorrect": "त्याने दिले नाही उत्तर लगेच.",
+    "correct": "त्याने लगेच उत्तर दिले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 625,
+    "incorrect": "आज आहे हवामान खूपच छान.",
+    "correct": "आज हवामान खूपच छान आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 626,
+    "incorrect": "मोर नाचतो छान पावसात.",
+    "correct": "मोर पावसात छान नाचतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 627,
+    "incorrect": "मी केले नाही कधीच असे.",
+    "correct": "मी असे कधीच केले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 628,
+    "incorrect": "आम्ही गेलो होतो सिनेमाला काल रात्री.",
+    "correct": "आम्ही काल रात्री सिनेमाला गेलो होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 629,
+    "incorrect": "तिला आवडते राहायला एकटीला.",
+    "correct": "तिला एकटीला राहायला आवडते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 630,
+    "incorrect": "तो आला नाही घरी वेळेवर.",
+    "correct": "तो वेळेवर घरी आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 631,
+    "incorrect": "मला करायचे आहे हे पूर्ण आजच.",
+    "correct": "मला हे आजच पूर्ण करायचे आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 632,
+    "incorrect": "तुम्ही का नाही आलात अजून?",
+    "correct": "तुम्ही अजून का नाही आलात?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 633,
+    "incorrect": "मी शिकणार आहे लवकरच गाडी चालवायला.",
+    "correct": "मी लवकरच गाडी चालवायला शिकणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 634,
+    "incorrect": "ती गाते छान गाणी नेहमी.",
+    "correct": "ती नेहमी छान गाणी गाते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 635,
+    "incorrect": "त्यांनी दिली नाही आम्हाला कोणतीच मदत.",
+    "correct": "त्यांनी आम्हाला कोणतीच मदत दिली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 636,
+    "incorrect": "कुत्रा झोपला होता शांतपणे दारात.",
+    "correct": "कुत्रा दारात शांतपणे झोपला होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 637,
+    "incorrect": "आम्ही पोहोचलो नाही अजून तिथे.",
+    "correct": "आम्ही अजून तिथे पोहोचलो नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 638,
+    "incorrect": "तू का नाही सांगितले मला आधी?",
+    "correct": "तू मला आधी का नाही सांगितले?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 639,
+    "incorrect": "माझी होती चूक तेव्हा.",
+    "correct": "तेव्हा माझी चूक होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 640,
+    "incorrect": "तो बघत होता एकटक माझ्याकडे.",
+    "correct": "तो माझ्याकडे एकटक बघत होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 641,
+    "incorrect": "तिने घेतला नाही भाग स्पर्धेत.",
+    "correct": "तिने स्पर्धेत भाग घेतला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 642,
+    "incorrect": "मी जाणार आहे गावी पुढच्या आठवड्यात.",
+    "correct": "मी पुढच्या आठवड्यात गावी जाणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 643,
+    "incorrect": "त्याला लागतो वेळ खूप विचार करायला.",
+    "correct": "त्याला विचार करायला खूप वेळ लागतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 644,
+    "incorrect": "आपण करूया सुरुवात उद्यापासून.",
+    "correct": "आपण उद्यापासून सुरुवात करूया.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 645,
+    "incorrect": "ती आहे खूपच हुशार तिच्या वर्गात.",
+    "correct": "ती तिच्या वर्गात खूपच हुशार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 646,
+    "incorrect": "ते करत आहेत काम एकत्र.",
+    "correct": "ते एकत्र काम करत आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 647,
+    "incorrect": "मला आठवत नाही काहीच आता.",
+    "correct": "मला आता काहीच आठवत नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 648,
+    "incorrect": "त्याने जिंकले होते पहिले बक्षीस गेल्या वर्षी.",
+    "correct": "त्याने गेल्या वर्षी पहिले बक्षीस जिंकले होते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 649,
+    "incorrect": "आम्ही जाणार नाही कधीच तिकडे.",
+    "correct": "आम्ही तिकडे कधीच जाणार नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 650,
+    "incorrect": "पुस्तक आहे माझ्या दप्तरात.",
+    "correct": "माझ्या दप्तरात पुस्तक आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 651,
+    "incorrect": "मी ऐकले आहे तो येणार आहे की.",
+    "correct": "मी ऐकले आहे की तो येणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 652,
+    "incorrect": "तिने सांगितले की जाणार आहे ती.",
+    "correct": "तिने सांगितले की ती जाणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 653,
+    "incorrect": "मला वाटले की आला पाऊस.",
+    "correct": "मला वाटले की पाऊस आला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 654,
+    "incorrect": "आई म्हणाली की कर अभ्यास.",
+    "correct": "आई म्हणाली की अभ्यास कर.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 655,
+    "incorrect": "आम्हाला समजले की काय झाले ते.",
+    "correct": "आम्हाला समजले की काय झाले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 656,
+    "incorrect": "जेव्हा मी आलो, गेला होता तो.",
+    "correct": "जेव्हा मी आलो, तेव्हा तो गेला होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 657,
+    "incorrect": "जो अभ्यास करतो, तो होतो पास.",
+    "correct": "जो अभ्यास करतो, तो पास होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 658,
+    "incorrect": "तिला माहित नव्हते की येणार आहोत आम्ही.",
+    "correct": "तिला माहित नव्हते की आम्ही येणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 659,
+    "incorrect": "त्याने विचारले की जायचे आहे कुठे.",
+    "correct": "त्याने विचारले की कुठे जायचे आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 660,
+    "incorrect": "जर आलास तू, तर मजा येईल.",
+    "correct": "जर तू आलास, तर मजा येईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 661,
+    "incorrect": "मला वाटते तो चांगला मुलगा आहे की.",
+    "correct": "मला वाटते की तो चांगला मुलगा आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 662,
+    "incorrect": "जेव्हा पाऊस थांबेल, जाऊ आपण.",
+    "correct": "जेव्हा पाऊस थांबेल, तेव्हा आपण जाऊ.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 663,
+    "incorrect": "तो आला नाही कारण होता तो आजारी.",
+    "correct": "तो आजारी होता म्हणून आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 664,
+    "incorrect": "तिने सांगितले नाही की का जात आहे ती.",
+    "correct": "तिने सांगितले नाही की ती का जात आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 665,
+    "incorrect": "त्यांना वाटले की गेलो आम्ही.",
+    "correct": "त्यांना वाटले की आम्ही गेलो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 666,
+    "incorrect": "जरी तो गरीब आहे, तरी तो आहे प्रामाणिक.",
+    "correct": "जरी तो गरीब असला तरी तो प्रामाणिक आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 667,
+    "incorrect": "मला कळले की झाली माझी चूक.",
+    "correct": "मला कळले की माझी चूक झाली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 668,
+    "incorrect": "तो इतका हुशार आहे की जिंकेल तो पहिले बक्षीस.",
+    "correct": "तो इतका हुशार आहे की तो पहिले बक्षीस जिंकेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 669,
+    "incorrect": "जेव्हा तू बोलशील, ऐकेन मी.",
+    "correct": "जेव्हा तू बोलशील, तेव्हा मी ऐकेन.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 670,
+    "incorrect": "मी विचार करत होतो की करावे काय.",
+    "correct": "मी विचार करत होतो की काय करावे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 671,
+    "incorrect": "जसे तुम्ही वागाल, तसे मिळेल फळ.",
+    "correct": "जसे तुम्ही वागाल, तसे फळ मिळेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 672,
+    "incorrect": "माझा विश्वास आहे तुम्ही जिंकाल की.",
+    "correct": "माझा विश्वास आहे की तुम्ही जिंकाल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 673,
+    "incorrect": "ती आली नाही म्हणून आम्ही वाट बघत होतो.",
+    "correct": "ती न आल्यामुळे आम्ही वाट बघत होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 674,
+    "incorrect": "त्याने कबूल केले की केली त्याने चूक.",
+    "correct": "त्याने कबूल केले की त्याने चूक केली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 675,
+    "incorrect": "हे खरे आहे की उगवतो सूर्य पूर्वेला.",
+    "correct": "हे खरे आहे की सूर्य पूर्वेला उगवतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 676,
+    "incorrect": "जेव्हा गरज होती, तेव्हा आला नाही तो.",
+    "correct": "जेव्हा गरज होती, तेव्हा तो आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 677,
+    "incorrect": "मी त्याला सांगितले की बस शांत.",
+    "correct": "मी त्याला सांगितले की शांत बस.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 678,
+    "incorrect": "आम्ही ठरवले की आम्ही जाणार.",
+    "correct": "आम्ही जायचे ठरवले आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 679,
+    "incorrect": "तिला भीती वाटत होती की होईल ती नापास.",
+    "correct": "तिला भीती वाटत होती की ती नापास होईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 680,
+    "incorrect": "तो आला आणि सुरु झाली मीटिंग.",
+    "correct": "तो आला आणि बैठक सुरू झाली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 681,
+    "incorrect": "मला खात्री आहे की करशील तू मदत.",
+    "correct": "मला खात्री आहे की तू मदत करशील.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 682,
+    "incorrect": "तुम्ही आलात म्हणून झाले बरे.",
+    "correct": "तुम्ही आलात म्हणून बरे झाले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 683,
+    "incorrect": "मी पाहिलं की तो होता पळत.",
+    "correct": "मी पाहिलं की तो पळत होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 684,
+    "incorrect": "ती हसली आणि गेली निघून.",
+    "correct": "ती हसली आणि निघून गेली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 685,
+    "incorrect": "त्यांना समजले नाही की करायचे काय.",
+    "correct": "त्यांना समजले नाही की काय करायचे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 686,
+    "incorrect": "जो करतो प्रयत्न, तो यशस्वी होतो.",
+    "correct": "जो प्रयत्न करतो, तो यशस्वी होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 687,
+    "incorrect": "आम्ही खाल्ले आणि गेलो झोपी.",
+    "correct": "आम्ही खाऊन झोपी गेलो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 688,
+    "incorrect": "जर केला असता अभ्यास, तर झालो असतो पास.",
+    "correct": "जर अभ्यास केला असता, तर पास झालो असतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 689,
+    "incorrect": "माझी इच्छा आहे की व्हावेस तू यशस्वी.",
+    "correct": "माझी इच्छा आहे की तू यशस्वी व्हावेस.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 690,
+    "incorrect": "तो ओरडला आणि घाबरले सगळे.",
+    "correct": "तो ओरडल्याने सगळे घाबरले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 691,
+    "incorrect": "तिने पाहिले आणि ती हसली.",
+    "correct": "तिने पाहून ती हसली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 692,
+    "incorrect": "मी आलो आहे कारण तू बोलावलेस.",
+    "correct": "तू बोलावल्यामुळे मी आलो आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 693,
+    "incorrect": "त्याला माहित आहे की करायचे कसे.",
+    "correct": "त्याला माहित आहे की कसे करायचे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 694,
+    "incorrect": "आपण भेटू जेव्हा मिळेल वेळ.",
+    "correct": "जेव्हा वेळ मिळेल तेव्हा आपण भेटू.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 695,
+    "incorrect": "ती एवढी सुंदर आहे की बघतात तिच्याकडे सगळे.",
+    "correct": "ती एवढी सुंदर आहे की सगळे तिच्याकडे बघतात.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 696,
+    "incorrect": "ते म्हणाले की येणार नाहीत ते.",
+    "correct": "ते म्हणाले की ते येणार नाहीत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 697,
+    "incorrect": "मला आठवत नाही की ठेवले मी कुठे.",
+    "correct": "मी ते कुठे ठेवले हे मला आठवत नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 698,
+    "incorrect": "त्याने विचारले की येऊ का मी.",
+    "correct": "त्याने विचारले की मी येऊ का.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 699,
+    "incorrect": "आम्ही जाणार आहोत जरी आला पाऊस तरी.",
+    "correct": "जरी पाऊस आला तरी आम्ही जाणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 700,
+    "incorrect": "चहा झाला की मी देतो.",
+    "correct": "चहा झाल्यावर मी देतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 701,
+    "incorrect": "चोर पकडला गेला पोलिसांकडून.",
+    "correct": "पोलिसांकडून चोर पकडला गेला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 702,
+    "incorrect": "पत्र लिहिले गेले माझ्याकडून.",
+    "correct": "माझ्याकडून पत्र लिहिले गेले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 703,
+    "incorrect": "काम पूर्ण झाले त्याच्याकडून.",
+    "correct": "त्याच्याकडून काम पूर्ण झाले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 704,
+    "incorrect": "भाजी आणली गेली आईकडून.",
+    "correct": "आईकडून भाजी आणली गेली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 705,
+    "incorrect": "गाणे गायले गेले तिच्याकडून.",
+    "correct": "तिच्याकडून गाणे गायले गेले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 706,
+    "incorrect": "घर बांधले गेले त्यांच्याकडून.",
+    "correct": "त्यांच्याकडून घर बांधले गेले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 707,
+    "incorrect": "पुस्तक वाचले गेले मुलांकडून.",
+    "correct": "मुलांकडून पुस्तक वाचले गेले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 708,
+    "incorrect": "चूक केली गेली तुझ्याकडून.",
+    "correct": "तुझ्याकडून चूक केली गेली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 709,
+    "incorrect": "मदत केली जाईल आमच्याकडून.",
+    "correct": "आमच्याकडून मदत केली जाईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 710,
+    "incorrect": "परीक्षा दिली जाईल विद्यार्थ्यांकडून.",
+    "correct": "विद्यार्थ्यांकडून परीक्षा दिली जाईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 711,
+    "incorrect": "चित्र काढले गेले कलाकाराकडून.",
+    "correct": "कलाकाराकडून चित्र काढले गेले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 712,
+    "incorrect": "बातमी सांगितली गेली नाही.",
+    "correct": "बातमी सांगितली गेली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 713,
+    "incorrect": "जेवण बनवले जाईल आचाऱ्याकडून.",
+    "correct": "आचाऱ्याकडून जेवण बनवले जाईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 714,
+    "incorrect": "खिडकी उघडली गेली वाऱ्याने.",
+    "correct": "वाऱ्यामुळे खिडकी उघडली गेली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 715,
+    "incorrect": "झाड तोडले गेले त्याच्याकडून.",
+    "correct": "त्याच्याकडून झाड तोडले गेले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 716,
+    "incorrect": "निर्णय घेतला जाईल सगळ्यांकडून.",
+    "correct": "सगळ्यांकडून निर्णय घेतला जाईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 717,
+    "incorrect": "कविता रचली गेली कवीकडून.",
+    "correct": "कवीकडून कविता रचली गेली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 718,
+    "incorrect": "कपडे धुतले गेले धोब्याकडून.",
+    "correct": "धोब्याकडून कपडे धुतले गेले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 719,
+    "incorrect": "प्रश्न विचारले गेले शिक्षकांकडून.",
+    "correct": "शिक्षकांकडून प्रश्न विचारले गेले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 720,
+    "incorrect": "माहिती दिली गेली नाही सरकारकडून.",
+    "correct": "सरकारकडून माहिती दिली गेली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 721,
+    "incorrect": "रांगोळी काढली गेली तिच्या बहिणीकडून.",
+    "correct": "तिच्या बहिणीकडून रांगोळी काढली गेली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 722,
+    "incorrect": "दार उघडले गेले नाही माझ्याकडून.",
+    "correct": "माझ्याकडून दार उघडले गेले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 723,
+    "incorrect": "मैदान साफ केले गेले मुलांनी.",
+    "correct": "मुलांकडून मैदान साफ केले गेले.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 724,
+    "incorrect": "चहा बनवला गेला नाही माझ्याकडून.",
+    "correct": "माझ्याकडून चहा बनवला गेला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 725,
+    "incorrect": "कार्यक्रम आयोजित केला जाईल आमच्याद्वारे.",
+    "correct": "आमच्याद्वारे कार्यक्रम आयोजित केला जाईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 726,
+    "incorrect": "भिंत रंगवली गेली नाही आमच्याकडून.",
+    "correct": "आमच्याकडून भिंत रंगवली गेली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 727,
+    "incorrect": "गोष्ट सांगितली गेली नाही आजीकडून.",
+    "correct": "आजीकडून गोष्ट सांगितली गेली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 728,
+    "incorrect": "नियम मोडला गेला त्याच्याकडून.",
+    "correct": "त्याच्याकडून नियम मोडला गेला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 729,
+    "incorrect": "शाळा उघडली जाईल लवकरच सरकारकडून.",
+    "correct": "सरकारकडून शाळा लवकरच उघडली जाईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 730,
+    "incorrect": "फळे विकली गेली नाहीत त्याच्याकडून.",
+    "correct": "त्याच्याकडून फळे विकली गेली नाहीत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 731,
+    "incorrect": "रस्ता दुरुस्त केला जात आहे.",
+    "correct": "रस्ता दुरुस्त केला जात आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 732,
+    "incorrect": "त्याला बोलावले जाईल आमच्याकडून.",
+    "correct": "आमच्याकडून त्याला बोलावले जाईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 733,
+    "incorrect": "माफी मागितली गेली नाही त्याच्याकडून.",
+    "correct": "त्याच्याकडून माफी मागितली गेली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 734,
+    "incorrect": "सूचना दिली जाईल सगळ्यांना.",
+    "correct": "सगळ्यांना सूचना दिली जाईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 735,
+    "incorrect": "गाडी धुतली गेली नाही माझ्याकडून.",
+    "correct": "माझ्याकडून गाडी धुतली गेली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 736,
+    "incorrect": "पत्र पाठवले जाईल उद्या.",
+    "correct": "उद्या पत्र पाठवले जाईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 737,
+    "incorrect": "पैसे दिले गेले नाहीत त्याला.",
+    "correct": "त्याला पैसे दिले गेले नाहीत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 738,
+    "incorrect": "घोषणा केली जाईल लवकरच.",
+    "correct": "लवकरच घोषणा केली जाईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 739,
+    "incorrect": "त्यांना पकडले गेले नाही पोलिसांकडून.",
+    "correct": "पोलिसांकडून त्यांना पकडले गेले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 740,
+    "incorrect": "बागकाम केले जाईल माळ्याकडून.",
+    "correct": "माळ्याकडून बागकाम केले जाईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 741,
+    "incorrect": "नवीन योजना सुरू केली गेली सरकारने.",
+    "correct": "सरकारने नवीन योजना सुरू केली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 742,
+    "incorrect": "माझे नाव पुकारले गेले नाही.",
+    "correct": "माझे नाव पुकारले गेले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 743,
+    "incorrect": "त्याला शिक्षा दिली गेली न्यायाधीशांकडून.",
+    "correct": "न्यायाधीशांकडून त्याला शिक्षा दिली गेली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 744,
+    "incorrect": "प्रश्न सोडवला गेला नाही माझ्याकडून.",
+    "correct": "माझ्याकडून प्रश्न सोडवला गेला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 745,
+    "incorrect": "स्पर्धा जिंकली गेली आमच्या टीमकडून.",
+    "correct": "आमच्या टीमकडून स्पर्धा जिंकली गेली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 746,
+    "incorrect": "चित्रपट पाहिला गेला सगळ्यांकडून.",
+    "correct": "सगळ्यांकडून चित्रपट पाहिला गेला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 747,
+    "incorrect": "बैठक रद्द केली गेली.",
+    "correct": "बैठक रद्द करण्यात आली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 748,
+    "incorrect": "त्यांना निरोप दिला गेला आमच्याकडून.",
+    "correct": "आमच्याकडून त्यांना निरोप दिला गेला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 749,
+    "incorrect": "जंगलतोड थांबवली पाहिजे सरकारने.",
+    "correct": "सरकारने जंगलतोड थांबवली पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 750,
+    "incorrect": "सफाई केली जाईल उद्या.",
+    "correct": "उद्या सफाई केली जाईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 751,
+    "incorrect": "राम आहे शामपेक्षा उंच.",
+    "correct": "राम शामपेक्षा उंच आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 752,
+    "incorrect": "माझी गाडी आहे तुझ्या गाडीपेक्षा चांगली.",
+    "correct": "माझी गाडी तुझ्या गाडीपेक्षा चांगली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 753,
+    "incorrect": "तो धावतो चित्त्यासारखा.",
+    "correct": "तो चित्त्यासारखा धावतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 754,
+    "incorrect": "हे पुस्तक आहे त्यापेक्षा मोठे.",
+    "correct": "हे पुस्तक त्यापेक्षा मोठे आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 755,
+    "incorrect": "ती गाते कोकिळेसारखी.",
+    "correct": "ती कोकिळेसारखी गाते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 756,
+    "incorrect": "त्याचे घर आहे माझ्या घरापेक्षा लहान.",
+    "correct": "त्याचे घर माझ्या घरापेक्षा लहान आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 757,
+    "incorrect": "आजची हवा आहे कालपेक्षा थंड.",
+    "correct": "आजची हवा कालपेक्षा थंड आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 758,
+    "incorrect": "तो वागतो मोठ्या माणसांसारखा.",
+    "correct": "तो मोठ्या माणसांसारखा वागतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 759,
+    "incorrect": "ही जागा आहे त्या जागेपेक्षा सुंदर.",
+    "correct": "ही जागा त्या जागेपेक्षा सुंदर आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 760,
+    "incorrect": "तिचे अक्षर आहे मोत्यासारखे.",
+    "correct": "तिचे अक्षर मोत्यासारखे आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 761,
+    "incorrect": "गणित आहे विज्ञानापेक्षा सोपे.",
+    "correct": "गणित विज्ञानापेक्षा सोपे आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 762,
+    "incorrect": "तो दिसतो त्याच्या वडिलांसारखा.",
+    "correct": "तो त्याच्या वडिलांसारखा दिसतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 763,
+    "incorrect": "माझा भाऊ आहे माझ्यापेक्षा हुशार.",
+    "correct": "माझा भाऊ माझ्यापेक्षा हुशार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 764,
+    "incorrect": "हे काम आहे वाटते त्यापेक्षा कठीण.",
+    "correct": "हे काम वाटते त्यापेक्षा कठीण आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 765,
+    "incorrect": "ती वागते लहान मुलांसारखी.",
+    "correct": "ती लहान मुलांसारखी वागते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 766,
+    "incorrect": "शहर आहे गावापेक्षा मोठे.",
+    "correct": "शहर गावापेक्षा मोठे असते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 767,
+    "incorrect": "तुझा आवाज आहे माझ्या आवाजापेक्षा चांगला.",
+    "correct": "तुझा आवाज माझ्या आवाजापेक्षा चांगला आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 768,
+    "incorrect": "तो लढला सिंहासारखा.",
+    "correct": "तो सिंहासारखा लढला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 769,
+    "incorrect": "चहा आहे कॉफीपेक्षा स्वस्त.",
+    "correct": "चहा कॉफीपेक्षा स्वस्त आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 770,
+    "incorrect": "ती दिसते तिच्या आईसारखी.",
+    "correct": "ती तिच्या आईसारखी दिसते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 771,
+    "incorrect": "धावणे आहे चालण्यापेक्षा चांगले.",
+    "correct": "धावणे चालण्यापेक्षा चांगले आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 772,
+    "incorrect": "तो आहे त्याच्या मित्रांपेक्षा वेगळा.",
+    "correct": "तो त्याच्या मित्रांपेक्षा वेगळा आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 773,
+    "incorrect": "हे चित्र आहे हुबेहूब तिच्यासारखे.",
+    "correct": "हे चित्र हुबेहूब तिच्यासारखे आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 774,
+    "incorrect": "माझी शाळा आहे तुझ्या शाळेपेक्षा जवळ.",
+    "correct": "माझी शाळा तुझ्या शाळेपेक्षा जवळ आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 775,
+    "incorrect": "तो काम करतो यंत्रासारखा.",
+    "correct": "तो यंत्रासारखा काम करतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 776,
+    "incorrect": "सफरचंद आहे संत्र्यापेक्षा महाग.",
+    "correct": "सफरचंद संत्र्यापेक्षा महाग आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 777,
+    "incorrect": "ती आहे तिच्या बहिणीपेक्षा शांत.",
+    "correct": "ती तिच्या बहिणीपेक्षा शांत आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 778,
+    "incorrect": "हे गाव आहे शहरासारखे.",
+    "correct": "हे गाव शहरासारखे आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 779,
+    "incorrect": "माझे मत आहे तुझ्या मतापेक्षा वेगळे.",
+    "correct": "माझे मत तुझ्या मतापेक्षा वेगळे आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 780,
+    "incorrect": "तो बोलतो एखाद्या नेत्यासारखा.",
+    "correct": "तो एखाद्या नेत्यासारखा बोलतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 781,
+    "incorrect": "सायकल आहे मोटरबाइकपेक्षा हळू.",
+    "correct": "सायकल मोटरबाइकपेक्षा हळू चालते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 782,
+    "incorrect": "हे उत्तर आहे त्यापेक्षा बरोबर.",
+    "correct": "हे उत्तर त्यापेक्षा बरोबर आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 783,
+    "incorrect": "ती वागते राणीसारखी.",
+    "correct": "ती राणीसारखी वागते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 784,
+    "incorrect": "हा रस्ता आहे त्या रस्त्यापेक्षा रुंद.",
+    "correct": "हा रस्ता त्या रस्त्यापेक्षा रुंद आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 785,
+    "incorrect": "तो आहे माझ्यासारखाच.",
+    "correct": "तो माझ्यासारखाच आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 786,
+    "incorrect": "वाचन आहे लिखाणापेक्षा सोपे.",
+    "correct": "वाचन लिखाणापेक्षा सोपे आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 787,
+    "incorrect": "ही साडी आहे त्या साडीपेक्षा सुंदर.",
+    "correct": "ही साडी त्या साडीपेक्षा सुंदर आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 788,
+    "incorrect": "तो हसतो वेड्यासारखा.",
+    "correct": "तो वेड्यासारखा हसतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 789,
+    "incorrect": "माझा अनुभव आहे तुझ्यापेक्षा जास्त.",
+    "correct": "माझा अनुभव तुझ्यापेक्षा जास्त आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 790,
+    "incorrect": "हे जीवन आहे स्वप्नासारखे.",
+    "correct": "हे जीवन स्वप्नासारखे आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 791,
+    "incorrect": "इंग्रजी आहे मराठीपेक्षा अवघड.",
+    "correct": "इंग्रजी मराठीपेक्षा अवघड आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 792,
+    "incorrect": "ती दिसते परीसारखी.",
+    "correct": "ती परीसारखी दिसते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 793,
+    "incorrect": "हा पर्वत आहे त्या पर्वतापेक्षा उंच.",
+    "correct": "हा पर्वत त्या पर्वतापेक्षा उंच आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 794,
+    "incorrect": "आज आहे कालपेक्षा जास्त गरम.",
+    "correct": "आज कालपेक्षा जास्त गरम आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 795,
+    "incorrect": "तो विचार करतो शास्त्रज्ञासारखा.",
+    "correct": "तो शास्त्रज्ञासारखा विचार करतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 796,
+    "incorrect": "हे फूल आहे गुलाबापेक्षा सुगंधी.",
+    "correct": "हे फूल गुलाबापेक्षा सुगंधी आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 797,
+    "incorrect": "तिचे डोळे आहेत कमलासारखे.",
+    "correct": "तिचे डोळे कमलासारखे आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 798,
+    "incorrect": "माझा मित्र आहे माझ्यापेक्षा श्रीमंत.",
+    "correct": "माझा मित्र माझ्यापेक्षा श्रीमंत आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 799,
+    "incorrect": "तो आहे माझ्या भावासारखा.",
+    "correct": "तो माझ्या भावासारखा आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 800,
+    "incorrect": "सोने आहे चांदीपेक्षा महाग.",
+    "correct": "सोने चांदीपेक्षा महाग आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 801,
+    "incorrect": "तू येणार आहेस ना उद्या?",
+    "correct": "तू उद्या येणार आहेस ना?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 802,
+    "incorrect": "हे काम करशील का तू?",
+    "correct": "तू हे काम करशील का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 803,
+    "incorrect": "तिने जेवण केले आहे का?",
+    "correct": "तिने जेवण केले आहे का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 804,
+    "incorrect": "बाबा घरी आले आहेत का?",
+    "correct": "बाबा घरी आले आहेत का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 805,
+    "incorrect": "आम्ही जाऊया का आता?",
+    "correct": "आपण आता जाऊया का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 806,
+    "incorrect": "तुम्ही मला ओळखले का?",
+    "correct": "तुम्ही मला ओळखले का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 807,
+    "incorrect": "पाऊस थांबला आहे का?",
+    "correct": "पाऊस थांबला आहे का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 808,
+    "incorrect": "ही गाडी तुझी आहे का?",
+    "correct": "ही गाडी तुझी आहे का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 809,
+    "incorrect": "तिने पैसे दिले नाहीत का?",
+    "correct": "तिने पैसे दिले नाहीत का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 810,
+    "incorrect": "तो खरं बोलतोय असं वाटतं का तुला?",
+    "correct": "तुला असं वाटतं का की तो खरं बोलतोय?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 811,
+    "incorrect": "मुले खेळायला गेली आहेत का?",
+    "correct": "मुले खेळायला गेली आहेत का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 812,
+    "incorrect": "मी येऊ का आत?",
+    "correct": "मी आत येऊ का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 813,
+    "incorrect": "तो येणार नाही का आज?",
+    "correct": "तो आज येणार नाही का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 814,
+    "incorrect": "ती आहे का घरी?",
+    "correct": "ती घरी आहे का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 815,
+    "incorrect": "त्यांनी काम पूर्ण केले ना?",
+    "correct": "त्यांनी काम पूर्ण केले, नाही का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 816,
+    "incorrect": "तुम्ही जेवलात ना?",
+    "correct": "तुम्ही जेवलात, हो ना?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 817,
+    "incorrect": "मला हे पुस्तक मिळेल का दुकानात?",
+    "correct": "मला हे पुस्तक दुकानात मिळेल کا?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 818,
+    "incorrect": "तो आहे ना तुझा मित्र?",
+    "correct": "तो तुझा मित्र आहे, नाही का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 819,
+    "incorrect": "आजीने गोष्ट सांगितली का मुलांना?",
+    "correct": "आजीने मुलांना गोष्ट सांगितली का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 820,
+    "incorrect": "आपण भेटलो होतो का आधी?",
+    "correct": "आपण आधी भेटलो होतो का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 821,
+    "incorrect": "हे बरोबर आहे ना?",
+    "correct": "हे बरोबर आहे, नाही का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 822,
+    "incorrect": "माझा आवाज येतोय का तुम्हाला?",
+    "correct": "तुम्हाला माझा आवाज येतोय का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 823,
+    "incorrect": "ती अभ्यास करत नाही का अजिबात?",
+    "correct": "ती अजिबात अभ्यास करत नाही का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 824,
+    "incorrect": "त्याने तुला काही सांगितले का काल?",
+    "correct": "त्याने काल तुला काही सांगितले का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 825,
+    "incorrect": "आज सुट्टी आहे ना शाळेला?",
+    "correct": "आज शाळेला सुट्टी आहे, हो ना?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 826,
+    "incorrect": "तुम्ही तयार आहात का जायला?",
+    "correct": "तुम्ही जायला तयार आहात का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 827,
+    "incorrect": "मी बरोबर बोलतोय ना?",
+    "correct": "मी बरोबर बोलतोय, नाही का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 828,
+    "incorrect": "आम्ही पोहोचलो का वेळेवर?",
+    "correct": "आम्ही वेळेवर पोहोचलो का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 829,
+    "incorrect": "तिला हे आवडेल का खरंच?",
+    "correct": "तिला खरंच हे आवडेल का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 830,
+    "incorrect": "तो अजून आला नाही का परत?",
+    "correct": "तो अजून परत आला नाही का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 831,
+    "incorrect": "मला मदत करशील ना?",
+    "correct": "तू मला मदत करशील ना?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 832,
+    "incorrect": "तुम्हाला काही पाहिजे का अजून?",
+    "correct": "तुम्हाला अजून काही पाहिजे का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 833,
+    "incorrect": "मी तुला त्रास दिला का उगाच?",
+    "correct": "मी तुला उगाच त्रास दिला का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 834,
+    "incorrect": "ती दिसत नाही का तुला कुठे?",
+    "correct": "ती तुला कुठे दिसत नाही का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 835,
+    "incorrect": "त्यांनी होकार दिला ना शेवटी?",
+    "correct": "त्यांनी शेवटी होकार दिला, नाही का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 836,
+    "incorrect": "सगळं ठीक आहे ना आता?",
+    "correct": "आता सगळं ठीक आहे ना?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 837,
+    "incorrect": "आपण उद्या भेटूया का पुन्हा?",
+    "correct": "आपण उद्या पुन्हा भेटूया का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 838,
+    "incorrect": "तू का नाही आलास काल पार्टीला?",
+    "correct": "तू काल पार्टीला का नाही आलास?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 839,
+    "incorrect": "माझी चूक झाली का काही?",
+    "correct": "माझी काही चूक झाली का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 840,
+    "incorrect": "तो जिंकला ना शेवटी?",
+    "correct": "तो शेवटी जिंकला, नाही का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 841,
+    "incorrect": "तिने तुला ओळखले नाही का?",
+    "correct": "तिने तुला ओळखले नाही का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 842,
+    "incorrect": "मी जाऊ का आता घरी?",
+    "correct": "मी आता घरी जाऊ का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 843,
+    "incorrect": "त्याला समजले का मी काय म्हणालो ते?",
+    "correct": "मी काय म्हणालो ते त्याला समजले का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 844,
+    "incorrect": "आपण बरोबर मार्गावर आहोत ना?",
+    "correct": "आपण बरोबर मार्गावर आहोत ना?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 845,
+    "incorrect": "ही जागा रिकामी आहे का?",
+    "correct": "ही जागा रिकामी आहे का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 846,
+    "incorrect": "ते अजून आले नाहीत का कामावरून?",
+    "correct": "ते कामावरून अजून आले नाहीत का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 847,
+    "incorrect": "मला उत्तर मिळेल का तुमच्याकडून?",
+    "correct": "तुमच्याकडून मला उत्तर मिळेल का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 848,
+    "incorrect": "त्याने तुला पाहिले नाही का रस्त्यात?",
+    "correct": "त्याने तुला रस्त्यात पाहिले नाही का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 849,
+    "incorrect": "आम्ही जिंकणार, नाही का?",
+    "correct": "आपण जिंकणार, नाही का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 850,
+    "incorrect": "चहा तयार झाला का सगळ्यांसाठी?",
+    "correct": "सगळ्यांसाठी चहा तयार झाला का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 851,
+    "incorrect": "तुम्ही करायला पाहिजे हे काम.",
+    "correct": "तुम्ही हे काम करायला पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 852,
+    "incorrect": "मला जायला हवे आता.",
+    "correct": "मला आता जायला हवे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 853,
+    "incorrect": "त्याला अभ्यास करावा लागेल.",
+    "correct": "त्याला अभ्यास करावा लागेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 854,
+    "incorrect": "तिला मदत करायला हवी.",
+    "correct": "तिला मदत करायला हवी.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 855,
+    "incorrect": "आम्ही जायला पाहिजे लवकर.",
+    "correct": "आम्ही लवकर जायला पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 856,
+    "incorrect": "तुम्ही ऐकून घ्यायला पाहिजे.",
+    "correct": "तुम्ही ऐकून घ्यायला पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 857,
+    "incorrect": "मला पाहिजे हे पुस्तक.",
+    "correct": "मला हे पुस्तक पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 858,
+    "incorrect": "तुला आराम करायला हवा.",
+    "correct": "तुला आराम करायला हवा.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 859,
+    "incorrect": "तिला सांगावे लागेल सत्य.",
+    "correct": "तिला सत्य सांगावे लागेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 860,
+    "incorrect": "त्यांना यावे लागेल उद्या.",
+    "correct": "त्यांना उद्या यावे लागेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 861,
+    "incorrect": "मुलांनी शांत बसायला पाहिजे.",
+    "correct": "मुलांनी शांत बसायला पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 862,
+    "incorrect": "मला थोडे पाणी पाहिजे.",
+    "correct": "मला थोडे पाणी पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 863,
+    "incorrect": "त्याला पैसे परत करावे लागतील.",
+    "correct": "त्याला पैसे परत करावे लागतील.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 864,
+    "incorrect": "तिने माफी मागायला हवी.",
+    "correct": "तिने माफी मागायला हवी.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 865,
+    "incorrect": "आम्हाला नवीन घर घ्यायचे आहे.",
+    "correct": "आम्हाला नवीन घर घ्यायचे आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 866,
+    "incorrect": "तुम्ही विचार करायला हवा.",
+    "correct": "तुम्ही विचार करायला हवा.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 867,
+    "incorrect": "मला पाहिजे एक संधी.",
+    "correct": "मला एक संधी पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 868,
+    "incorrect": "तुला जास्त अभ्यास करावा लागेल.",
+    "correct": "तुला जास्त अभ्यास करावा लागेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 869,
+    "incorrect": "तिला औषध घ्यायला हवे.",
+    "correct": "तिला औषध घ्यायला हवे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 870,
+    "incorrect": "त्यांना नियम पाळावे लागतील.",
+    "correct": "त्यांना नियम पाळावे लागतील.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 871,
+    "incorrect": "सगळ्यांनी सत्य बोलायला पाहिजे.",
+    "correct": "सगळ्यांनी सत्य बोलायला पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 872,
+    "incorrect": "मला आता पाहिजे झोप.",
+    "correct": "मला आता झोपायला पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 873,
+    "incorrect": "त्याला उत्तर द्यावे लागेल.",
+    "correct": "त्याला उत्तर द्यावे लागेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 874,
+    "incorrect": "तिने लवकर यायला हवे होते.",
+    "correct": "तिने लवकर यायला हवे होते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 875,
+    "incorrect": "आम्हाला ही लढाई जिंकावी लागेल.",
+    "correct": "आम्हाला ही लढाई जिंकावी लागेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 876,
+    "incorrect": "तुम्ही शांत राहायला पाहिजे.",
+    "correct": "तुम्ही शांत राहायला पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 877,
+    "incorrect": "मला तुझा सल्ला पाहिजे.",
+    "correct": "मला तुझा सल्ला पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 878,
+    "incorrect": "तुला ही जबाबदारी घ्यावी लागेल.",
+    "correct": "तुला ही जबाबदारी घ्यावी लागेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 879,
+    "incorrect": "तिला अधिक मेहनत करायला हवी.",
+    "correct": "तिला अधिक मेहनत करायला हवी.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 880,
+    "incorrect": "त्यांना सत्य स्वीकारावे लागेल.",
+    "correct": "त्यांना सत्य स्वीकारावे लागेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 881,
+    "incorrect": "आपण एकमेकांना मदत करायला पाहिजे.",
+    "correct": "आपण एकमेकांना मदत करायला पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 882,
+    "incorrect": "मला गरज आहे विश्रांतीची.",
+    "correct": "मला विश्रांतीची गरज आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 883,
+    "incorrect": "त्याला थांबायला सांगायला हवे.",
+    "correct": "त्याला थांबायला सांगायला हवे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 884,
+    "incorrect": "तिला एकटीला जायला नको होते.",
+    "correct": "तिला एकटीला जायला नको होते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 885,
+    "incorrect": "आम्हाला हे काम पूर्ण करावेच लागेल.",
+    "correct": "आम्हाला हे काम पूर्ण करावेच लागेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 886,
+    "incorrect": "तुम्ही काळजी घ्यायला हवी.",
+    "correct": "तुम्ही काळजी घ्यायला हवी.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 887,
+    "incorrect": "मला पाहिजे न्याय.",
+    "correct": "मला न्याय पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 888,
+    "incorrect": "तुला थांबावे लागेल माझ्यासाठी.",
+    "correct": "तुला माझ्यासाठी थांबावे लागेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 889,
+    "incorrect": "तिला शिकायला पाहिजे अजून.",
+    "correct": "तिला अजून शिकायला पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 890,
+    "incorrect": "त्यांना जावेच लागेल आता.",
+    "correct": "त्यांना आता जावेच लागेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 891,
+    "incorrect": "सगळ्यांनी वेळेवर यायला पाहिजे.",
+    "correct": "सगळ्यांनी वेळेवर यायला पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 892,
+    "incorrect": "मला उत्तर पाहिजे आताच.",
+    "correct": "मला आताच उत्तर पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 893,
+    "incorrect": "त्याला पैसे कमवावे लागतील.",
+    "correct": "त्याला पैसे कमवावे लागतील.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 894,
+    "incorrect": "तिने असे करायला नको होते.",
+    "correct": "तिने असे करायला नको होते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 895,
+    "incorrect": "आम्हाला निघायलाच पाहिजे आता.",
+    "correct": "आम्हाला आता निघायलाच पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 896,
+    "incorrect": "तुम्ही हे समजून घ्यायला पाहिजे.",
+    "correct": "तुम्ही हे समजून घ्यायला पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 897,
+    "incorrect": "मला थोडे स्वातंत्र्य पाहिजे.",
+    "correct": "मला थोडे स्वातंत्र्य पाहिजे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 898,
+    "incorrect": "तुला हे काम शिकावे लागेल.",
+    "correct": "तुला हे काम शिकावे लागेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 899,
+    "incorrect": "तिला गाडी चालवायला शिकायला हवे.",
+    "correct": "तिने गाडी चालवायला शिकायला हवे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 900,
+    "incorrect": "त्यांना हे मान्य करावे लागेल.",
+    "correct": "त्यांना हे मान्य करावे लागेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 901,
+    "incorrect": "जर तो आला, तर आपण जाऊ.",
+    "correct": "जर तो आला, तर आपण जाऊ.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 902,
+    "incorrect": "मी आलो असतो, जर तू बोलावले असतेस.",
+    "correct": "जर तू बोलावले असतेस, तर मी आलो असतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 903,
+    "incorrect": "कदाचित येईल तो उद्या.",
+    "correct": "कदाचित तो उद्या येईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 904,
+    "incorrect": "माझी इच्छा आहे की तू जिंकून यावे.",
+    "correct": "माझी इच्छा आहे की तू जिंकून यावेस.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 905,
+    "incorrect": "जर पाऊस थांबला, तर खेळूया.",
+    "correct": "जर पाऊस थांबला, तर आपण खेळूया.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 906,
+    "incorrect": "तो आला असता, पण गाडी चुकली.",
+    "correct": "तो आला असता, पण त्याची गाडी चुकली.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 907,
+    "incorrect": "बहुतेक ती घरी असेल.",
+    "correct": "बहुतेक ती घरी असेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 908,
+    "incorrect": "तू तिथे असायला हवे होते.",
+    "correct": "तू तिथे असायला हवे होतेस.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 909,
+    "incorrect": "जर पैसे असते, तर मी विकत घेतले असते.",
+    "correct": "जर पैसे असते, तर मी ते विकत घेतले असते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 910,
+    "incorrect": "कदाचित तो विसरला असेल.",
+    "correct": "कदाचित तो विसरला असेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 911,
+    "incorrect": "माझी इच्छा आहे की पाऊस यावा.",
+    "correct": "माझी इच्छा आहे की पाऊस यावा.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 912,
+    "incorrect": "जर तू सांगितले असते, तर मी मदत केली असती.",
+    "correct": "जर तू सांगितले असतेस, तर मी मदत केली असती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 913,
+    "incorrect": "बहुतेक ते पोहोचले असतील.",
+    "correct": "बहुतेक ते पोहोचले असतील.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 914,
+    "incorrect": "ती आली असती, पण ती आजारी होती.",
+    "correct": "ती आली असती, पण ती आजारी होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 915,
+    "incorrect": "जर मला माहित असते, तर मी आलो नसतो.",
+    "correct": "जर मला माहित असते, तर मी आलो नसतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 916,
+    "incorrect": "कदाचित आम्ही जिंकू शकू.",
+    "correct": "कदाचित आम्ही जिंकू शकू.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 917,
+    "incorrect": "तो राजा असता तर!",
+    "correct": "तो राजा असता तर!",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 918,
+    "incorrect": "जर वेळ मिळाला, तर मी नक्की येईन.",
+    "correct": "जर वेळ मिळाला, तर मी नक्की येईन.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 919,
+    "incorrect": "बहुतेक त्याने ते काम केले नसेल.",
+    "correct": "बहुतेक त्याने ते काम केले नसेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 920,
+    "incorrect": "मी पक्षी असतो तर!",
+    "correct": "मी पक्षी असतो तर!",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 921,
+    "incorrect": "जर अभ्यास केला, तर यश मिळेल.",
+    "correct": "जर अभ्यास केला, तर यश मिळेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 922,
+    "incorrect": "कदाचित तिला हे आवडणार नाही.",
+    "correct": "कदाचित तिला हे आवडणार नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 923,
+    "incorrect": "जर तू आला नाहीस, तर मी जाणार नाही.",
+    "correct": "जर तू आला नाहीस, तर मी जाणार नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 924,
+    "incorrect": "आम्ही जिंकलो असतो, पण नशिबाने साथ दिली नाही.",
+    "correct": "आम्ही जिंकलो असतो, पण नशिबाने साथ दिली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 925,
+    "incorrect": "बहुतेक त्याला माहित असेल.",
+    "correct": "बहुतेक त्याला माहित असेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 926,
+    "incorrect": "माझी इच्छा आहे की सर्व सुखी असावेत.",
+    "correct": "माझी इच्छा आहे की सर्व सुखी असावेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 927,
+    "incorrect": "जर संधी मिळाली, तर मी सोडून देणार नाही.",
+    "correct": "जर संधी मिळाली, तर मी ती सोडणार नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 928,
+    "incorrect": "कदाचित ते खरं बोलत असतील.",
+    "correct": "कदाचित ते खरं बोलत असतील.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 929,
+    "incorrect": "ती डॉक्टर असती तर!",
+    "correct": "ती डॉक्टर असती तर!",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 930,
+    "incorrect": "मी मदत केली असती, पण माझ्याकडे वेळ नव्हता.",
+    "correct": "मी मदत केली असती, पण माझ्याकडे वेळ नव्हता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 931,
+    "incorrect": "जर तू तिथे असतास, तर वेगळे झाले असते.",
+    "correct": "जर तू तिथे असतास, तर वेगळे झाले असते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 932,
+    "incorrect": "बहुतेक तिला हे माहित नसावे.",
+    "correct": "बहुतेक तिला हे माहित नसावे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 933,
+    "incorrect": "कदाचित उद्या सुट्टी असेल.",
+    "correct": "कदाचित उद्या सुट्टी असेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 934,
+    "incorrect": "माझी इच्छा आहे की तू लवकर बरा व्हावा.",
+    "correct": "माझी इच्छा आहे की तू लवकर बरा व्हावास.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 935,
+    "incorrect": "जर मी श्रीमंत असतो, तर मी जग फिरलो असतो.",
+    "correct": "जर मी श्रीमंत असतो, तर मी जग फिरलो असतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 936,
+    "incorrect": "तो आला असता, पण त्याला बोलावले नाही.",
+    "correct": "तो आला असता, पण त्याला बोलावले नव्हते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 937,
+    "incorrect": "बहुतेक गाडी उशिरा येईल.",
+    "correct": "बहुतेक गाडी उशिरा येईल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 938,
+    "incorrect": "तू मला मदत करू शकला असतास.",
+    "correct": "तू मला मदत करू शकला असतास.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 939,
+    "incorrect": "जर तू जिंकला, तर पार्टी देऊ.",
+    "correct": "जर तू जिंकलास, तर आपण पार्टी करू.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 940,
+    "incorrect": "कदाचित मी चुकत असेन.",
+    "correct": "कदाचित मी चुकत असेन.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 941,
+    "incorrect": "माझी इच्छा आहे की हे खरे व्हावे.",
+    "correct": "माझी इच्छा आहे की हे खरे व्हावे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 942,
+    "incorrect": "जर तिने ऐकले असते, तर असे झाले नसते.",
+    "correct": "जर तिने ऐकले असते, तर असे झाले नसते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 943,
+    "incorrect": "बहुतेक ते विसरले असतील.",
+    "correct": "बहुतेक ते विसरले असतील.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 944,
+    "incorrect": "ती आली असती, जर तू तिला बोलावले असते.",
+    "correct": "जर तू तिला बोलावले असतेस, तर ती आली असती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 945,
+    "incorrect": "जर मी असतो तुझ्या जागी, तर मी तेच केले असते.",
+    "correct": "जर मी तुझ्या जागी असतो, तर मी तेच केले असते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 946,
+    "incorrect": "कदाचित तो घरी पोहोचला असेल.",
+    "correct": "कदाचित तो घरी पोहोचला असेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 947,
+    "incorrect": "तो पंतप्रधान असता तर!",
+    "correct": "तो पंतप्रधान असता तर!",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 948,
+    "incorrect": "जर लवकर निघालो असतो, तर वेळेवर पोहोचलो असतो.",
+    "correct": "जर लवकर निघालो असतो, तर वेळेवर पोहोचलो असतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 949,
+    "incorrect": "बहुतेक दुकान बंद असेल.",
+    "correct": "बहुतेक दुकान बंद असेल.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 950,
+    "incorrect": "माझी इच्छा आहे की तू नेहमी हसत रहा.",
+    "correct": "माझी इच्छा आहे की तू नेहमी हसत रहावेस.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 951,
+    "incorrect": "मी घेतला आहे एक नवीन प्रकल्प हाती.",
+    "correct": "मी एक नवीन प्रकल्प हाती घेतला आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 952,
+    "incorrect": "तिने सोडवली नाही गणिताची अडचण.",
+    "correct": "तिने गणिताची अडचण सोडवली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 953,
+    "incorrect": "तो आला नाही समारंभाला वेळेवर.",
+    "correct": "तो समारंभाला वेळेवर आला नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 954,
+    "incorrect": "आईने बनवला आहे माझ्यासाठी खास पदार्थ.",
+    "correct": "आईने माझ्यासाठी खास पदार्थ बनवला आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 955,
+    "incorrect": "आम्ही साजरा केला सण उत्साहात.",
+    "correct": "आम्ही उत्साहात सण साजरा केला.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 956,
+    "incorrect": "बाबांनी दिली नाही मला परवानगी जायला.",
+    "correct": "बाबांनी मला जायला परवानगी दिली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 957,
+    "incorrect": "तू घेऊन ये बाजारातून भाजी.",
+    "correct": "तू बाजारातून भाजी घेऊन ये.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 958,
+    "incorrect": "हे चित्र आहे निसर्गाचे सुंदर.",
+    "correct": "हे निसर्गाचे सुंदर चित्र आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 959,
+    "incorrect": "तिने घातले नाही लक्ष माझ्या बोलण्याकडे.",
+    "correct": "तिने माझ्या बोलण्याकडे लक्ष दिले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 960,
+    "incorrect": "मला समजले नाही तुझे म्हणणे अजिबात.",
+    "correct": "मला तुझे म्हणणे अजिबात समजले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 961,
+    "incorrect": "मुलांनी लावली आहेत बागेत झाडे.",
+    "correct": "मुलांनी बागेत झाडे लावली आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 962,
+    "incorrect": "मी देईन तुला उद्या तुझे पुस्तक.",
+    "correct": "मी उद्या तुला तुझे पुस्तक देईन.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 963,
+    "incorrect": "तो आला नाही म्हणून आम्ही निघून गेलो.",
+    "correct": "तो न आल्याने आम्ही निघून गेलो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 964,
+    "incorrect": "ती गेली आहे तिच्या मैत्रिणीच्या घरी.",
+    "correct": "ती तिच्या मैत्रिणीच्या घरी गेली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 965,
+    "incorrect": "त्यांनी केले नाही स्वागत आमचे.",
+    "correct": "त्यांनी आमचे स्वागत केले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 966,
+    "incorrect": "तुम्ही राहता का कोल्हापूरमध्ये?",
+    "correct": "तुम्ही कोल्हापूरमध्ये राहता का?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 967,
+    "incorrect": "मला आवडते बघायला ऐतिहासिक चित्रपट.",
+    "correct": "मला ऐतिहासिक चित्रपट बघायला आवडतात.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 968,
+    "incorrect": "तो आहे एक प्रसिद्ध लेखक.",
+    "correct": "तो एक प्रसिद्ध लेखक आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 969,
+    "incorrect": "आजीने दिले नाही मला पैसे.",
+    "correct": "आजीने मला पैसे दिले नाहीत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 970,
+    "incorrect": "आम्ही करणार आहोत उद्या प्रवास सुरू.",
+    "correct": "आम्ही उद्या प्रवासाला सुरुवात करणार आहोत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 971,
+    "incorrect": "तुमचे काम करा शांतपणे.",
+    "correct": "शांतपणे तुमचे काम करा.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 972,
+    "incorrect": "माझा मोबाईल आहे चार्जिंगला.",
+    "correct": "माझा मोबाईल चार्जिंगला आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 973,
+    "incorrect": "ती करत होती स्वयंपाक घरात.",
+    "correct": "ती घरात स्वयंपाक करत होती.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 974,
+    "incorrect": "त्याने ठेवले नाही वचन पाळून.",
+    "correct": "त्याने वचन पाळले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 975,
+    "incorrect": "आज आहे वातावरण आल्हाददायक.",
+    "correct": "आज आल्हाददायक वातावरण आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 976,
+    "incorrect": "मधमाशी जमवते मध.",
+    "correct": "मधमाशी मध जमवते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 977,
+    "incorrect": "मी बोलणार नाही त्याच्याबद्दल वाईट.",
+    "correct": "मी त्याच्याबद्दल वाईट बोलणार नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 978,
+    "incorrect": "आम्ही थांबलो होतो एका टपरीवर चहासाठी.",
+    "correct": "आम्ही चहासाठी एका टपरीवर थांबलो होतो.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 979,
+    "incorrect": "तिला आवडते घालायला पारंपरिक दागिने.",
+    "correct": "तिला पारंपरिक दागिने घालायला आवडतात.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 980,
+    "incorrect": "तो आला होता माझ्या मदतीसाठी.",
+    "correct": "तो माझ्या मदतीसाठी आला होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 981,
+    "incorrect": "मला समजावून सांग तुझा मुद्दा.",
+    "correct": "मला तुझा मुद्दा समजावून सांग.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 982,
+    "incorrect": "तुम्ही आलात कुठून एवढ्या लांबून?",
+    "correct": "तुम्ही एवढ्या लांबून कुठून आलात?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 983,
+    "incorrect": "मी शिकलो आहे खूप काही या अनुभवातून.",
+    "correct": "मी या अनुभवातून खूप काही शिकलो आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 984,
+    "incorrect": "ती चालवते स्कूटर खूप सावकाश.",
+    "correct": "ती खूप सावकाश स्कूटर चालवते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 985,
+    "incorrect": "त्यांनी दिली नाही आम्हाला कोणतीही माहिती.",
+    "correct": "त्यांनी आम्हाला कोणतीही माहिती दिली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 986,
+    "incorrect": "मांजर लपले आहे दारामागे.",
+    "correct": "मांजर दारामागे लपले आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 987,
+    "incorrect": "आम्ही गेलो नाही कार्यक्रमाला.",
+    "correct": "आम्ही कार्यक्रमाला गेलो नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 988,
+    "incorrect": "तू का नाही घेतलास माझा फोन?",
+    "correct": "तू माझा फोन का नाही घेतलास?",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 989,
+    "incorrect": "माझी झाली आहे चूक.",
+    "correct": "माझी चूक झाली आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 990,
+    "incorrect": "तो ऐकत होता गाणी लक्ष देऊन.",
+    "correct": "तो लक्ष देऊन गाणी ऐकत होता.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 991,
+    "incorrect": "तिने आणले नाहीत पुस्तके.",
+    "correct": "तिने पुस्तके आणली नाहीत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 992,
+    "incorrect": "मी जाणार आहे उद्या संध्याकाळी खरेदीला.",
+    "correct": "मी उद्या संध्याकाळी खरेदीला जाणार आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 993,
+    "incorrect": "त्याला आवडते खेळायला बुद्धिबळ.",
+    "correct": "त्याला बुद्धिबळ खेळायला आवडते.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 994,
+    "incorrect": "आपण करूया विचार पुन्हा एकदा.",
+    "correct": "आपण पुन्हा एकदा विचार करूया.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 995,
+    "incorrect": "ती आहे एक उत्तम परिचारिका.",
+    "correct": "ती एक उत्तम परिचारिका आहे.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 996,
+    "incorrect": "ते करत आहेत तयारी प्रवासाची.",
+    "correct": "ते प्रवासाची तयारी करत आहेत.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 997,
+    "incorrect": "मला सापडली नाही माझी चावी.",
+    "correct": "मला माझी चावी सापडली नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 998,
+    "incorrect": "त्याने जिंकले नाही कोणाचेही मन.",
+    "correct": "त्याने कोणाचेही मन जिंकले नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 999,
+    "incorrect": "आम्ही जाणार नाही सिनेमाला आज.",
+    "correct": "आम्ही आज सिनेमाला जाणार नाही.",
+    "error_type": "Word Order / Syntax"
+  },
+  {
+    "id": 1000,
+    "incorrect": "पैसे आहेत माझ्या पाकिटात.",
+    "correct": "माझ्या पाकिटात पैसे आहेत.",
+    "error_type": "Word Order / Syntax"
+  }
+]
