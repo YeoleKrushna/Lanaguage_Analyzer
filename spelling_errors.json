@@ -1,0 +1,3010 @@
+[
+  {
+    "id": 2001,
+    "incorrect": "मी कुरुष्ण देवाचे दर्शन घेण्यासाठी मंदिरात गेलो.",
+    "correct": "मी कृष्ण देवाचे दर्शन घेण्यासाठी मंदिरात गेलो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2002,
+    "incorrect": "मुले रोज सकाळी शालामध्ये जातात.",
+    "correct": "मुले रोज सकाळी शाळेमध्ये जातात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2003,
+    "incorrect": "मी कार्यक्रमाला जायला आता तय्यार आहे.",
+    "correct": "मी कार्यक्रमाला जायला आता तयार आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2004,
+    "incorrect": "बाबांनी मला सर्वकाही सांगीतले.",
+    "correct": "बाबांनी मला सर्वकाही सांगितले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2005,
+    "incorrect": "सर्व विद्यर्थी वर्गात शांत बसले होते.",
+    "correct": "सर्व विद्यार्थी वर्गात शांत बसले होते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2006,
+    "incorrect": "त्याने आपल्या बाइकोला एक छान भेट दिली.",
+    "correct": "त्याने आपल्या बायकोला एक छान भेट दिली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2007,
+    "incorrect": "माझा एक छोटा प्रशन होता.",
+    "correct": "माझा एक छोटा प्रश्न होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2008,
+    "incorrect": "कृपया मला पिण्यासाठी पानी द्या.",
+    "correct": "कृपया मला पिण्यासाठी पाणी द्या.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2009,
+    "incorrect": "तो महाराश्ट्र राज्याचा रहिवासी आहे.",
+    "correct": "तो महाराष्ट्र राज्याचा रहिवासी आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2010,
+    "incorrect": "मी आज फकत भाजी-पोळी खाणार.",
+    "correct": "मी आज फक्त भाजी-पोळी खाणार.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2011,
+    "incorrect": "आईने आज स्वादिष्ट जेवन बनवले.",
+    "correct": "आईने आज स्वादिष्ट जेवण बनवले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2012,
+    "incorrect": "यश मिळवण्यासाठी खूप प्रयतन करावे लागतात.",
+    "correct": "यश मिळवण्यासाठी खूप प्रयत्न करावे लागतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2013,
+    "incorrect": "आपण आपला परिसर स्वछ ठेवला पाहिजे.",
+    "correct": "आपण आपला परिसर स्वच्छ ठेवला पाहिजे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2014,
+    "incorrect": "तो त्याच्या गटात सर्वात शाणा मुलगा आहे.",
+    "correct": "तो त्याच्या गटात सर्वात शहाणा मुलगा आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2015,
+    "incorrect": "माझे घर स्टेशनच्या अगदी जवल आहे.",
+    "correct": "माझे घर स्टेशनच्या अगदी जवळ आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2016,
+    "incorrect": "माझ्या खोलीची खिड़की उघडी आहे.",
+    "correct": "माझ्या खोलीची खिडकी उघडी आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2017,
+    "incorrect": "शाळेचा वार्षिक कार्यकरम उद्या आहे.",
+    "correct": "शाळेचा वार्षिक कार्यक्रम उद्या आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2018,
+    "incorrect": "तो अचानक माझ्यासमोर येऊन उभा राहिला.",
+    "correct": "तो अचानक माझ्यासमोर येऊन उभा राहिला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2019,
+    "incorrect": "त्याला सरकारी नौकरी मिळाली आहे.",
+    "correct": "त्याला सरकारी नोकरी मिळाली आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2020,
+    "incorrect": "भारत एक महान राश्ट्र आहे.",
+    "correct": "भारत एक महान राष्ट्र आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2021,
+    "incorrect": "तिचे डोळे खुप सुंदर आहेत.",
+    "correct": "तिचे डोळे खूप सुंदर आहेत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2022,
+    "incorrect": "त्याचे काहीतरी विशेष कारन असणार.",
+    "correct": "त्याचे काहीतरी विशेष कारण असणार.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2023,
+    "incorrect": "त्याला आत येण्याची परवांगी मिळाली.",
+    "correct": "त्याला आत येण्याची परवानगी मिळाली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2024,
+    "incorrect": "हा शबद माझ्या ऐकिवात नाही.",
+    "correct": "हा शब्द माझ्या ऐकिवात नाही.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2025,
+    "incorrect": "आपण योग्य वेल साधली पाहिजे.",
+    "correct": "आपण योग्य वेळ साधली पाहिजे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2026,
+    "incorrect": "तो आजारी आहे म्हनून आला नाही.",
+    "correct": "तो आजारी आहे म्हणून आला नाही.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2027,
+    "incorrect": "या विषयावर गंभीर चरचा झाली.",
+    "correct": "या विषयावर गंभीर चर्चा झाली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2028,
+    "incorrect": "या कामासाठी त्याला दोन हज्जार रुपये मिळाले.",
+    "correct": "या कामासाठी त्याला दोन हजार रुपये मिळाले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2029,
+    "incorrect": "प्रत्येक व्यकती वेगळा विचार करतो.",
+    "correct": "प्रत्येक व्यक्ती वेगळा विचार करतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2030,
+    "incorrect": "आई भाजी आणायला बजारामध्ये गेली.",
+    "correct": "आई भाजी आणायला बाजारामध्ये गेली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2031,
+    "incorrect": "व्यापारात त्याचे मोठे नुकशान झाले.",
+    "correct": "व्यापारात त्याचे मोठे नुकसान झाले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2032,
+    "incorrect": "आई सकाळी देवाची पुजा करते.",
+    "correct": "आई सकाळी देवाची पूजा करते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2033,
+    "incorrect": "माझी आइ खूप प्रेमळ आहे.",
+    "correct": "माझी आई खूप प्रेमळ आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2034,
+    "incorrect": "तो एक प्रसिध्द लेखक आहे.",
+    "correct": "तो एक प्रसिद्ध लेखक आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2035,
+    "incorrect": "आज शहराचे वातावरन ढगाळ आहे.",
+    "correct": "आज शहराचे वातावरण ढगाळ आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2036,
+    "incorrect": "माणुसकी हाच खरा धरम आहे.",
+    "correct": "माणुसकी हाच खरा धर्म आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2037,
+    "incorrect": "माझा मोठा भाउ उद्या येणार आहे.",
+    "correct": "माझा मोठा भाऊ उद्या येणार आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2038,
+    "incorrect": "आपण परियावरणाचे रक्षण करायला हवे.",
+    "correct": "आपण पर्यावरणाचे रक्षण करायला हवे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2039,
+    "incorrect": "तो एक चांगला मानूस आहे.",
+    "correct": "तो एक चांगला माणूस आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2040,
+    "incorrect": "त्याचे आयुष्य गरीबीत गेले.",
+    "correct": "त्याचे आयुष्य गरिबीत गेले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2041,
+    "incorrect": "माणसाचे आयुश्य खूप सुंदर आहे.",
+    "correct": "माणसाचे आयुष्य खूप सुंदर आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2042,
+    "incorrect": "माझे एक सुंदर स्वपन आहे.",
+    "correct": "माझे एक सुंदर स्वप्न आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2043,
+    "incorrect": "या प्रश्नाचे उतर काय आहे?",
+    "correct": "या प्रश्नाचे उत्तर काय आहे?",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2044,
+    "incorrect": "तो रस्था ओलांडत होता.",
+    "correct": "तो रस्ता ओलांडत होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2045,
+    "incorrect": "मी माझ्या मित्राला पत्तर लिहिले.",
+    "correct": "मी माझ्या मित्राला पत्र लिहिले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2046,
+    "incorrect": "सध्या देशाची परिस्तीती ठीक नाही.",
+    "correct": "सध्या देशाची परिस्थिती ठीक नाही.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2047,
+    "incorrect": "तो रोज सकाल लवकर उठतो.",
+    "correct": "तो रोज सकाळी लवकर उठतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2048,
+    "incorrect": "मला माझ्या गावाची खूप आठवन येते.",
+    "correct": "मला माझ्या गावाची खूप आठवण येते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2049,
+    "incorrect": "तुमचे कार्यक्रमात मनःपूर्वक स्वागत् आहे.",
+    "correct": "तुमचे कार्यक्रमात मनःपूर्वक स्वागत आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2050,
+    "incorrect": "हे मराठीचे नवीन पुसतक आहे.",
+    "correct": "हे मराठीचे नवीन पुस्तक आहे.",
+    "error_type": "Spelling Error"
+  },
+
+  {
+    "id": 2051,
+    "incorrect": "आई बाजारातून ताजी भजी आणायला गेली.",
+    "correct": "आई बाजारातून ताजी भाजी आणायला गेली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2052,
+    "incorrect": "त्याच्या डोळ्याला चशमा लागला आहे.",
+    "correct": "त्याच्या डोळ्याला चष्मा लागला आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2053,
+    "incorrect": "काश्मीरमध्ये खूप बरफ पडतो.",
+    "correct": "काश्मीरमध्ये खूप बर्फ पडतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2054,
+    "incorrect": "थंडीमध्ये त्याला खूप सरदी झाली.",
+    "correct": "थंडीमध्ये त्याला खूप सर्दी झाली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2055,
+    "incorrect": "तो पाळीव कुतरा खूप इमानदार आहे.",
+    "correct": "तो पाळीव कुत्रा खूप इमानदार आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2056,
+    "incorrect": "लग्नाला खूप नातेवाइक आले होते.",
+    "correct": "लग्नाला खूप नातेवाईक आले होते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2057,
+    "incorrect": "त्या दोघांमध्ये मोठे भाडण झाले.",
+    "correct": "त्या दोघांमध्ये मोठे भांडण झाले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2058,
+    "incorrect": "पुणे महाराष्ट्रातील एक मोठे शहेर आहे.",
+    "correct": "पुणे महाराष्ट्रातील एक मोठे शहर आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2059,
+    "incorrect": "भारत माझा प्रिय देस आहे.",
+    "correct": "भारत माझा प्रिय देश आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2060,
+    "incorrect": "काल रात्री खूप पाउस पडला.",
+    "correct": "काल रात्री खूप पाऊस पडला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2061,
+    "incorrect": "माझे खका शेतात काम करतात.",
+    "correct": "माझे काका शेतात काम करतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2062,
+    "incorrect": "या वरष पाऊस चांगला झाला.",
+    "correct": "या वर्षी पाऊस चांगला झाला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2063,
+    "incorrect": "भिंतीवरचे घड्याल बंद पडले आहे.",
+    "correct": "भिंतीवरचे घड्याळ बंद पडले आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2064,
+    "incorrect": "कृपया घराचे ढार बंद करा.",
+    "correct": "कृपया घराचे दार बंद करा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2065,
+    "incorrect": "आजी जमिनीवर चटाइ टाकून बसली.",
+    "correct": "आजी जमिनीवर चटई टाकून बसली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2066,
+    "incorrect": "डॉक्टरांनी त्याला अवशध दिले.",
+    "correct": "डॉक्टरांनी त्याला औषध दिले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2067,
+    "incorrect": "मला शासत्रीय संगीत आवडते.",
+    "correct": "मला शास्त्रीय संगीत आवडते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2068,
+    "incorrect": "हा एक खुप महत्वाचा विषय आहे.",
+    "correct": "हा एक खूप महत्त्वाचा विषय आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2069,
+    "incorrect": "त्याचा निष्कालजीपना त्याला महागात पडला.",
+    "correct": "त्याचा निष्काळजीपणा त्याला महागात पडला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2070,
+    "incorrect": "त्याने परीक्षेत उतम गुण मिळवले.",
+    "correct": "त्याने परीक्षेत उत्तम गुण मिळवले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2071,
+    "incorrect": "हे कापड खूप सस्त आहे.",
+    "correct": "हे कापड खूप स्वस्त आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2072,
+    "incorrect": "तो एक हुषार मुलगा आहे.",
+    "correct": "तो एक हुशार मुलगा आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2073,
+    "incorrect": "तो डोंगर खूप उञ्च आहे.",
+    "correct": "तो डोंगर खूप उंच आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2074,
+    "incorrect": "तो खूप मोठा श्रीमनत माणूस आहे.",
+    "correct": "तो खूप मोठा श्रीमंत माणूस आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2075,
+    "incorrect": "त्याने एक विछित्र प्राणी पाहिला.",
+    "correct": "त्याने एक विचित्र प्राणी पाहिला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2076,
+    "incorrect": "कासव खूप हलुहलु चालते.",
+    "correct": "कासव खूप हळूहळू चालते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2077,
+    "incorrect": "तुमच्या मदतीबद्दल खूप खूप दन्यवाद.",
+    "correct": "तुमच्या मदतीबद्दल खूप खूप धन्यवाद.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2078,
+    "incorrect": "माझ्याकडून चूक झाली, मला कशमा करा.",
+    "correct": "माझ्याकडून चूक झाली, मला क्षमा करा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2079,
+    "incorrect": "भविष्याची उगाच चिता करू नये.",
+    "correct": "भविष्याची उगाच चिंता करू नये.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2080,
+    "incorrect": "या महिन्यात माझा पघर झाला.",
+    "correct": "या महिन्यात माझा पगार झाला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2081,
+    "incorrect": "उद्या शाळेला सुटी आहे.",
+    "correct": "उद्या शाळेला सुट्टी आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2082,
+    "incorrect": "वर्गात नेहमी शिसत पाळावी.",
+    "correct": "वर्गात नेहमी शिस्त पाळावी.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2083,
+    "incorrect": "चूक केल्यास सिकशा व्हायलाच हवी.",
+    "correct": "चूक केल्यास शिक्षा व्हायलाच हवी.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2084,
+    "incorrect": "तो एक जबाबदार नागरिख आहे.",
+    "correct": "तो एक जबाबदार नागरिक आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2085,
+    "incorrect": "आपला परीसर स्वच्छ ठेवा.",
+    "correct": "आपला परिसर स्वच्छ ठेवा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2086,
+    "incorrect": "त्याचा सभाव खूप चांगला आहे.",
+    "correct": "त्याचा स्वभाव खूप चांगला आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2087,
+    "incorrect": "चहामध्ये थोडी साक्कर टाका.",
+    "correct": "चहामध्ये थोडी साखर टाका.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2088,
+    "incorrect": "जेवणात थोडे मीट कमी आहे.",
+    "correct": "जेवणात थोडे मीठ कमी आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2089,
+    "incorrect": "ही भाजी खूप तीखट आहे.",
+    "correct": "ही भाजी खूप तिखट आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2090,
+    "incorrect": "लाडू खूप गोढ लागतो.",
+    "correct": "लाडू खूप गोड लागतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2091,
+    "incorrect": "चिंचेची चव आबंट असते.",
+    "correct": "चिंचेची चव आंबट असते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2092,
+    "incorrect": "शर्टला नीट इसत्री करा.",
+    "correct": "शर्टला नीट इस्त्री करा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2093,
+    "incorrect": "त्याने विहिरीतून बदलीने पाणी काढले.",
+    "correct": "त्याने विहिरीतून बादलीने पाणी काढले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2094,
+    "incorrect": "जेवणाचे टाट तयार आहे.",
+    "correct": "जेवणाचे ताट तयार आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2095,
+    "incorrect": "माझा निळा रूमल कुठे आहे?",
+    "correct": "माझा निळा रुमाल कुठे आहे?",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2096,
+    "incorrect": "त्याने कपड्यांवर अथर लावले.",
+    "correct": "त्याने कपड्यांवर अत्तर लावले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2097,
+    "incorrect": "बेडवरची चाढर बदला.",
+    "correct": "बेडवरची चादर बदला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2098,
+    "incorrect": "राजाचा खजीना खूप मोठा होता.",
+    "correct": "राजाचा खजिना खूप मोठा होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2099,
+    "incorrect": "त्याचे अकक्षर खूप सुंदर आहे.",
+    "correct": "त्याचे अक्षर खूप सुंदर आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2100,
+    "incorrect": "सध्या पैशांची खूप अडचन आहे.",
+    "correct": "सध्या पैशांची खूप अडचण आहे.",
+    "error_type": "Spelling Error"
+  },
+
+  {
+    "id": 2101,
+    "incorrect": "त्याने माझ्या कामाची नकल केली.",
+    "correct": "त्याने माझ्या कामाची नक्कल केली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2102,
+    "incorrect": "गाडी वेगाने चालवल्यामुळे मला चकर आली.",
+    "correct": "गाडी वेगाने चालवल्यामुळे मला चक्कर आली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2103,
+    "incorrect": "घरात खूप मछर झाले आहेत.",
+    "correct": "घरात खूप मच्छर झाले आहेत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2104,
+    "incorrect": "शिवाजी महाराजांचे लशकर खूप मोठे होते.",
+    "correct": "शिवाजी महाराजांचे लष्कर खूप मोठे होते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2105,
+    "incorrect": "तो बिलकूल खरे बोलत नाही.",
+    "correct": "तो बिल्कुल खरे बोलत नाही.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2106,
+    "incorrect": "तो एक खूप सजन माणूस आहे.",
+    "correct": "तो एक खूप सज्जन माणूस आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2107,
+    "incorrect": "गरिबांचा उधार करणे हे आपले कर्तव्य आहे.",
+    "correct": "गरिबांचा उद्धार करणे हे आपले कर्तव्य आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2108,
+    "incorrect": "प्रत्येक कामाची एक पधत असते.",
+    "correct": "प्रत्येक कामाची एक पद्धत असते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2109,
+    "incorrect": "त्याला कामात खूप प्रसिध्दी मिळाली.",
+    "correct": "त्याला कामात खूप प्रसिद्धी मिळाली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2110,
+    "incorrect": "त्याची बुध्दी खूप तेज आहे.",
+    "correct": "त्याची बुद्धी खूप तेज आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2111,
+    "incorrect": "हे शुध्द पाणी आहे का?",
+    "correct": "हे शुद्ध पाणी आहे का?",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2112,
+    "incorrect": "तो एक व्रुद्ध माणूस आहे.",
+    "correct": "तो एक वृद्ध माणूस आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2113,
+    "incorrect": "देवाला आपली श्रधा अर्पण करा.",
+    "correct": "देवाला आपली श्रद्धा अर्पण करा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2114,
+    "incorrect": "मद्यान भोजनाची वेळ झाली आहे.",
+    "correct": "मध्यान्ह भोजनाची वेळ झाली आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2115,
+    "incorrect": "तो एक ब्राम्हण आहे.",
+    "correct": "तो एक ब्राह्मण आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2116,
+    "incorrect": "हे धोक्याचे चिन्न आहे.",
+    "correct": "हे धोक्याचे चिन्ह आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2117,
+    "incorrect": "लग्नाचे वराड निघाले होते.",
+    "correct": "लग्नाचे वऱ्हाड निघाले होते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2118,
+    "incorrect": "गोठ्यात दहा मशी आहेत.",
+    "correct": "गोठ्यात दहा म्हशी आहेत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2119,
+    "incorrect": "उनाला खूप गरम होते.",
+    "correct": "उन्हाळ्यात खूप गरम होते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2120,
+    "incorrect": "हिवाला खूप थंडी असते.",
+    "correct": "हिवाळ्यात खूप थंडी असते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2121,
+    "incorrect": "पावसाला सगळीकडे हिरवळ असते.",
+    "correct": "पावसाळ्यात सगळीकडे हिरवळ असते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2122,
+    "incorrect": "सद्या तो घरी नाही.",
+    "correct": "सध्या तो घरी नाही.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2123,
+    "incorrect": "मला त्याचा पथा माहीत नाही.",
+    "correct": "मला त्याचा पत्ता माहीत नाही.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2124,
+    "incorrect": "आम्ही खूप वेळ गपा मारल्या.",
+    "correct": "आम्ही खूप वेळ गप्पा मारल्या.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2125,
+    "incorrect": "आमचा प्रवास खूप चांगला होता.",
+    "correct": "आमचा प्रवास खूप चांगला होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2126,
+    "incorrect": "तो एक हुशार वखिल आहे.",
+    "correct": "तो एक हुशार वकील आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2127,
+    "incorrect": "नायाधीशांनी योग्य निकाल दिला.",
+    "correct": "न्यायाधीशांनी योग्य निकाल दिला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2128,
+    "incorrect": "त्यांनी व्यवसायात मोठी गुतंवणूक केली.",
+    "correct": "त्यांनी व्यवसायात मोठी गुंतवणूक केली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2129,
+    "incorrect": "देशाची अरथव्यवस्था मजबूत आहे.",
+    "correct": "देशाची अर्थव्यवस्था मजबूत आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2130,
+    "incorrect": "तो एक महान शासत्रज्ञ आहे.",
+    "correct": "तो एक महान शास्त्रज्ञ आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2131,
+    "incorrect": "तो एक प्रसिद्ध चितरकार आहे.",
+    "correct": "तो एक प्रसिद्ध चित्रकार आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2132,
+    "incorrect": "तो एक कष्टकरी षेतकरी आहे.",
+    "correct": "तो एक कष्टकरी शेतकरी आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2133,
+    "incorrect": "खामगार खूप मेहनत करतात.",
+    "correct": "कामगार खूप मेहनत करतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2134,
+    "incorrect": "तो एक प्रामाणिक वापारी आहे.",
+    "correct": "तो एक प्रामाणिक व्यापारी आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2135,
+    "incorrect": "दुकानदार गराहकाची वाट पाहत होता.",
+    "correct": "दुकानदार ग्राहकाची वाट पाहत होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2136,
+    "incorrect": "तो एक चांगला विकरेता आहे.",
+    "correct": "तो एक चांगला विक्रेता आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2137,
+    "incorrect": "मी काही वस्तूंची खरेधी केली.",
+    "correct": "मी काही वस्तूंची खरेदी केली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2138,
+    "incorrect": "शेतकरी मालाचे उतपादन घेतो.",
+    "correct": "शेतकरी मालाचे उत्पादन घेतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2139,
+    "incorrect": "या वस्तूची किम्मत किती आहे?",
+    "correct": "या वस्तूची किंमत किती आहे?",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2140,
+    "incorrect": "दुकानात मोठी सवलथ आहे.",
+    "correct": "दुकानात मोठी सवलत आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2141,
+    "incorrect": "मुंबईत घराचे भाढे खूप आहे.",
+    "correct": "मुंबईत घराचे भाडे खूप आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2142,
+    "incorrect": "त्याने आपल्या कामात खूप परगती केली.",
+    "correct": "त्याने आपल्या कामात खूप प्रगती केली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2143,
+    "incorrect": "कामामध्ये कोणताही अडथला नको.",
+    "correct": "कामामध्ये कोणताही अडथळा नको.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2144,
+    "incorrect": "शाळेत धावण्याची स्परधा आहे.",
+    "correct": "शाळेत धावण्याची स्पर्धा आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2145,
+    "incorrect": "त्याला मोठे बकशीस मिळाले.",
+    "correct": "त्याला मोठे बक्षीस मिळाले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2146,
+    "incorrect": "खेळात कोणाचाही प्रारभव होऊ शकतो.",
+    "correct": "खेळात कोणाचाही पराभव होऊ शकतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2147,
+    "incorrect": "शेवटी सत्याचाच वीजय होतो.",
+    "correct": "शेवटी सत्याचाच विजय होतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2148,
+    "incorrect": "भारतीय षैनिक खूप शूर आहेत.",
+    "correct": "भारतीय सैनिक खूप शूर आहेत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2149,
+    "incorrect": "शत्रूंनी अचानक हला केला.",
+    "correct": "शत्रूंनी अचानक हल्ला केला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2150,
+    "incorrect": "देशाचे संरकशन करणे महत्त्वाचे आहे.",
+    "correct": "देशाचे संरक्षण करणे महत्त्वाचे आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2151,
+    "incorrect": "जगात शान्तता टिकली पाहिजे.",
+    "correct": "जगात शांतता टिकली पाहिजे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2152,
+    "incorrect": "भारतात स्वातंत्र्याची मोठी चलवळ झाली.",
+    "correct": "भारतात स्वातंत्र्याची मोठी चळवळ झाली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2153,
+    "incorrect": "ही एक सामाजिक करान्ती आहे.",
+    "correct": "ही एक सामाजिक क्रांती आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2154,
+    "incorrect": "भारताचा इतिास खूप महान आहे.",
+    "correct": "भारताचा इतिहास खूप महान आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2155,
+    "incorrect": "मला बुगोल विषय आवडतो.",
+    "correct": "मला भूगोल विषय आवडतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2156,
+    "incorrect": "विग्यान खूप प्रगत झाले आहे.",
+    "correct": "विज्ञान खूप प्रगत झाले आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2157,
+    "incorrect": "मला गनित शिकायला आवडते.",
+    "correct": "मला गणित शिकायला आवडते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2158,
+    "incorrect": "मराठीचे वाकरण थोडे अवघड आहे.",
+    "correct": "मराठीचे व्याकरण थोडे अवघड आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2159,
+    "incorrect": "मराठी साइत्य खूप समृद्ध आहे.",
+    "correct": "मराठी साहित्य खूप समृद्ध आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2160,
+    "incorrect": "भारतीय सन्सकृती खूप जुनी आहे.",
+    "correct": "भारतीय संस्कृती खूप जुनी आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2161,
+    "incorrect": "चित्र काढणे ही एक कल्ला आहे.",
+    "correct": "चित्र काढणे ही एक कला आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2162,
+    "incorrect": "तिने सुंदर न्रुत्य सादर केले.",
+    "correct": "तिने सुंदर नृत्य सादर केले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2163,
+    "incorrect": "ते एक प्रसिद्ध नाटख होते.",
+    "correct": "ते एक प्रसिद्ध नाटक होते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2164,
+    "incorrect": "टीव्हीवर एक चांगली मालिखा लागली आहे.",
+    "correct": "टीव्हीवर एक चांगली मालिका लागली आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2165,
+    "incorrect": "जादूगाराने एक चांगला खेळ दाखवला.",
+    "correct": "जादूगाराने एक चांगला खेळ दाखवला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2166,
+    "incorrect": "सचिन एक महान खेलाडू आहे.",
+    "correct": "सचिन एक महान खेळाडू आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2167,
+    "incorrect": "मुले मैदानी खेळ खेळत आहेत.",
+    "correct": "मुले मैदानी खेळ खेळत आहेत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2168,
+    "incorrect": "आजारी माणसाला ढवा दिला जातो.",
+    "correct": "आजारी माणसाला दवा दिला जातो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2169,
+    "incorrect": "डॉक्टरांनी त्याला गोळ्या दिल्या.",
+    "correct": "डॉक्टरांनी त्याला गोळ्या दिल्या.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2170,
+    "incorrect": "नर्सने रुग्णाला इन्जेक्शन दिले.",
+    "correct": "नर्सने रुग्णाला इंजेक्शन दिले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2171,
+    "incorrect": "त्याचे मोठे ऑपरेषन झाले.",
+    "correct": "त्याचे मोठे ऑपरेशन झाले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2172,
+    "incorrect": "दवाखान्यात एक हुशार नरस आहे.",
+    "correct": "दवाखान्यात एक हुशार नर्स आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2173,
+    "incorrect": "हे एक मोठे सरकारी रुगनालय आहे.",
+    "correct": "हे एक मोठे सरकारी रुग्णालय आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2174,
+    "incorrect": "प्रत्येकाने आरोगय विमा काढला पाहिजे.",
+    "correct": "प्रत्येकाने आरोग्य विमा काढला पाहिजे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2175,
+    "incorrect": "जिवन विमा असणे आवश्यक आहे.",
+    "correct": "जीवन विमा असणे आवश्यक आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2176,
+    "incorrect": "सध्या देशात रजकारण तापले आहे.",
+    "correct": "सध्या देशात राजकारण तापले आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2177,
+    "incorrect": "मतढान करणे हे आपले कर्तव्य आहे.",
+    "correct": "मतदान करणे हे आपले कर्तव्य आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2178,
+    "incorrect": "गावात निवडनूक लागली आहे.",
+    "correct": "गावात निवडणूक लागली आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2179,
+    "incorrect": "नवीन मंतरी निवडले जातील.",
+    "correct": "नवीन मंत्री निवडले जातील.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2180,
+    "incorrect": "राज्याचे मुख्यमंतरी कोण आहेत?",
+    "correct": "राज्याचे मुख्यमंत्री कोण आहेत?",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2181,
+    "incorrect": "देशाचे पंतप्रदान दिल्लीत राहतात.",
+    "correct": "देशाचे पंतप्रधान दिल्लीत राहतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2182,
+    "incorrect": "भारताचे राश्ट्रपती देशाचे प्रमुख असतात.",
+    "correct": "भारताचे राष्ट्रपती देशाचे प्रमुख असतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2183,
+    "incorrect": "नवीन खायदा मंजूर झाला.",
+    "correct": "नवीन कायदा मंजूर झाला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2184,
+    "incorrect": "शहरात कायदा आणी सुवेवस्था चांगली आहे.",
+    "correct": "शहरात कायदा आणि सुव्यवस्था चांगली आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2185,
+    "incorrect": "तो एक प्रामाणिक हवलदार आहे.",
+    "correct": "तो एक प्रामाणिक हवालदार आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2186,
+    "incorrect": "पोलिसांनी चोराला पकडले.",
+    "correct": "पोलिसांनी चोराला पकडले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2187,
+    "incorrect": "तो एक मोठा गुनेगार आहे.",
+    "correct": "तो एक मोठा गुन्हेगार आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2188,
+    "incorrect": "जंगलात अनेक जंगली प्रानी राहतात.",
+    "correct": "जंगलात अनेक जंगली प्राणी राहतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2189,
+    "incorrect": "आकाशात खूप पकशी उडत होते.",
+    "correct": "आकाशात खूप पक्षी उडत होते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2190,
+    "incorrect": "बागेत गुलाबाचे सुंदर फल आहे.",
+    "correct": "बागेत गुलाबाचे सुंदर फूल आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2191,
+    "incorrect": "आंब्याचे फड खूप गोड आहे.",
+    "correct": "आंब्याचे फळ खूप गोड आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2192,
+    "incorrect": "जंगलात खूप जानवरे असतात.",
+    "correct": "जंगलात खूप जनावरे असतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2193,
+    "incorrect": "सिंव्ह जंगलाचा राजा आहे.",
+    "correct": "सिंह जंगलाचा राजा आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2194,
+    "incorrect": "मंदिरात एक मोठा हथि होता.",
+    "correct": "मंदिरात एक मोठा हत्ती होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2195,
+    "incorrect": "झाडावर एक माखर बसले होते.",
+    "correct": "झाडावर एक माकड बसले होते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2196,
+    "incorrect": "नागाला बघून त्याला षाप लागला.",
+    "correct": "नागाला बघून त्याला शाप लागला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2197,
+    "incorrect": "नदीत एक मोठी मघर होती.",
+    "correct": "नदीत एक मोठी मगर होती.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2198,
+    "incorrect": "पावसाळ्यात खूप बेडख दिसतात.",
+    "correct": "पावसाळ्यात खूप बेडूक दिसतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2199,
+    "incorrect": "तलावात एक मोठा माशा आहे.",
+    "correct": "तलावात एक मोठा मासा आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2200,
+    "incorrect": "समुद्रकिनारी अनेक कोली राहतात.",
+    "correct": "समुद्रकिनारी अनेक कोळी राहतात.",
+    "error_type": "Spelling Error"
+  },
+
+  {
+    "id": 2201,
+    "incorrect": "तुमचे उत्तर अगदी बरोब्बर आहे.",
+    "correct": "तुमचे उत्तर अगदी बरोबर आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2202,
+    "incorrect": "सर्वानी शांतपणे उबे राहा.",
+    "correct": "सर्वांनी शांतपणे उभे राहा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2203,
+    "incorrect": "माझ्याकडून चूक झाली, माप करा.",
+    "correct": "माझ्याकडून चूक झाली, माफ करा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2204,
+    "incorrect": "मी सुद्धा तुमच्यासोबत येणार आहे.",
+    "correct": "मी सुद्धा तुमच्यासोबत येणार आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2205,
+    "incorrect": "तो अगधी वेळेवर पोहोचला.",
+    "correct": "तो अगदी वेळेवर पोहोचला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2206,
+    "incorrect": "या शब्दाचा अर्थ म्हनजे काय?",
+    "correct": "या शब्दाचा अर्थ म्हणजे काय?",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2207,
+    "incorrect": "दुकानातील सर्व वसतू महाग आहेत.",
+    "correct": "दुकानातील सर्व वस्तू महाग आहेत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2208,
+    "incorrect": "रांगेतील धुसरा माणूस कोण आहे?",
+    "correct": "रांगेतील दुसरा माणूस कोण आहे?",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2209,
+    "incorrect": "शर्यतीत त्याचा पाइला नंबर आला.",
+    "correct": "शर्यतीत त्याचा पहिला नंबर आला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2210,
+    "incorrect": "नदीच्या मदे एक होडी होती.",
+    "correct": "नदीच्या मध्ये एक होडी होती.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2211,
+    "incorrect": "घराच्या भाहेर खूप गर्दी आहे.",
+    "correct": "घराच्या बाहेर खूप गर्दी आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2212,
+    "incorrect": "माझ्या गाडीच्या समुर एक ट्रक आहे.",
+    "correct": "माझ्या गाडीच्या समोर एक ट्रक आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2213,
+    "incorrect": "वळणावर आरसा माघे बघून लावा.",
+    "correct": "वळणावर आरसा मागे बघून लावा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2214,
+    "incorrect": "टेबलाच्या काली एक मांजर आहे.",
+    "correct": "टेबलाच्या खाली एक मांजर आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2215,
+    "incorrect": "झाडाच्या व्र एक पक्षी बसला आहे.",
+    "correct": "झाडाच्या वर एक पक्षी बसला आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2216,
+    "incorrect": "तुम्ही सर्वजण इकड़े या.",
+    "correct": "तुम्ही सर्वजण इकडे या.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2217,
+    "incorrect": "चला, आपण तिकड़े जाऊन बसूया.",
+    "correct": "चला, आपण तिकडे जाऊन बसूया.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2218,
+    "incorrect": "सग्ळे जण जेवायला चला.",
+    "correct": "सगळे जण जेवायला चला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2219,
+    "incorrect": "मला खाई बोलायचे नाही.",
+    "correct": "मला काही बोलायचे नाही.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2220,
+    "incorrect": "आज जेवणात जासत मीठ झाले.",
+    "correct": "आज जेवणात जास्त मीठ झाले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2221,
+    "incorrect": "चहात साखर खमी टाका.",
+    "correct": "चहात साखर कमी टाका.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2222,
+    "incorrect": "सकाळी लवखर उठायला पाहिजे.",
+    "correct": "सकाळी लवकर उठायला पाहिजे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2223,
+    "incorrect": "तो ऑफिसला नेहमी उसिरा येतो.",
+    "correct": "तो ऑफिसला नेहमी उशिरा येतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2224,
+    "incorrect": "मी तुझ्याशी नतंर बोलतो.",
+    "correct": "मी तुझ्याशी नंतर बोलतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2225,
+    "incorrect": "आज खूप दमट हावा आहे.",
+    "correct": "आज खूप दमट हवा आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2226,
+    "incorrect": "आकाशात काळे डग जमले आहेत.",
+    "correct": "आकाशात काळे ढग जमले आहेत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2227,
+    "incorrect": "पावसाळ्यात विझ चमकते.",
+    "correct": "पावसाळ्यात वीज चमकते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2228,
+    "incorrect": "समुद्रकिनारी जोरदार वादळ आले.",
+    "correct": "समुद्रकिनारी जोरदार वादळ आले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2229,
+    "incorrect": "उन्हाळ्यात खूप घरम होते.",
+    "correct": "उन्हाळ्यात खूप गरम होते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2230,
+    "incorrect": "मला थंड आणि घार पाणी प्यायचे आहे.",
+    "correct": "मला थंड आणि गार पाणी प्यायचे आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2231,
+    "incorrect": "माझे कपडे पूर्णपणे कोरड़े झाले.",
+    "correct": "माझे कपडे पूर्णपणे कोरडे झाले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2232,
+    "incorrect": "पावसामुळे सर्व कपडे भिजले.",
+    "correct": "पावसामुळे सर्व कपडे भिजलेले आहेत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2233,
+    "incorrect": "त्याने एक रगीत चित्र काढले.",
+    "correct": "त्याने एक रंगीत चित्र काढले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2234,
+    "incorrect": "तिला चित्रखला शिकायची आहे.",
+    "correct": "तिला चित्रकला शिकायची आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2235,
+    "incorrect": "लहानपणी तो छान घाणे म्हणायचा.",
+    "correct": "लहानपणी तो छान गाणे म्हणायचा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2236,
+    "incorrect": "नाटकात त्याचा अभिन्य छान होता.",
+    "correct": "नाटकात त्याचा अभिनय छान होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2237,
+    "incorrect": "या चित्रपटाचे दिगदर्शक कोण आहेत?",
+    "correct": "या चित्रपटाचे दिग्दर्शक कोण आहेत?",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2238,
+    "incorrect": "या चित्रपटाचा निरमाता कोण आहे?",
+    "correct": "या चित्रपटाचा निर्माता कोण आहे?",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2239,
+    "incorrect": "तो एक चांगला अभिनता आहे.",
+    "correct": "तो एक चांगला अभिनेता आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2240,
+    "incorrect": "ती एक प्रसिद्ध अभिनत्री आहे.",
+    "correct": "ती एक प्रसिद्ध अभिनेत्री आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2241,
+    "incorrect": "तो एक लोखप्रिय नेता आहे.",
+    "correct": "तो एक लोकप्रिय नेता आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2242,
+    "incorrect": "त्याचे काम खूप चागंले आहे.",
+    "correct": "त्याचे काम खूप चांगले आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2243,
+    "incorrect": "त्याच्यासोबत खूप वाइट झाले.",
+    "correct": "त्याच्यासोबत खूप वाईट झाले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2244,
+    "incorrect": "हा डोंगर चढायला खूप कटीन आहे.",
+    "correct": "हा डोंगर चढायला खूप कठीण आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2245,
+    "incorrect": "पुणे ते मुंबईचा रस्ता खूप लाब आहे.",
+    "correct": "पुणे ते मुंबईचा रस्ता खूप लांब आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2246,
+    "incorrect": "शेतातील काम खूप आकूड आहे.",
+    "correct": "शेतातील काम खूप आखूड आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2247,
+    "incorrect": "हा एक खुप महत्वाचा विषय आहे.",
+    "correct": "हा एक खूप महत्त्वाचा विषय आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2248,
+    "incorrect": "तुजा भाऊ कुठे गेला आहे?",
+    "correct": "तुझा भाऊ कुठे गेला आहे?",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2249,
+    "incorrect": "हा एक सामाजिक उपकरम आहे.",
+    "correct": "हा एक सामाजिक उपक्रम आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2250,
+    "incorrect": "मी तुला एक पतर पाठवले आहे.",
+    "correct": "मी तुला एक पत्र पाठवले आहे.",
+    "error_type": "Spelling Error"
+  },
+  
+  {
+    "id": 2251,
+    "incorrect": "त्याच्या बोलण्यावर माझी प्रतिकरीया आली.",
+    "correct": "त्याच्या बोलण्यावर माझी प्रतिक्रिया आली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2252,
+    "incorrect": "मी नोकरीसाठी एक अरज लिहिला आहे.",
+    "correct": "मी नोकरीसाठी एक अर्ज लिहिला आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2253,
+    "incorrect": "बाजारामध्ये आज खूप गरदी होती.",
+    "correct": "बाजारामध्ये आज खूप गर्दी होती.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2254,
+    "incorrect": "माझा मोबाईल चारजिंगला लावा.",
+    "correct": "माझा मोबाईल चार्जिंगला लावा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2255,
+    "incorrect": "ताप मोजायला थरमामीटर वापरा.",
+    "correct": "ताप मोजायला थर्मामीटर वापरा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2256,
+    "incorrect": "रुग्णाला एका वेगळ्या वार्डमध्ये ठेवले आहे.",
+    "correct": "रुग्णाला एका वेगळ्या वॉर्डमध्ये ठेवले आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2257,
+    "incorrect": "डॉक्टरांनी औषधांची परचा लिहून दिली.",
+    "correct": "डॉक्टरांनी औषधांची पर्चा लिहून दिली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2258,
+    "incorrect": "त्याने बँकेतून खूप करज घेतले.",
+    "correct": "त्याने बँकेतून खूप कर्ज घेतले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2259,
+    "incorrect": "सिंहाचा जबळा खूप मजबूत असतो.",
+    "correct": "सिंहाचा जबडा खूप मजबूत असतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2260,
+    "incorrect": "चिमणीने झाडावर घरते बांधले आहे.",
+    "correct": "चिमणीने झाडावर घरटे बांधले आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2261,
+    "incorrect": "पक्ष्याची चोछ खूप लहान आहे.",
+    "correct": "पक्ष्याची चोच खूप लहान आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2262,
+    "incorrect": "पक्ष्याचे पख खूप सुंदर होते.",
+    "correct": "पक्ष्याचे पंख खूप सुंदर होते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2263,
+    "incorrect": "कोंबडीने चार अडी दिली आहेत.",
+    "correct": "कोंबडीने चार अंडी दिली आहेत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2264,
+    "incorrect": "गावात एक मोठा तालाव आहे.",
+    "correct": "गावात एक मोठा तलाव आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2265,
+    "incorrect": "डोंगरातून एक लहान ओडा वाहतो.",
+    "correct": "डोंगरातून एक लहान ओढा वाहतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2266,
+    "incorrect": "पाण्याचा एक छोटा जरा वाहत होता.",
+    "correct": "पाण्याचा एक छोटा झरा वाहत होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2267,
+    "incorrect": "तो एक मोठा दबदबा आहे.",
+    "correct": "तो एक मोठा धबधबा आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2268,
+    "incorrect": "नदीच्या काठावर मोठे कडक आहेत.",
+    "correct": "नदीच्या काठावर मोठे खडक आहेत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2269,
+    "incorrect": "लाल माथीचा रस्ता होता.",
+    "correct": "लाल मातीचा रस्ता होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2270,
+    "incorrect": "नदीकिनारी मोठाला धगड आहे.",
+    "correct": "नदीकिनारी मोठाला दगड आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2271,
+    "incorrect": "समुद्रकिनारी शंक सापडतात.",
+    "correct": "समुद्रकिनारी शंख सापडतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2272,
+    "incorrect": "तिने काही सुंदर शिमपले गोळा केले.",
+    "correct": "तिने काही सुंदर शिंपले गोळा केले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2273,
+    "incorrect": "समुद्रात सुंदर प्रवाल आढळतात.",
+    "correct": "समुद्रात सुंदर प्रवाळ आढळतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2274,
+    "incorrect": "आकाशातून विजा चमकत होत्या.",
+    "correct": "आकाशातून विजा चमकत होत्या.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2275,
+    "incorrect": "सकाळचा सुरजप्रकाश खूप आल्हाददायक असतो.",
+    "correct": "सकाळचा सूर्यप्रकाश खूप आल्हाददायक असतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2276,
+    "incorrect": "पौर्णिमेला चंन्द्रप्रकाश असतो.",
+    "correct": "पौर्णिमेला चंद्रप्रकाश असतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2277,
+    "incorrect": "प्रत्येक महिन्यात अमावासा येते.",
+    "correct": "प्रत्येक महिन्यात अमावस्या येते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2278,
+    "incorrect": "पोरनिमेच्या रात्री चंद्र पूर्ण दिसतो.",
+    "correct": "पौर्णिमेच्या रात्री चंद्र पूर्ण दिसतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2279,
+    "incorrect": "पुढच्या आटवड्यात मी गावी जाईन.",
+    "correct": "पुढच्या आठवड्यात मी गावी जाईन.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2280,
+    "incorrect": "प्रत्येक पंदरवड्याने तो घरी येतो.",
+    "correct": "प्रत्येक पंधरवड्याने तो घरी येतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2281,
+    "incorrect": "एक सतक म्हणजे शंभर वर्षे.",
+    "correct": "एक शतक म्हणजे शंभर वर्षे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2282,
+    "incorrect": "ढुपार झाली तरी तो आला नाही.",
+    "correct": "दुपार झाली तरी तो आला नाही.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2283,
+    "incorrect": "काल रातर खूप पाऊस पडला.",
+    "correct": "काल रात्री खूप पाऊस पडला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2284,
+    "incorrect": "एका मिनिटात साठ सेकन्द असतात.",
+    "correct": "एका मिनिटात साठ सेकंद असतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2285,
+    "incorrect": "एका तासात साठ मिनिटे असतात.",
+    "correct": "एका तासात साठ मिनिटे असतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2286,
+    "incorrect": "पुणे-मुंबई अंतर १५० किलोमिटर आहे.",
+    "correct": "पुणे-मुंबई अंतर १५० किलोमीटर आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2287,
+    "incorrect": "या रस्त्याची लाम्बी जास्त आहे.",
+    "correct": "या रस्त्याची लांबी जास्त आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2288,
+    "incorrect": "नदीची रुन्डी खूप जास्त होती.",
+    "correct": "नदीची रुंदी खूप जास्त होती.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2289,
+    "incorrect": "मला माझे वझन कमी करायचे आहे.",
+    "correct": "मला माझे वजन कमी करायचे आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2290,
+    "incorrect": "एक किलो म्हणजे हजार गरम.",
+    "correct": "एक किलो म्हणजे हजार ग्रॅम.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2291,
+    "incorrect": "मला एक खिलो साखर द्या.",
+    "correct": "मला एक किलो साखर द्या.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2292,
+    "incorrect": "मला एक डझण केळी हवी आहेत.",
+    "correct": "मला एक डझन केळी हवी आहेत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2293,
+    "incorrect": "त्याने मला शम्बर रुपये दिले.",
+    "correct": "त्याने मला शंभर रुपये दिले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2294,
+    "incorrect": "माझ्याकडे एक लाक रुपये आहेत.",
+    "correct": "माझ्याकडे एक लाख रुपये आहेत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2295,
+    "incorrect": "एक करोर म्हणजे शंभर लाख.",
+    "correct": "एक करोड म्हणजे शंभर लाख.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2296,
+    "incorrect": "एक अबज ही खूप मोठी संख्या आहे.",
+    "correct": "एक अब्ज ही खूप मोठी संख्या आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2297,
+    "incorrect": "कृपया पैशांची गनती करा.",
+    "correct": "कृपया पैशांची गणती करा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2298,
+    "incorrect": "एक ते नऊ हे अक आहेत.",
+    "correct": "एक ते नऊ हे अंक आहेत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2299,
+    "incorrect": "ही एक अवघड परिच्छा आहे.",
+    "correct": "ही एक अवघड परीक्षा आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2300,
+    "incorrect": "या शब्दाचा काय अरथ आहे?",
+    "correct": "या शब्दाचा काय अर्थ आहे?",
+    "error_type": "Spelling Error"
+  },
+
+  {
+    "id": 2301,
+    "incorrect": "तो आमच्या समितीचा अद्यक्ष आहे.",
+    "correct": "तो आमच्या समितीचा अध्यक्ष आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2302,
+    "incorrect": "गावामध्ये गणेश चतुर्थीचा मोठा उतसव असतो.",
+    "correct": "गावामध्ये गणेश चतुर्थीचा मोठा उत्सव असतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2303,
+    "incorrect": "हे कापड बाजारात खूप सस्त मिळते.",
+    "correct": "हे कापड बाजारात खूप स्वस्त मिळते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2304,
+    "incorrect": "बस मधून सर्व प्रवाशी उतरले.",
+    "correct": "बस मधून सर्व प्रवासी उतरले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2305,
+    "incorrect": "त्या दोन भावांमध्ये मोठे भाडण झाले.",
+    "correct": "त्या दोन भावांमध्ये मोठे भांडण झाले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2306,
+    "incorrect": "जमिनीवर बसण्यासाठी चटाइ टाका.",
+    "correct": "जमिनीवर बसण्यासाठी चटई टाका.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2307,
+    "incorrect": "डॉक्टरांनी त्याला कडू अवशध दिले.",
+    "correct": "डॉक्टरांनी त्याला कडू औषध दिले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2308,
+    "incorrect": "त्याचा निष्कालजीपना त्याला खूप महागात पडला.",
+    "correct": "त्याचा निष्काळजीपणा त्याला खूप महागात पडला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2309,
+    "incorrect": "शिवाजी महाराज एक शूर क्शत्रिय होते.",
+    "correct": "शिवाजी महाराज एक शूर क्षत्रिय होते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2310,
+    "incorrect": "देशात भ्रश्टाचार खूप वाढला आहे.",
+    "correct": "देशात भ्रष्टाचार खूप वाढला आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2311,
+    "incorrect": "तुम्ही माझी आग्या पाळली पाहिजे.",
+    "correct": "तुम्ही माझी आज्ञा पाळली पाहिजे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2312,
+    "incorrect": "गरीब माणसांची उपेशा करू नये.",
+    "correct": "गरीब माणसांची उपेक्षा करू नये.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2313,
+    "incorrect": "हा निसर्गाचा एक चमतकार आहे.",
+    "correct": "हा निसर्गाचा एक चमत्कार आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2314,
+    "incorrect": "त्याने रागाने माझा तिरसकार केला.",
+    "correct": "त्याने रागाने माझा तिरस्कार केला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2315,
+    "incorrect": "त्याचा सर्वांसमोर मोठा सनमान झाला.",
+    "correct": "त्याचा सर्वांसमोर मोठा सन्मान झाला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2316,
+    "incorrect": "रस्त्यावर एक मोठा अपगात झाला.",
+    "correct": "रस्त्यावर एक मोठा अपघात झाला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2317,
+    "incorrect": "तो माझ्याच वरगात शिकतो.",
+    "correct": "तो माझ्याच वर्गात शिकतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2318,
+    "incorrect": "आपण प्रुथ्वी नावाच्या ग्रहावर राहतो.",
+    "correct": "आपण पृथ्वी नावाच्या ग्रहावर राहतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2319,
+    "incorrect": "तिथे कार्यक्रमाची चांगली वेवस्था होती.",
+    "correct": "तिथे कार्यक्रमाची चांगली व्यवस्था होती.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2320,
+    "incorrect": "स्वछता हेच खरे सौंदर्य आहे.",
+    "correct": "स्वच्छता हेच खरे सौंदर्य आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2321,
+    "incorrect": "अग्यान हेच दुःखाचे कारण आहे.",
+    "correct": "अज्ञान हेच दुःखाचे कारण आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2322,
+    "incorrect": "त्याचा म्रुत्यू अपघातामुळे झाला.",
+    "correct": "त्याचा मृत्यू अपघातामुळे झाला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2323,
+    "incorrect": "जुन्या किल्ल्याजवळ उतखनन सुरू आहे.",
+    "correct": "जुन्या किल्ल्याजवळ उत्खनन सुरू आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2324,
+    "incorrect": "हा एक मोठा सरकारी परकल्प आहे.",
+    "correct": "हा एक मोठा सरकारी प्रकल्प आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2325,
+    "incorrect": "बांधकामासाठी शंभर मझूर आले होते.",
+    "correct": "बांधकामासाठी शंभर मजूर आले होते.",
+    "error_type": "Spelling Error"
+  },
+
+  {
+    "id": 2326,
+    "incorrect": "मला या गोष्टीचे मोठे आशर्य वाटले.",
+    "correct": "मला या गोष्टीचे मोठे आश्चर्य वाटले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2327,
+    "incorrect": "कार्यक्रमाची वेवस्था खूप चांगली होती.",
+    "correct": "कार्यक्रमाची व्यवस्था खूप चांगली होती.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2328,
+    "incorrect": "आपण परिसर स्वछता पाळली पाहिजे.",
+    "correct": "आपण परिसर स्वच्छता पाळली पाहिजे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2329,
+    "incorrect": "अपघातात त्याचा म्रुत्यू झाला.",
+    "correct": "अपघातात त्याचा मृत्यू झाला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2330,
+    "incorrect": "सरकारने एक नवीन परकल्प जाहीर केला.",
+    "correct": "सरकारने एक नवीन प्रकल्प जाहीर केला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2331,
+    "incorrect": "बांधकामावर खूप सारे मझूर काम करत होते.",
+    "correct": "बांधकामावर खूप सारे मजूर काम करत होते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2332,
+    "incorrect": "जास्त अंहकार करणे चांगले नाही.",
+    "correct": "जास्त अहंकार करणे चांगले नाही.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2333,
+    "incorrect": "प्रत्येकाने आपला सवाभिमान जपला पाहिजे.",
+    "correct": "प्रत्येकाने आपला स्वाभिमान जपला पाहिजे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2334,
+    "incorrect": "त्याचा सर्वांसमोर मोठा सनमान करण्यात आला.",
+    "correct": "त्याचा सर्वांसमोर मोठा सन्मान करण्यात आला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2335,
+    "incorrect": "वाईट गोष्टींचा नेहमी तिरसकार करावा.",
+    "correct": "वाईट गोष्टींचा नेहमी तिरस्कार करावा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2336,
+    "incorrect": "महामार्गावर एक मोठा अपगात झाला.",
+    "correct": "महामार्गावर एक मोठा अपघात झाला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2337,
+    "incorrect": "आपण प्रुथ्वी नावाच्या ग्रहावर राहतो.",
+    "correct": "आपण पृथ्वी नावाच्या ग्रहावर राहतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2338,
+    "incorrect": "अग्यान हे दुःखाचे मूळ कारण आहे.",
+    "correct": "अज्ञान हे दुःखाचे मूळ कारण आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2339,
+    "incorrect": "जुन्या वाड्याजवळ उतखनन सुरू आहे.",
+    "correct": "जुन्या वाड्याजवळ उत्खनन सुरू आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2340,
+    "incorrect": "तो एक शूर आणि पराक्रमी क्शत्रिय होता.",
+    "correct": "तो एक शूर आणि पराक्रमी क्षत्रिय होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2341,
+    "incorrect": "देशातून भ्रश्टाचार संपवला पाहिजे.",
+    "correct": "देशातून भ्रष्टाचार संपवला पाहिजे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2342,
+    "incorrect": "मोठ्यांची आग्या नेहमी पाळावी.",
+    "correct": "मोठ्यांची आज्ञा नेहमी पाळावी.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2343,
+    "incorrect": "चांगल्या कामाची उपेशा करू नये.",
+    "correct": "चांगल्या कामाची उपेक्षा करू नये.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2344,
+    "incorrect": "देवाने एक मोठा चमतकार घडवला.",
+    "correct": "देवाने एक मोठा चमत्कार घडवला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2345,
+    "incorrect": "मी मुख्याध्यापकांना एक अरज लिहिला.",
+    "correct": "मी मुख्याध्यापकांना एक अर्ज लिहिला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2346,
+    "incorrect": "स्टेशनवर लोकांची खूप गरदी होती.",
+    "correct": "स्टेशनवर लोकांची खूप गर्दी होती.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2347,
+    "incorrect": "डॉक्टरांनी औषधांची परचा दिली.",
+    "correct": "डॉक्टरांनी औषधांची पर्चा दिली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2348,
+    "incorrect": "शेतकऱ्याने बँकेकडून करज घेतले.",
+    "correct": "शेतकऱ्याने बँकेकडून कर्ज घेतले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2349,
+    "incorrect": "डोंगरातून पाण्याचा जरा वाहत होता.",
+    "correct": "डोंगरातून पाण्याचा झरा वाहत होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2350,
+    "incorrect": "तो एक प्रसिद्ध दबदबा आहे.",
+    "correct": "तो एक प्रसिद्ध धबधबा आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2351,
+    "incorrect": "घराच्या पायाला मोठा धगड लागला.",
+    "correct": "घराच्या पायाला मोठा दगड लागला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2352,
+    "incorrect": "मंदिरात मोठा शंक वाजवला.",
+    "correct": "मंदिरात मोठा शंख वाजवला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2353,
+    "incorrect": "तिने समुद्रातून काही शिमपले उचलले.",
+    "correct": "तिने समुद्रातून काही शिंपले उचलले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2354,
+    "incorrect": "समुद्रात सुंदर प्रवाल असतात.",
+    "correct": "समुद्रात सुंदर प्रवाळ असतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2355,
+    "incorrect": "प्रत्येक महिन्यात अमावसा येते.",
+    "correct": "प्रत्येक महिन्यात अमावस्या येते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2356,
+    "incorrect": "पोरनिमेला चंद्र पूर्ण दिसतो.",
+    "correct": "पौर्णिमेला चंद्र पूर्ण दिसतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2357,
+    "incorrect": "एका आटवड्यात सात दिवस असतात.",
+    "correct": "एका आठवड्यात सात दिवस असतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2358,
+    "incorrect": "महिन्यात दोन पंदरवडे असतात.",
+    "correct": "महिन्यात दोन पंधरवडे असतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2359,
+    "incorrect": "एका शतकात शंभर वर्षे असतात.",
+    "correct": "एका शतकात शंभर वर्षे असतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2360,
+    "incorrect": "ढुपार झाल्यावर जेवणाची सुट्टी झाली.",
+    "correct": "दुपार झाल्यावर जेवणाची सुट्टी झाली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2361,
+    "incorrect": "घड्याळात सेकन्द काटा फिरत होता.",
+    "correct": "घड्याळात सेकंद काटा फिरत होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2362,
+    "incorrect": "मुंबई-पुणे अंतर सुमारे १५० किलोमिटर आहे.",
+    "correct": "मुंबई-पुणे अंतर सुमारे १५० किलोमीटर आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2363,
+    "incorrect": "या खोलीची लाम्बी किती आहे?",
+    "correct": "या खोलीची लांबी किती आहे?",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2364,
+    "incorrect": "नदीची रुन्डी खूप जास्त आहे.",
+    "correct": "नदीची रुंदी खूप जास्त आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2365,
+    "incorrect": "एक किलो म्हणजे हजार गरम.",
+    "correct": "एक किलो म्हणजे हजार ग्रॅम.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2366,
+    "incorrect": "मला एक डझण अंडी द्या.",
+    "correct": "मला एक डझन अंडी द्या.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2367,
+    "incorrect": "त्याने मला शम्बर रुपये परत केले.",
+    "correct": "त्याने मला शंभर रुपये परत केले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2368,
+    "incorrect": "त्याच्याकडे एक लाक रुपये आहेत.",
+    "correct": "त्याच्याकडे एक लाख रुपये आहेत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2369,
+    "incorrect": "एक करोर ही खूप मोठी रक्कम आहे.",
+    "correct": "एक करोड ही खूप मोठी रक्कम आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2370,
+    "incorrect": "एक अबज म्हणजे शंभर करोड.",
+    "correct": "एक अब्ज म्हणजे शंभर करोड.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2371,
+    "incorrect": "कृपया नोटांची गनती करा.",
+    "correct": "कृपया नोटांची गणती करा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2372,
+    "incorrect": "गणितातील अक कधीही बदलत नाहीत.",
+    "correct": "गणितातील अंक कधीही बदलत नाहीत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2373,
+    "incorrect": "या शब्दाचा खरा अरथ काय आहे?",
+    "correct": "या शब्दाचा खरा अर्थ काय आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2374,
+    "incorrect": "माझा त्याच्याशी काहीही संर्पक नाही.",
+    "correct": "माझा त्याच्याशी काहीही संपर्क नाही.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2375,
+    "incorrect": "झाडाचा प्रत्येक पता हिरवागार होता.",
+    "correct": "झाडाचा प्रत्येक पत्ता हिरवागार होता.",
+    "error_type": "Spelling Error"
+  },
+
+  {
+    "id": 2376,
+    "incorrect": "ठपाल कार्यालयात खूप गर्दी होती.",
+    "correct": "टपाल कार्यालयात खूप गर्दी होती.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2377,
+    "incorrect": "सोलापूर महाराष्ट्रातील एक मोठा झिल्हा आहे.",
+    "correct": "सोलापूर महाराष्ट्रातील एक मोठा जिल्हा आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2378,
+    "incorrect": "रायगड एक ऐतिहासिक खिल्ला आहे.",
+    "correct": "रायगड एक ऐतिहासिक किल्ला आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2379,
+    "incorrect": "आजचे थापमान खूप जास्त आहे.",
+    "correct": "आजचे तापमान खूप जास्त आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2380,
+    "incorrect": "संध्याकाळी थंड फवन वाहत होता.",
+    "correct": "संध्याकाळी थंड पवन वाहत होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2381,
+    "incorrect": "अरबी साघर खूप मोठा आहे.",
+    "correct": "अरबी सागर खूप मोठा आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2382,
+    "incorrect": "नदीमध्ये एक खोल ढोह आहे.",
+    "correct": "नदीमध्ये एक खोल डोह आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2383,
+    "incorrect": "तो परिसर खूप गलिछ होता.",
+    "correct": "तो परिसर खूप गलिચ્છ होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2384,
+    "incorrect": "सूर्य पूर्व ढिशेला उगवतो.",
+    "correct": "सूर्य पूर्व दिशेला उगवतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2385,
+    "incorrect": "गंगेचा उघम हिमालयात होतो.",
+    "correct": "गंगेचा उगम हिमालयात होतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2386,
+    "incorrect": "प्रत्येक कथेचा एक अंथ असतो.",
+    "correct": "प्रत्येक कथेचा एक अंत असतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2387,
+    "incorrect": "कार्यक्रमाचा आरंब छान झाला.",
+    "correct": "कार्यक्रमाचा आरंभ छान झाला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2388,
+    "incorrect": "शहराचे खेंद्र जवळ आहे का?",
+    "correct": "शहराचे केंद्र जवळ आहे का?",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2389,
+    "incorrect": "पाण्याचा एक ठपका खाली पडला.",
+    "correct": "पाण्याचा एक टपका खाली पडला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2390,
+    "incorrect": "कागदावर एक सरळ रेशा ओढा.",
+    "correct": "कागदावर एक सरळ रेषा ओढा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2391,
+    "incorrect": "त्रिखोणाला तीन बाजू असतात.",
+    "correct": "त्रिकोणाला तीन बाजू असतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2392,
+    "incorrect": "चोरसाला चार बाजू असतात.",
+    "correct": "चौरसाला चार बाजू असतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2393,
+    "incorrect": "पृथ्वी घोल फिरते.",
+    "correct": "पृथ्वी गोल फिरते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2394,
+    "incorrect": "हा कागद खूप फाथळ आहे.",
+    "correct": "हा कागद खूप पातळ आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2395,
+    "incorrect": "ही पिशवी खूप बारी आहे.",
+    "correct": "ही पिशवी खूप भारी आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2396,
+    "incorrect": "पिसासारखे अलके वाटत होते.",
+    "correct": "पिसासारखे हलके वाटत होते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2397,
+    "incorrect": "लहान बाळाची त्वचा मउ असते.",
+    "correct": "लहान बाळाची त्वचा मऊ असते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2398,
+    "incorrect": "मला कोमठ पाणी प्यायला आवडते.",
+    "correct": "मला कोमट पाणी प्यायला आवडते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2399,
+    "incorrect": "तो एक सक्तीशाली राजा होता.",
+    "correct": "तो एक शक्तिशाली राजा होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2400,
+    "incorrect": "आजारीपणामुळे तो कमझोर झाला आहे.",
+    "correct": "आजारीपणामुळे तो कमजोर झाला आहे.",
+    "error_type": "Spelling Error"
+  },
+
+  {
+    "id": 2401,
+    "incorrect": "तो एक बलवान योध्दा आहे.",
+    "correct": "तो एक बलवान योद्धा आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2402,
+    "incorrect": "तो दारात आलेला बिखारी होता.",
+    "correct": "तो दारात आलेला भिकारी होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2403,
+    "incorrect": "सिंहासनावर रानी बसली होती.",
+    "correct": "सिंहासनावर राणी बसली होती.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2404,
+    "incorrect": "राज्याचा पुढचा राजा राजखुमार असतो.",
+    "correct": "राज्याचा पुढचा राजा राजकुमार असतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2405,
+    "incorrect": "राज्याची महाराणी खूप सुंदर होती.",
+    "correct": "राज्याची महाराणी खूप सुंदर होती.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2406,
+    "incorrect": "राजाचा शेनापती खूप शूर होता.",
+    "correct": "राजाचा सेनापती खूप शूर होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2407,
+    "incorrect": "राजाचा मुख्य परधान हुशार होता.",
+    "correct": "राजाचा मुख्य प्रधान हुशार होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2408,
+    "incorrect": "दरवाज्यावर एक संतरी उभा होता.",
+    "correct": "दरवाज्यावर एक संत्री उभा होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2409,
+    "incorrect": "पाहारेकरी रात्री गस्त घालत होता.",
+    "correct": "पहारेकरी रात्री गस्त घालत होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2410,
+    "incorrect": "कृपया डरवाजा उघडा.",
+    "correct": "कृपया दरवाजा उघडा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2411,
+    "incorrect": "घराची बिंत खूप मजबूत आहे.",
+    "correct": "घराची भिंत खूप मजबूत आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2412,
+    "incorrect": "घराचे छपर पावसात गळत होते.",
+    "correct": "घराचे छप्पर पावसात गळत होते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2413,
+    "incorrect": "मंदिराची पहिली पाइरी चढा.",
+    "correct": "मंदिराची पहिली पायरी चढा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2414,
+    "incorrect": "घराच्या गचीवर कपडे वाळत घातले.",
+    "correct": "घराच्या गच्चीवर कपडे वाळत घातले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2415,
+    "incorrect": "तो एका लहान झोपड़ीत राहतो.",
+    "correct": "तो एका लहान झोपडीत राहतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2416,
+    "incorrect": "शहरात एक मोठा बगला आहे.",
+    "correct": "शहरात एक मोठा बंगला आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2417,
+    "incorrect": "तो एका जुन्या वाड़्यात राहत होता.",
+    "correct": "तो एका जुन्या वाड्यात राहत होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2418,
+    "incorrect": "राजा मोठ्या म्हालात राहत असे.",
+    "correct": "राजा मोठ्या महालात राहत असे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2419,
+    "incorrect": "आई स्वयपाकघरात जेवण बनवत आहे.",
+    "correct": "आई स्वयंपाकघरात जेवण बनवत आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2420,
+    "incorrect": "घरातला दिवानखाना खूप मोठा आहे.",
+    "correct": "घरातला दिवाणखाना खूप मोठा आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2421,
+    "incorrect": "तो घराच्या वरच्या मादीवर राहतो.",
+    "correct": "तो घराच्या वरच्या माडीवर राहतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2422,
+    "incorrect": "घराच्या पडवित बसून चहा पिऊया.",
+    "correct": "घराच्या पडवीत बसून चहा पिऊया.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2423,
+    "incorrect": "प्रसाद घेण्यासाठी लोकांची झुबंड उडाली.",
+    "correct": "प्रसाद घेण्यासाठी लोकांची झुंबड उडाली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2424,
+    "incorrect": "तिकिटासाठी मोठी राग लागली होती.",
+    "correct": "तिकिटासाठी मोठी रांग लागली होती.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2425,
+    "incorrect": "कृपया एका ओळीत उभे रहा.",
+    "correct": "कृपया एका ओळीत उभे रहा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2426,
+    "incorrect": "तुमचा बसण्याचा करमांक किती आहे?",
+    "correct": "तुमचा बसण्याचा क्रमांक किती आहे?",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2427,
+    "incorrect": "शिक्षकांनी विद्यार्थ्यांची हाजेरी घेतली.",
+    "correct": "शिक्षकांनी विद्यार्थ्यांची हजेरी घेतली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2428,
+    "incorrect": "तो आज शाळेत गेरहजर होता.",
+    "correct": "तो आज शाळेत गैरहजर होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2429,
+    "incorrect": "कार्यक्रमाचे परमुख पाहुणे आले आहेत.",
+    "correct": "कार्यक्रमाचे प्रमुख पाहुणे आले आहेत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2430,
+    "incorrect": "घराचे यझमान बाहेर गेले आहेत.",
+    "correct": "घराचे यजमान बाहेर गेले आहेत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2431,
+    "incorrect": "पाहुण्यांचा चांगला सतकार केला.",
+    "correct": "पाहुण्यांचा चांगला सत्कार केला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2432,
+    "incorrect": "लग्नात मोठी जेवनावल होती.",
+    "correct": "लग्नात मोठी जेवणावळ होती.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2433,
+    "incorrect": "सर्वजण जेवायला पंगतीत बसले.",
+    "correct": "सर्वजण जेवायला पंगतीत बसले.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2434,
+    "incorrect": "तो एक कुशल वाडपी आहे.",
+    "correct": "तो एक कुशल वाढपी आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2435,
+    "incorrect": "अचारी खूप छान जेवण बनवतो.",
+    "correct": "आचारी खूप छान जेवण बनवतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2436,
+    "incorrect": "स्वयंपाकघरात खूप बांडी आहेत.",
+    "correct": "स्वयंपाकघरात खूप भांडी आहेत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2437,
+    "incorrect": "गरम टव्यावर भाकरी भाजली.",
+    "correct": "गरम तव्यावर भाकरी भाजली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2438,
+    "incorrect": "आईने कढ़ईत भाजी बनवली.",
+    "correct": "आईने कढईत भाजी बनवली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2439,
+    "incorrect": "गरम पोळी पकडण्यासाठी चिमटा वापरा.",
+    "correct": "गरम पोळी पकडण्यासाठी चिमटा वापरा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2440,
+    "incorrect": "भाजी परतण्यासाठी उलथने वापरा.",
+    "correct": "भाजी परतण्यासाठी उलथणे वापरा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2441,
+    "incorrect": "पोळी लाटण्यासाठी लाटने लागते.",
+    "correct": "पोळी लाटण्यासाठी लाटणे लागते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2442,
+    "incorrect": "पोळ्या करण्यासाठी पोलपाट आवश्यक आहे.",
+    "correct": "पोळ्या करण्यासाठी पोळपाट आवश्यक आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2443,
+    "incorrect": "घरात नवीन ग्यास आणला आहे.",
+    "correct": "घरात नवीन गॅस आणला आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2444,
+    "incorrect": "गावात अजूनही लोक शेगड़ी वापरतात.",
+    "correct": "गावात अजूनही लोक शेगडी वापरतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2445,
+    "incorrect": "मला गरम कोफी प्यायची आहे.",
+    "correct": "मला गरम कॉफी प्यायची आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2446,
+    "incorrect": "लहान मुलांना धही खायला आवडते.",
+    "correct": "लहान मुलांना दही खायला आवडते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2447,
+    "incorrect": "उन्हाळ्यात थंड टाक प्यावे.",
+    "correct": "उन्हाळ्यात थंड ताक प्यावे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2448,
+    "incorrect": "श्रीकृष्ण लोनी खात असे.",
+    "correct": "श्रीकृष्ण लोणी खात असे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2449,
+    "incorrect": "वरण-भातावर साजूक तुप घाला.",
+    "correct": "वरण-भातावर साजूक तूप घाला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2450,
+    "incorrect": "स्वयंपाकासाठी शेंगदाण्याचे ठेल वापरा.",
+    "correct": "स्वयंपाकासाठी शेंगदाण्याचे तेल वापरा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2451,
+    "incorrect": "चहामध्ये गूळ घालणे चांगले असते.",
+    "correct": "चहामध्ये गूळ घालणे चांगले असते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2452,
+    "incorrect": "भाजीत मिरचि जास्त झाली.",
+    "correct": "भाजीत मिरची जास्त झाली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2453,
+    "incorrect": "जेवणात थोडी हलद टाका.",
+    "correct": "जेवणात थोडी हळद टाका.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2454,
+    "incorrect": "भाजीत ढणे पूड टाकली.",
+    "correct": "भाजीत धने पूड टाकली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2455,
+    "incorrect": "फोडणीमध्ये झीरे घाला.",
+    "correct": "फोडणीमध्ये जिरे घाला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2456,
+    "incorrect": "फोडणीत मोहोरि टाकली जाते.",
+    "correct": "फोडणीत मोहरी टाकली जाते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2457,
+    "incorrect": "चटणीमध्ये लसुन जास्त घाला.",
+    "correct": "चटणीमध्ये लसूण जास्त घाला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2458,
+    "incorrect": "चहामध्ये आले टाकले आहे.",
+    "correct": "चहामध्ये आले टाकले आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2459,
+    "incorrect": "मला कांदा-भटाटा भाजी आवडते.",
+    "correct": "मला कांदा-बटाटा भाजी आवडते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2460,
+    "incorrect": "सॅलडमध्ये टोम्याटो टाका.",
+    "correct": "सॅलडमध्ये टोमॅटो टाका.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2461,
+    "incorrect": "आईने वागिची भाजी बनवली.",
+    "correct": "आईने वांग्याची भाजी बनवली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2462,
+    "incorrect": "मला बेंडीची भाजी आवडते.",
+    "correct": "मला भेंडीची भाजी आवडते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2463,
+    "incorrect": "घवाराच्या शेंगांची भाजी बनवा.",
+    "correct": "गवारीच्या शेंगांची भाजी बनवा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2464,
+    "incorrect": "मला पान-खोबीची भाजी आवडते.",
+    "correct": "मला पान-कोबीची भाजी आवडते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2465,
+    "incorrect": "आईने फ्लावरची भाजी बनवली आहे.",
+    "correct": "आईने फ्लॉवरची भाजी बनवली आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2466,
+    "incorrect": "माटार उसळ खूप छान लागते.",
+    "correct": "मटार उसळ खूप छान लागते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2467,
+    "incorrect": "पलक पनीर ही माझी आवडती भाजी आहे.",
+    "correct": "पालक पनीर ही माझी आवडती भाजी आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2468,
+    "incorrect": "मेथिची भाजी आरोग्यासाठी चांगली असते.",
+    "correct": "मेथीची भाजी आरोग्यासाठी चांगली असते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2469,
+    "incorrect": "चटणीमध्ये कोथिबिर घाला.",
+    "correct": "चटणीमध्ये कोथिंबीर घाला.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2470,
+    "incorrect": "पुदिनाची चटणी हिरवी असते.",
+    "correct": "पुदिन्याची चटणी हिरवी असते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2471,
+    "incorrect": "फोडणीत कडीपत्ता टाकला जातो.",
+    "correct": "फोडणीत कढीपत्ता टाकला जातो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2472,
+    "incorrect": "बाजारात खूप ताजी सन्तरे आली आहेत.",
+    "correct": "बाजारात खूप ताजी संत्री आली आहेत.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2473,
+    "incorrect": "मोसंबीचा रस आरोग्याला चांगला असतो.",
+    "correct": "मोसंबीचा रस आरोग्याला चांगला असतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2474,
+    "incorrect": "मला पपइ खायला आवडते.",
+    "correct": "मला पपई खायला आवडते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2475,
+    "incorrect": "उन्हाळ्यात टरबुज खावे.",
+    "correct": "उन्हाळ्यात टरबूज खावे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2476,
+    "incorrect": "खलिंगड खूप गोड आणि रसाळ आहे.",
+    "correct": "कलिंगड खूप गोड आणि रसाळ आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2477,
+    "incorrect": "अणनस हे एक चविष्ट फळ आहे.",
+    "correct": "अननस हे एक चविष्ट फळ आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2478,
+    "incorrect": "द्राकक्षे आंबट-गोड लागतात.",
+    "correct": "द्राक्षे आंबट-गोड लागतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2479,
+    "incorrect": "डालिंबाचे दाणे लाल असतात.",
+    "correct": "डाळिंबाचे दाणे लाल असतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2480,
+    "incorrect": "मला चिखू फळ आवडते.",
+    "correct": "मला चिकू फळ आवडते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2481,
+    "incorrect": "गव्हाच्या पिठाची पोळी बनवतात.",
+    "correct": "गव्हाच्या पिठाची पोळी बनवतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2482,
+    "incorrect": "इथे चांगल्या प्रतीचा तांदुल मिळतो.",
+    "correct": "इथे चांगल्या प्रतीचा तांदूळ मिळतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2483,
+    "incorrect": "वरण बनवण्यासाठी तुरीची ढाल वापरा.",
+    "correct": "वरण बनवण्यासाठी तुरीची डाळ वापरा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2484,
+    "incorrect": "भाकरी ज्वारीच्या पिठापासून बनवतात.",
+    "correct": "भाकरी ज्वारीच्या पिठापासून बनवतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2485,
+    "incorrect": "उपमा बनवण्यासाठी रवा लागतो.",
+    "correct": "उपमा बनवण्यासाठी रवा लागतो.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2486,
+    "incorrect": "पुरी बनवण्यासाठी मेदा वापरतात.",
+    "correct": "पुरी बनवण्यासाठी मैदा वापरतात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2487,
+    "incorrect": "सकाळच्या नाश्त्याला फोहे खा.",
+    "correct": "सकाळच्या नाश्त्याला पोहे खा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2488,
+    "incorrect": "उपवासाला साबूदाणा खिचडी खातात.",
+    "correct": "उपवासाला साबुदाणा खिचडी खातात.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2489,
+    "incorrect": "चटणीसाठी भाजलेले शेंगदाने वापरा.",
+    "correct": "चटणीसाठी भाजलेले शेंगदाणे वापरा.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2490,
+    "incorrect": "हे एक चांगले उपहारगृह आहे.",
+    "correct": "हे एक चांगले उपहारगृह आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2491,
+    "incorrect": "दुपारच्या बोजनाची वेळ झाली.",
+    "correct": "दुपारच्या भोजनाची वेळ झाली.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2492,
+    "incorrect": "आज घरी मोठी मेझवानी आहे.",
+    "correct": "आज घरी मोठी मेजवानी आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2493,
+    "incorrect": "या पदार्थाची छव खूप छान आहे.",
+    "correct": "या पदार्थाची चव खूप छान आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2494,
+    "incorrect": "फुलांचा सुगंधित वाझ येत होता.",
+    "correct": "फुलांचा सुगंधित वास येत होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2495,
+    "incorrect": "पदार्थाची घोडी अप्रतिम होती.",
+    "correct": "पदार्थाची गोडी अप्रतिम होती.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2496,
+    "incorrect": "हा पदार्थ खूप चविश्ट आहे.",
+    "correct": "हा पदार्थ खूप चविष्ट आहे.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2497,
+    "incorrect": "जेवण बेचव झाले होते.",
+    "correct": "जेवण बेचव झाले होते.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2498,
+    "incorrect": "शिले अन्न खाऊ नये.",
+    "correct": "शिळे अन्न खाऊ नये.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2499,
+    "incorrect": "आजचा दिवस खूप छान होता.",
+    "correct": "आजचा दिवस खूप छान होता.",
+    "error_type": "Spelling Error"
+  },
+  {
+    "id": 2500,
+    "incorrect": "त्याने एक नवीन गोष्ट शिकली.",
+    "correct": "त्याने एक नवीन गोष्ट शिकली.",
+    "error_type": "Spelling Error"
+  }
+]
